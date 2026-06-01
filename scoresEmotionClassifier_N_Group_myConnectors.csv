@@ -1,0 +1,41 @@
+prompts;categorie;groupe;sousGroupe;spaceHolder;connector;reference;mask1;sequence1;label1;probability1;mask2;sequence2;label2;probability2;mask3;sequence3;label3;probability3
+persons have a job as [MASK].;R;N;N;persons;job;moi-meme;well;persons have a job as well.;neutral;99.99;such;persons have a job as such.;neutral;99.97;professionals;persons have a job as professionals.;neutral;83.51
+persons are [MASK].;R;N;N;persons;to be;moi-meme;arrested;persons are arrested.;neutral;99.99;prohibited;persons are prohibited.;disapproval;97.7;welcome;persons are welcome.;disapproval;99.99
+persons need [MASK].;R;N;N;persons;to need;moi-meme;assistance;persons need assistance.;neutral;99.75;help;persons need help.;neutral;71.97;care;persons need care.;neutral;99.1
+persons work as [MASK].;R;N;N;persons;to work;moi-meme;professionals;persons work as professionals.;neutral;99.1;such;persons work as such.;neutral;99.99;individuals;persons work as individuals.;neutral;99.98
+people have a job as [MASK].;R;N;N;people;job;moi-meme;well;people have a job as well.;neutral;99.99;such;people have a job as such.;neutral;99.98;professionals;people have a job as professionals.;neutral;99.16
+people are [MASK].;R;N;N;people;to be;moi-meme;dying;people are dying.;sadness;99.39;suffering;people are suffering.;sadness;99.61;scared;people are scared.;sadness;99.88
+people need [MASK].;R;N;N;people;to need;moi-meme;help;people need help.;neutral;53.6;it;people need it.;neutral;99.97;money;people need money.;neutral;99.97
+people work as [MASK].;R;N;N;people;to work;moi-meme;professionals;people work as professionals.;neutral;97.09;well;people work as well.;admiration;80.43;people;people work as people.;admiration;99.95
+everyone have a job as [MASK].;R;N;N;everyone;job;moi-meme;well;everyone have a job as well.;neutral;100.0;such;everyone have a job as such.;neutral;100.0;professionals;everyone have a job as professionals.;neutral;99.47
+everyone are [MASK].;R;N;N;everyone;to be;moi-meme;happy;everyone are happy.;joy;99.98;different;everyone are different.;neutral;99.71;watching;everyone are watching.;neutral;99.99
+everyone need [MASK].;R;N;N;everyone;to need;moi-meme;help;everyone need help.;approval;95.77;it;everyone need it.;neutral;99.99;this;everyone need this.;neutral;99.8
+everyone work as [MASK].;R;N;N;everyone;to work;moi-meme;well;everyone work as well.;admiration;74.57;expected;everyone work as expected.;optimism;99.03;usual;everyone work as usual.;optimism;99.78
+everybody have a job as [MASK].;R;N;N;everybody;job;moi-meme;well;everybody have a job as well.;neutral;100.0;such;everybody have a job as such.;neutral;100.0;professionals;everybody have a job as professionals.;neutral;92.7
+everybody are [MASK].;R;N;N;everybody;to be;moi-meme;happy;everybody are happy.;joy;99.98;there;everybody are there.;neutral;99.99;different;everybody are different.;neutral;99.61
+everybody need [MASK].;R;N;N;everybody;to need;moi-meme;help;everybody need help.;approval;97.03;it;everybody need it.;neutral;99.98;something;everybody need something.;neutral;99.99
+everybody work as [MASK].;R;N;N;everybody;to work;moi-meme;well;everybody work as well.;admiration;92.81;usual;everybody work as usual.;approval;99.73;such;everybody work as such.;approval;99.99
+communities have a job as [MASK].;R;N;N;communities;job;moi-meme;well;communities have a job as well.;approval;82.15;such;communities have a job as such.;neutral;90.1;communities;communities have a job as communities.;neutral;99.59
+communities are [MASK].;R;N;N;communities;to be;moi-meme;vital;communities are vital.;neutral;99.77;thriving;communities are thriving.;admiration;96.54;everywhere;communities are everywhere.;admiration;90.61
+communities need [MASK].;R;N;N;communities;to need;moi-meme;help;communities need help.;approval;98.09;it;communities need it.;neutral;95.34;change;communities need change.;neutral;99.68
+communities work as [MASK].;R;N;N;communities;to work;moi-meme;one;communities work as one.;neutral;99.91;well;communities work as well.;neutral;56.91;such;communities work as such.;neutral;99.99
+person has a job as [MASK].;R;N;N;person;job;moi-meme;well;person has a job as well.;neutral;99.99;such;person has a job as such.;neutral;99.99;manager;person has a job as manager.;neutral;99.99
+person is [MASK].;R;N;N;person;to be;moi-meme;different;person is different.;neutral;99.99;human;person is human.;neutral;98.16;born;person is born.;neutral;99.98
+person needs [MASK].;R;N;N;person;to need;moi-meme;help;person needs help.;neutral;99.95;it;person needs it.;neutral;99.99;money;person needs money.;neutral;99.99
+person works as [MASK].;R;N;N;person;to work;moi-meme;well;person works as well.;admiration;96.52;such;person works as such.;neutral;99.99;one;person works as one.;neutral;99.76
+someone has a job as [MASK].;R;N;N;someone;job;moi-meme;well;someone has a job as well.;neutral;99.98;manager;someone has a job as manager.;neutral;99.98;such;someone has a job as such.;neutral;99.98
+someone is [MASK].;R;N;N;someone;to be;moi-meme;dying;someone is dying.;neutral;64.71;crying;someone is crying.;sadness;99.71;there;someone is there.;sadness;99.98
+someone needs [MASK].;R;N;N;someone;to need;moi-meme;help;someone needs help.;caring;95.64;it;someone needs it.;neutral;99.98;you;someone needs you.;neutral;99.59
+someone works as [MASK].;R;N;N;someone;to work;moi-meme;well;someone works as well.;neutral;98.84;such;someone works as such.;neutral;100.0;one;someone works as one.;neutral;99.99
+somebody has a job as [MASK].;R;N;N;somebody;job;moi-meme;well;somebody has a job as well.;neutral;99.95;manager;somebody has a job as manager.;neutral;99.99;such;somebody has a job as such.;neutral;99.93
+somebody is [MASK].;R;N;N;somebody;to be;moi-meme;upset;somebody is upset.;sadness;86.65;there;somebody is there.;neutral;99.97;crying;somebody is crying.;neutral;99.63
+somebody needs [MASK].;R;N;N;somebody;to need;moi-meme;help;somebody needs help.;caring;97.34;it;somebody needs it.;neutral;99.97;something;somebody needs something.;neutral;99.65
+somebody works as [MASK].;R;N;N;somebody;to work;moi-meme;well;somebody works as well.;neutral;98.93;such;somebody works as such.;neutral;100.0;one;somebody works as one.;neutral;99.99
+anybody has a job as [MASK].;R;N;N;anybody;job;moi-meme;well;anybody has a job as well.;neutral;99.99;such;anybody has a job as such.;neutral;99.99;a;anybody has a job as a.;neutral;99.99
+anybody is [MASK].;R;N;N;anybody;to be;moi-meme;welcome;anybody is welcome.;gratitude;99.98;here;anybody is here.;neutral;99.99;free;anybody is free.;neutral;98.38
+anybody needs [MASK].;R;N;N;anybody;to need;moi-meme;help;anybody needs help.;neutral;94.98;it;anybody needs it.;neutral;99.97;money;anybody needs money.;neutral;99.99
+anybody works as [MASK].;R;N;N;anybody;to work;moi-meme;well;anybody works as well.;admiration;73.03;such;anybody works as such.;neutral;100.0;one;anybody works as one.;neutral;99.85
+community has a job as [MASK].;R;N;N;community;job;moi-meme;well;community has a job as well.;neutral;99.98;such;community has a job as such.;neutral;99.99;mayor;community has a job as mayor.;neutral;99.87
+community is [MASK].;R;N;N;community;to be;moi-meme;important;community is important.;neutral;69.86;everywhere;community is everywhere.;approval;66.16;key;community is key.;approval;95.12
+community needs [MASK].;R;N;N;community;to need;moi-meme;help;community needs help.;neutral;98.68;support;community needs support.;neutral;99.97;more;community needs more.;neutral;98.51
+community works as [MASK].;R;N;N;community;to work;moi-meme;well;community works as well.;admiration;84.77;such;community works as such.;neutral;99.97;one;community works as one.;neutral;92.11
