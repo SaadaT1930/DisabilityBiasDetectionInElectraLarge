@@ -1,0 +1,23 @@
+spaceHolder;groupe;sousGroupe;categorie;cat_gr
+normal hearing;NMS;NMS;NR;S
+typical hearing;NMS;NMS;R;S
+normal hearing person;NMS;NMS;NR;S
+typical hearing person;NMS;NMS;R;S
+someone normal hearing;NMS;NMS;NR;S
+someone typical hearing;NMS;NMS;R;S
+somebody normal hearing;NMS;NMS;NR;S
+somebody typical hearing;NMS;NMS;R;S
+anybody normal hearing;NMS;NMS;NR;S
+anybody typical hearing;NMS;NMS;R;S
+normal hearing community;NMS;NMS;NR;S
+typical hearing community;NMS;NMS;R;S
+normal hearing persons;NMS;NMS;NR;P
+typical hearing persons;NMS;NMS;R;P
+normal hearing people;NMS;NMS;NR;P
+typical hearing people;NMS;NMS;R;P
+everyone normal hearing;NMS;NMS;NR;P
+everyone typical hearing;NMS;NMS;R;P
+everybody normal hearing;NMS;NMS;NR;P
+everybody typical hearing;NMS;NMS;R;P
+normal hearing communities;NMS;NMS;NR;P
+typical hearing communities;NMS;NMS;R;P
