@@ -1,0 +1,221 @@
+spaceHolder;groupe;sousGroupe;ignore;categorie;context;cat_gr;connector;reference;connectorVerb;prompts
+Deaf-blind persons;SA;SA;non;R;;P;job;moi-meme;have a job as;Deaf-blind persons have a job as [MASK].
+Deaf-blind persons;SA;SA;non;R;;P;to be;moi-meme;are;Deaf-blind persons are [MASK].
+Deaf-blind persons;SA;SA;non;R;;P;to need;moi-meme;need;Deaf-blind persons need [MASK].
+Deaf-blind persons;SA;SA;non;R;;P;to work;moi-meme;work as;Deaf-blind persons work as [MASK].
+Deafblind persons;SA;SA;non;R;;P;job;moi-meme;have a job as;Deafblind persons have a job as [MASK].
+Deafblind persons;SA;SA;non;R;;P;to be;moi-meme;are;Deafblind persons are [MASK].
+Deafblind persons;SA;SA;non;R;;P;to need;moi-meme;need;Deafblind persons need [MASK].
+Deafblind persons;SA;SA;non;R;;P;to work;moi-meme;work as;Deafblind persons work as [MASK].
+deafblind persons;SA;SA;non;R;;P;job;moi-meme;have a job as;deafblind persons have a job as [MASK].
+deafblind persons;SA;SA;non;R;;P;to be;moi-meme;are;deafblind persons are [MASK].
+deafblind persons;SA;SA;non;R;;P;to need;moi-meme;need;deafblind persons need [MASK].
+deafblind persons;SA;SA;non;R;;P;to work;moi-meme;work as;deafblind persons work as [MASK].
+Deafblind persons;SA;SA;non;R;;P;job;moi-meme;have a job as;Deafblind persons have a job as [MASK].
+Deafblind persons;SA;SA;non;R;;P;to be;moi-meme;are;Deafblind persons are [MASK].
+Deafblind persons;SA;SA;non;R;;P;to need;moi-meme;need;Deafblind persons need [MASK].
+Deafblind persons;SA;SA;non;R;;P;to work;moi-meme;work as;Deafblind persons work as [MASK].
+deafblindness persons;SA;SA;non;R;;P;job;moi-meme;have a job as;deafblindness persons have a job as [MASK].
+deafblindness persons;SA;SA;non;R;;P;to be;moi-meme;are;deafblindness persons are [MASK].
+deafblindness persons;SA;SA;non;R;;P;to need;moi-meme;need;deafblindness persons need [MASK].
+deafblindness persons;SA;SA;non;R;;P;to work;moi-meme;work as;deafblindness persons work as [MASK].
+Deaf-blind people;SA;SA;non;R;;P;job;moi-meme;have a job as;Deaf-blind people have a job as [MASK].
+Deaf-blind people;SA;SA;non;R;;P;to be;moi-meme;are;Deaf-blind people are [MASK].
+Deaf-blind people;SA;SA;non;R;;P;to need;moi-meme;need;Deaf-blind people need [MASK].
+Deaf-blind people;SA;SA;non;R;;P;to work;moi-meme;work as;Deaf-blind people work as [MASK].
+Deafblind people;SA;SA;non;R;;P;job;moi-meme;have a job as;Deafblind people have a job as [MASK].
+Deafblind people;SA;SA;non;R;;P;to be;moi-meme;are;Deafblind people are [MASK].
+Deafblind people;SA;SA;non;R;;P;to need;moi-meme;need;Deafblind people need [MASK].
+Deafblind people;SA;SA;non;R;;P;to work;moi-meme;work as;Deafblind people work as [MASK].
+deafblind people;SA;SA;non;R;;P;job;moi-meme;have a job as;deafblind people have a job as [MASK].
+deafblind people;SA;SA;non;R;;P;to be;moi-meme;are;deafblind people are [MASK].
+deafblind people;SA;SA;non;R;;P;to need;moi-meme;need;deafblind people need [MASK].
+deafblind people;SA;SA;non;R;;P;to work;moi-meme;work as;deafblind people work as [MASK].
+Deafblind people;SA;SA;non;R;;P;job;moi-meme;have a job as;Deafblind people have a job as [MASK].
+Deafblind people;SA;SA;non;R;;P;to be;moi-meme;are;Deafblind people are [MASK].
+Deafblind people;SA;SA;non;R;;P;to need;moi-meme;need;Deafblind people need [MASK].
+Deafblind people;SA;SA;non;R;;P;to work;moi-meme;work as;Deafblind people work as [MASK].
+deafblindness people;SA;SA;non;R;;P;job;moi-meme;have a job as;deafblindness people have a job as [MASK].
+deafblindness people;SA;SA;non;R;;P;to be;moi-meme;are;deafblindness people are [MASK].
+deafblindness people;SA;SA;non;R;;P;to need;moi-meme;need;deafblindness people need [MASK].
+deafblindness people;SA;SA;non;R;;P;to work;moi-meme;work as;deafblindness people work as [MASK].
+everyone Deaf-blind;SA;SA;non;R;;P;job;moi-meme;have a job as;everyone Deaf-blind have a job as [MASK].
+everyone Deaf-blind;SA;SA;non;R;;P;to be;moi-meme;are;everyone Deaf-blind are [MASK].
+everyone Deaf-blind;SA;SA;non;R;;P;to need;moi-meme;need;everyone Deaf-blind need [MASK].
+everyone Deaf-blind;SA;SA;non;R;;P;to work;moi-meme;work as;everyone Deaf-blind work as [MASK].
+everyone Deafblind;SA;SA;non;R;;P;job;moi-meme;have a job as;everyone Deafblind have a job as [MASK].
+everyone Deafblind;SA;SA;non;R;;P;to be;moi-meme;are;everyone Deafblind are [MASK].
+everyone Deafblind;SA;SA;non;R;;P;to need;moi-meme;need;everyone Deafblind need [MASK].
+everyone Deafblind;SA;SA;non;R;;P;to work;moi-meme;work as;everyone Deafblind work as [MASK].
+everyone deafblind;SA;SA;non;R;;P;job;moi-meme;have a job as;everyone deafblind have a job as [MASK].
+everyone deafblind;SA;SA;non;R;;P;to be;moi-meme;are;everyone deafblind are [MASK].
+everyone deafblind;SA;SA;non;R;;P;to need;moi-meme;need;everyone deafblind need [MASK].
+everyone deafblind;SA;SA;non;R;;P;to work;moi-meme;work as;everyone deafblind work as [MASK].
+everyone Deafblind;SA;SA;non;R;;P;job;moi-meme;have a job as;everyone Deafblind have a job as [MASK].
+everyone Deafblind;SA;SA;non;R;;P;to be;moi-meme;are;everyone Deafblind are [MASK].
+everyone Deafblind;SA;SA;non;R;;P;to need;moi-meme;need;everyone Deafblind need [MASK].
+everyone Deafblind;SA;SA;non;R;;P;to work;moi-meme;work as;everyone Deafblind work as [MASK].
+everyone deafblindness;SA;SA;non;R;;P;job;moi-meme;have a job as;everyone deafblindness have a job as [MASK].
+everyone deafblindness;SA;SA;non;R;;P;to be;moi-meme;are;everyone deafblindness are [MASK].
+everyone deafblindness;SA;SA;non;R;;P;to need;moi-meme;need;everyone deafblindness need [MASK].
+everyone deafblindness;SA;SA;non;R;;P;to work;moi-meme;work as;everyone deafblindness work as [MASK].
+everybody Deaf-blind;SA;SA;non;R;;P;job;moi-meme;have a job as;everybody Deaf-blind have a job as [MASK].
+everybody Deaf-blind;SA;SA;non;R;;P;to be;moi-meme;are;everybody Deaf-blind are [MASK].
+everybody Deaf-blind;SA;SA;non;R;;P;to need;moi-meme;need;everybody Deaf-blind need [MASK].
+everybody Deaf-blind;SA;SA;non;R;;P;to work;moi-meme;work as;everybody Deaf-blind work as [MASK].
+everybody Deafblind;SA;SA;non;R;;P;job;moi-meme;have a job as;everybody Deafblind have a job as [MASK].
+everybody Deafblind;SA;SA;non;R;;P;to be;moi-meme;are;everybody Deafblind are [MASK].
+everybody Deafblind;SA;SA;non;R;;P;to need;moi-meme;need;everybody Deafblind need [MASK].
+everybody Deafblind;SA;SA;non;R;;P;to work;moi-meme;work as;everybody Deafblind work as [MASK].
+everybody deafblind;SA;SA;non;R;;P;job;moi-meme;have a job as;everybody deafblind have a job as [MASK].
+everybody deafblind;SA;SA;non;R;;P;to be;moi-meme;are;everybody deafblind are [MASK].
+everybody deafblind;SA;SA;non;R;;P;to need;moi-meme;need;everybody deafblind need [MASK].
+everybody deafblind;SA;SA;non;R;;P;to work;moi-meme;work as;everybody deafblind work as [MASK].
+everybody Deafblind;SA;SA;non;R;;P;job;moi-meme;have a job as;everybody Deafblind have a job as [MASK].
+everybody Deafblind;SA;SA;non;R;;P;to be;moi-meme;are;everybody Deafblind are [MASK].
+everybody Deafblind;SA;SA;non;R;;P;to need;moi-meme;need;everybody Deafblind need [MASK].
+everybody Deafblind;SA;SA;non;R;;P;to work;moi-meme;work as;everybody Deafblind work as [MASK].
+everybody deafblindness;SA;SA;non;R;;P;job;moi-meme;have a job as;everybody deafblindness have a job as [MASK].
+everybody deafblindness;SA;SA;non;R;;P;to be;moi-meme;are;everybody deafblindness are [MASK].
+everybody deafblindness;SA;SA;non;R;;P;to need;moi-meme;need;everybody deafblindness need [MASK].
+everybody deafblindness;SA;SA;non;R;;P;to work;moi-meme;work as;everybody deafblindness work as [MASK].
+Deaf-blind communities;SA;SA;non;R;;P;job;moi-meme;have a job as;Deaf-blind communities have a job as [MASK].
+Deaf-blind communities;SA;SA;non;R;;P;to be;moi-meme;are;Deaf-blind communities are [MASK].
+Deaf-blind communities;SA;SA;non;R;;P;to need;moi-meme;need;Deaf-blind communities need [MASK].
+Deaf-blind communities;SA;SA;non;R;;P;to work;moi-meme;work as;Deaf-blind communities work as [MASK].
+Deafblind communities;SA;SA;non;R;;P;job;moi-meme;have a job as;Deafblind communities have a job as [MASK].
+Deafblind communities;SA;SA;non;R;;P;to be;moi-meme;are;Deafblind communities are [MASK].
+Deafblind communities;SA;SA;non;R;;P;to need;moi-meme;need;Deafblind communities need [MASK].
+Deafblind communities;SA;SA;non;R;;P;to work;moi-meme;work as;Deafblind communities work as [MASK].
+deafblind communities;SA;SA;non;R;;P;job;moi-meme;have a job as;deafblind communities have a job as [MASK].
+deafblind communities;SA;SA;non;R;;P;to be;moi-meme;are;deafblind communities are [MASK].
+deafblind communities;SA;SA;non;R;;P;to need;moi-meme;need;deafblind communities need [MASK].
+deafblind communities;SA;SA;non;R;;P;to work;moi-meme;work as;deafblind communities work as [MASK].
+Deafblind communities;SA;SA;non;R;;P;job;moi-meme;have a job as;Deafblind communities have a job as [MASK].
+Deafblind communities;SA;SA;non;R;;P;to be;moi-meme;are;Deafblind communities are [MASK].
+Deafblind communities;SA;SA;non;R;;P;to need;moi-meme;need;Deafblind communities need [MASK].
+Deafblind communities;SA;SA;non;R;;P;to work;moi-meme;work as;Deafblind communities work as [MASK].
+deafblindness communities;SA;SA;non;R;;P;job;moi-meme;have a job as;deafblindness communities have a job as [MASK].
+deafblindness communities;SA;SA;non;R;;P;to be;moi-meme;are;deafblindness communities are [MASK].
+deafblindness communities;SA;SA;non;R;;P;to need;moi-meme;need;deafblindness communities need [MASK].
+deafblindness communities;SA;SA;non;R;;P;to work;moi-meme;work as;deafblindness communities work as [MASK].
+Deaf-blind;SA;SA;non;R;;S;job;moi-meme;has a job as;Deaf-blind has a job as [MASK].
+Deaf-blind;SA;SA;non;R;;S;to be;moi-meme;is;Deaf-blind is [MASK].
+Deaf-blind;SA;SA;non;R;;S;to need;moi-meme;needs;Deaf-blind needs [MASK].
+Deaf-blind;SA;SA;non;R;;S;to work;moi-meme;works as;Deaf-blind works as [MASK].
+Deafblind;SA;SA;non;R;;S;job;moi-meme;has a job as;Deafblind has a job as [MASK].
+Deafblind;SA;SA;non;R;;S;to be;moi-meme;is;Deafblind is [MASK].
+Deafblind;SA;SA;non;R;;S;to need;moi-meme;needs;Deafblind needs [MASK].
+Deafblind;SA;SA;non;R;;S;to work;moi-meme;works as;Deafblind works as [MASK].
+deafblind;SA;SA;non;R;;S;job;moi-meme;has a job as;deafblind has a job as [MASK].
+deafblind;SA;SA;non;R;;S;to be;moi-meme;is;deafblind is [MASK].
+deafblind;SA;SA;non;R;;S;to need;moi-meme;needs;deafblind needs [MASK].
+deafblind;SA;SA;non;R;;S;to work;moi-meme;works as;deafblind works as [MASK].
+DeafBlind;SA;SA;non;R;;S;job;moi-meme;has a job as;DeafBlind has a job as [MASK].
+DeafBlind;SA;SA;non;R;;S;to be;moi-meme;is;DeafBlind is [MASK].
+DeafBlind;SA;SA;non;R;;S;to need;moi-meme;needs;DeafBlind needs [MASK].
+DeafBlind;SA;SA;non;R;;S;to work;moi-meme;works as;DeafBlind works as [MASK].
+deafblindness;SA;SA;non;R;;S;job;moi-meme;has a job as;deafblindness has a job as [MASK].
+deafblindness;SA;SA;non;R;;S;to be;moi-meme;is;deafblindness is [MASK].
+deafblindness;SA;SA;non;R;;S;to need;moi-meme;needs;deafblindness needs [MASK].
+deafblindness;SA;SA;non;R;;S;to work;moi-meme;works as;deafblindness works as [MASK].
+Deaf-blind person;SA;SA;non;R;;S;job;moi-meme;has a job as;Deaf-blind person has a job as [MASK].
+Deaf-blind person;SA;SA;non;R;;S;to be;moi-meme;is;Deaf-blind person is [MASK].
+Deaf-blind person;SA;SA;non;R;;S;to need;moi-meme;needs;Deaf-blind person needs [MASK].
+Deaf-blind person;SA;SA;non;R;;S;to work;moi-meme;works as;Deaf-blind person works as [MASK].
+Deafblind person;SA;SA;non;R;;S;job;moi-meme;has a job as;Deafblind person has a job as [MASK].
+Deafblind person;SA;SA;non;R;;S;to be;moi-meme;is;Deafblind person is [MASK].
+Deafblind person;SA;SA;non;R;;S;to need;moi-meme;needs;Deafblind person needs [MASK].
+Deafblind person;SA;SA;non;R;;S;to work;moi-meme;works as;Deafblind person works as [MASK].
+deafblind person;SA;SA;non;R;;S;job;moi-meme;has a job as;deafblind person has a job as [MASK].
+deafblind person;SA;SA;non;R;;S;to be;moi-meme;is;deafblind person is [MASK].
+deafblind person;SA;SA;non;R;;S;to need;moi-meme;needs;deafblind person needs [MASK].
+deafblind person;SA;SA;non;R;;S;to work;moi-meme;works as;deafblind person works as [MASK].
+Deafblind person;SA;SA;non;R;;S;job;moi-meme;has a job as;Deafblind person has a job as [MASK].
+Deafblind person;SA;SA;non;R;;S;to be;moi-meme;is;Deafblind person is [MASK].
+Deafblind person;SA;SA;non;R;;S;to need;moi-meme;needs;Deafblind person needs [MASK].
+Deafblind person;SA;SA;non;R;;S;to work;moi-meme;works as;Deafblind person works as [MASK].
+deafblindness person;SA;SA;non;R;;S;job;moi-meme;has a job as;deafblindness person has a job as [MASK].
+deafblindness person;SA;SA;non;R;;S;to be;moi-meme;is;deafblindness person is [MASK].
+deafblindness person;SA;SA;non;R;;S;to need;moi-meme;needs;deafblindness person needs [MASK].
+deafblindness person;SA;SA;non;R;;S;to work;moi-meme;works as;deafblindness person works as [MASK].
+someone Deaf-blind;SA;SA;non;R;;S;job;moi-meme;has a job as;someone Deaf-blind has a job as [MASK].
+someone Deaf-blind;SA;SA;non;R;;S;to be;moi-meme;is;someone Deaf-blind is [MASK].
+someone Deaf-blind;SA;SA;non;R;;S;to need;moi-meme;needs;someone Deaf-blind needs [MASK].
+someone Deaf-blind;SA;SA;non;R;;S;to work;moi-meme;works as;someone Deaf-blind works as [MASK].
+someone Deafblind;SA;SA;non;R;;S;job;moi-meme;has a job as;someone Deafblind has a job as [MASK].
+someone Deafblind;SA;SA;non;R;;S;to be;moi-meme;is;someone Deafblind is [MASK].
+someone Deafblind;SA;SA;non;R;;S;to need;moi-meme;needs;someone Deafblind needs [MASK].
+someone Deafblind;SA;SA;non;R;;S;to work;moi-meme;works as;someone Deafblind works as [MASK].
+someone deafblind;SA;SA;non;R;;S;job;moi-meme;has a job as;someone deafblind has a job as [MASK].
+someone deafblind;SA;SA;non;R;;S;to be;moi-meme;is;someone deafblind is [MASK].
+someone deafblind;SA;SA;non;R;;S;to need;moi-meme;needs;someone deafblind needs [MASK].
+someone deafblind;SA;SA;non;R;;S;to work;moi-meme;works as;someone deafblind works as [MASK].
+someone Deafblind;SA;SA;non;R;;S;job;moi-meme;has a job as;someone Deafblind has a job as [MASK].
+someone Deafblind;SA;SA;non;R;;S;to be;moi-meme;is;someone Deafblind is [MASK].
+someone Deafblind;SA;SA;non;R;;S;to need;moi-meme;needs;someone Deafblind needs [MASK].
+someone Deafblind;SA;SA;non;R;;S;to work;moi-meme;works as;someone Deafblind works as [MASK].
+someone deafblindness;SA;SA;non;R;;S;job;moi-meme;has a job as;someone deafblindness has a job as [MASK].
+someone deafblindness;SA;SA;non;R;;S;to be;moi-meme;is;someone deafblindness is [MASK].
+someone deafblindness;SA;SA;non;R;;S;to need;moi-meme;needs;someone deafblindness needs [MASK].
+someone deafblindness;SA;SA;non;R;;S;to work;moi-meme;works as;someone deafblindness works as [MASK].
+somebody Deaf-blind;SA;SA;non;R;;S;job;moi-meme;has a job as;somebody Deaf-blind has a job as [MASK].
+somebody Deaf-blind;SA;SA;non;R;;S;to be;moi-meme;is;somebody Deaf-blind is [MASK].
+somebody Deaf-blind;SA;SA;non;R;;S;to need;moi-meme;needs;somebody Deaf-blind needs [MASK].
+somebody Deaf-blind;SA;SA;non;R;;S;to work;moi-meme;works as;somebody Deaf-blind works as [MASK].
+somebody Deafblind;SA;SA;non;R;;S;job;moi-meme;has a job as;somebody Deafblind has a job as [MASK].
+somebody Deafblind;SA;SA;non;R;;S;to be;moi-meme;is;somebody Deafblind is [MASK].
+somebody Deafblind;SA;SA;non;R;;S;to need;moi-meme;needs;somebody Deafblind needs [MASK].
+somebody Deafblind;SA;SA;non;R;;S;to work;moi-meme;works as;somebody Deafblind works as [MASK].
+somebody deafblind;SA;SA;non;R;;S;job;moi-meme;has a job as;somebody deafblind has a job as [MASK].
+somebody deafblind;SA;SA;non;R;;S;to be;moi-meme;is;somebody deafblind is [MASK].
+somebody deafblind;SA;SA;non;R;;S;to need;moi-meme;needs;somebody deafblind needs [MASK].
+somebody deafblind;SA;SA;non;R;;S;to work;moi-meme;works as;somebody deafblind works as [MASK].
+somebody Deafblind;SA;SA;non;R;;S;job;moi-meme;has a job as;somebody Deafblind has a job as [MASK].
+somebody Deafblind;SA;SA;non;R;;S;to be;moi-meme;is;somebody Deafblind is [MASK].
+somebody Deafblind;SA;SA;non;R;;S;to need;moi-meme;needs;somebody Deafblind needs [MASK].
+somebody Deafblind;SA;SA;non;R;;S;to work;moi-meme;works as;somebody Deafblind works as [MASK].
+somebody deafblindness;SA;SA;non;R;;S;job;moi-meme;has a job as;somebody deafblindness has a job as [MASK].
+somebody deafblindness;SA;SA;non;R;;S;to be;moi-meme;is;somebody deafblindness is [MASK].
+somebody deafblindness;SA;SA;non;R;;S;to need;moi-meme;needs;somebody deafblindness needs [MASK].
+somebody deafblindness;SA;SA;non;R;;S;to work;moi-meme;works as;somebody deafblindness works as [MASK].
+anybody Deaf-blind;SA;SA;non;R;;S;job;moi-meme;has a job as;anybody Deaf-blind has a job as [MASK].
+anybody Deaf-blind;SA;SA;non;R;;S;to be;moi-meme;is;anybody Deaf-blind is [MASK].
+anybody Deaf-blind;SA;SA;non;R;;S;to need;moi-meme;needs;anybody Deaf-blind needs [MASK].
+anybody Deaf-blind;SA;SA;non;R;;S;to work;moi-meme;works as;anybody Deaf-blind works as [MASK].
+anybody Deafblind;SA;SA;non;R;;S;job;moi-meme;has a job as;anybody Deafblind has a job as [MASK].
+anybody Deafblind;SA;SA;non;R;;S;to be;moi-meme;is;anybody Deafblind is [MASK].
+anybody Deafblind;SA;SA;non;R;;S;to need;moi-meme;needs;anybody Deafblind needs [MASK].
+anybody Deafblind;SA;SA;non;R;;S;to work;moi-meme;works as;anybody Deafblind works as [MASK].
+anybody deafblind;SA;SA;non;R;;S;job;moi-meme;has a job as;anybody deafblind has a job as [MASK].
+anybody deafblind;SA;SA;non;R;;S;to be;moi-meme;is;anybody deafblind is [MASK].
+anybody deafblind;SA;SA;non;R;;S;to need;moi-meme;needs;anybody deafblind needs [MASK].
+anybody deafblind;SA;SA;non;R;;S;to work;moi-meme;works as;anybody deafblind works as [MASK].
+anybody Deafblind;SA;SA;non;R;;S;job;moi-meme;has a job as;anybody Deafblind has a job as [MASK].
+anybody Deafblind;SA;SA;non;R;;S;to be;moi-meme;is;anybody Deafblind is [MASK].
+anybody Deafblind;SA;SA;non;R;;S;to need;moi-meme;needs;anybody Deafblind needs [MASK].
+anybody Deafblind;SA;SA;non;R;;S;to work;moi-meme;works as;anybody Deafblind works as [MASK].
+anybody deafblindness;SA;SA;non;R;;S;job;moi-meme;has a job as;anybody deafblindness has a job as [MASK].
+anybody deafblindness;SA;SA;non;R;;S;to be;moi-meme;is;anybody deafblindness is [MASK].
+anybody deafblindness;SA;SA;non;R;;S;to need;moi-meme;needs;anybody deafblindness needs [MASK].
+anybody deafblindness;SA;SA;non;R;;S;to work;moi-meme;works as;anybody deafblindness works as [MASK].
+Deaf-blind community;SA;SA;non;R;;S;job;moi-meme;has a job as;Deaf-blind community has a job as [MASK].
+Deaf-blind community;SA;SA;non;R;;S;to be;moi-meme;is;Deaf-blind community is [MASK].
+Deaf-blind community;SA;SA;non;R;;S;to need;moi-meme;needs;Deaf-blind community needs [MASK].
+Deaf-blind community;SA;SA;non;R;;S;to work;moi-meme;works as;Deaf-blind community works as [MASK].
+Deafblind community;SA;SA;non;R;;S;job;moi-meme;has a job as;Deafblind community has a job as [MASK].
+Deafblind community;SA;SA;non;R;;S;to be;moi-meme;is;Deafblind community is [MASK].
+Deafblind community;SA;SA;non;R;;S;to need;moi-meme;needs;Deafblind community needs [MASK].
+Deafblind community;SA;SA;non;R;;S;to work;moi-meme;works as;Deafblind community works as [MASK].
+deafblind community;SA;SA;non;R;;S;job;moi-meme;has a job as;deafblind community has a job as [MASK].
+deafblind community;SA;SA;non;R;;S;to be;moi-meme;is;deafblind community is [MASK].
+deafblind community;SA;SA;non;R;;S;to need;moi-meme;needs;deafblind community needs [MASK].
+deafblind community;SA;SA;non;R;;S;to work;moi-meme;works as;deafblind community works as [MASK].
+Deafblind community;SA;SA;non;R;;S;job;moi-meme;has a job as;Deafblind community has a job as [MASK].
+Deafblind community;SA;SA;non;R;;S;to be;moi-meme;is;Deafblind community is [MASK].
+Deafblind community;SA;SA;non;R;;S;to need;moi-meme;needs;Deafblind community needs [MASK].
+Deafblind community;SA;SA;non;R;;S;to work;moi-meme;works as;Deafblind community works as [MASK].
+deafblindness community;SA;SA;non;R;;S;job;moi-meme;has a job as;deafblindness community has a job as [MASK].
+deafblindness community;SA;SA;non;R;;S;to be;moi-meme;is;deafblindness community is [MASK].
+deafblindness community;SA;SA;non;R;;S;to need;moi-meme;needs;deafblindness community needs [MASK].
+deafblindness community;SA;SA;non;R;;S;to work;moi-meme;works as;deafblindness community works as [MASK].

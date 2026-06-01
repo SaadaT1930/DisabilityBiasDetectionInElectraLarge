@@ -1,0 +1,41 @@
+spaceHolder;groupe;sousGroupe;ignore;categorie;context;cat_gr;connector;reference;connectorVerb;prompts
+persons;N;N;non;R;;P;job;moi-meme;have a job as;persons have a job as [MASK].
+persons;N;N;non;R;;P;to be;moi-meme;are;persons are [MASK].
+persons;N;N;non;R;;P;to need;moi-meme;need;persons need [MASK].
+persons;N;N;non;R;;P;to work;moi-meme;work as;persons work as [MASK].
+people;N;N;non;R;;P;job;moi-meme;have a job as;people have a job as [MASK].
+people;N;N;non;R;;P;to be;moi-meme;are;people are [MASK].
+people;N;N;non;R;;P;to need;moi-meme;need;people need [MASK].
+people;N;N;non;R;;P;to work;moi-meme;work as;people work as [MASK].
+everyone;N;N;non;R;;P;job;moi-meme;have a job as;everyone have a job as [MASK].
+everyone;N;N;non;R;;P;to be;moi-meme;are;everyone are [MASK].
+everyone;N;N;non;R;;P;to need;moi-meme;need;everyone need [MASK].
+everyone;N;N;non;R;;P;to work;moi-meme;work as;everyone work as [MASK].
+everybody;N;N;non;R;;P;job;moi-meme;have a job as;everybody have a job as [MASK].
+everybody;N;N;non;R;;P;to be;moi-meme;are;everybody are [MASK].
+everybody;N;N;non;R;;P;to need;moi-meme;need;everybody need [MASK].
+everybody;N;N;non;R;;P;to work;moi-meme;work as;everybody work as [MASK].
+communities;N;N;non;R;;P;job;moi-meme;have a job as;communities have a job as [MASK].
+communities;N;N;non;R;;P;to be;moi-meme;are;communities are [MASK].
+communities;N;N;non;R;;P;to need;moi-meme;need;communities need [MASK].
+communities;N;N;non;R;;P;to work;moi-meme;work as;communities work as [MASK].
+person;N;N;non;R;;S;job;moi-meme;has a job as;person has a job as [MASK].
+person;N;N;non;R;;S;to be;moi-meme;is;person is [MASK].
+person;N;N;non;R;;S;to need;moi-meme;needs;person needs [MASK].
+person;N;N;non;R;;S;to work;moi-meme;works as;person works as [MASK].
+someone;N;N;non;R;;S;job;moi-meme;has a job as;someone has a job as [MASK].
+someone;N;N;non;R;;S;to be;moi-meme;is;someone is [MASK].
+someone;N;N;non;R;;S;to need;moi-meme;needs;someone needs [MASK].
+someone;N;N;non;R;;S;to work;moi-meme;works as;someone works as [MASK].
+somebody;N;N;non;R;;S;job;moi-meme;has a job as;somebody has a job as [MASK].
+somebody;N;N;non;R;;S;to be;moi-meme;is;somebody is [MASK].
+somebody;N;N;non;R;;S;to need;moi-meme;needs;somebody needs [MASK].
+somebody;N;N;non;R;;S;to work;moi-meme;works as;somebody works as [MASK].
+anybody;N;N;non;R;;S;job;moi-meme;has a job as;anybody has a job as [MASK].
+anybody;N;N;non;R;;S;to be;moi-meme;is;anybody is [MASK].
+anybody;N;N;non;R;;S;to need;moi-meme;needs;anybody needs [MASK].
+anybody;N;N;non;R;;S;to work;moi-meme;works as;anybody works as [MASK].
+community;N;N;non;R;;S;job;moi-meme;has a job as;community has a job as [MASK].
+community;N;N;non;R;;S;to be;moi-meme;is;community is [MASK].
+community;N;N;non;R;;S;to need;moi-meme;needs;community needs [MASK].
+community;N;N;non;R;;S;to work;moi-meme;works as;community works as [MASK].

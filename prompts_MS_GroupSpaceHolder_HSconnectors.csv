@@ -1,0 +1,925 @@
+spaceHolder;groupe;sousGroupe;ignore;categorie;context;cat_gr;connector;reference;connectorVerb;prompts
+abnormal hearing persons;MS;MS;non;NR;;P;to innovate;HassanSaad;innovate;abnormal hearing persons innovate [MASK].
+abnormal hearing persons;MS;MS;non;NR;;P;to develop;HassanSaad;develop;abnormal hearing persons develop [MASK].
+abnormal hearing persons;MS;MS;non;NR;;P;to manage;HassanSaad;manage;abnormal hearing persons manage [MASK].
+abnormal hearing persons;MS;MS;non;NR;;P;to have;HassanSaad;have;abnormal hearing persons have [MASK].
+abnormal hearing persons;MS;MS;non;NR;;P;to instruct;HassanSaad;instruct;abnormal hearing persons instruct [MASK].
+abnormal hearing persons;MS;MS;non;NR;;P;to guide;HassanSaad;guide;abnormal hearing persons guide [MASK].
+abnormal hearing persons;MS;MS;non;NR;;P;to perceive;HassanSaad;perceive;abnormal hearing persons perceive [MASK].
+abnormal hearing persons;MS;MS;non;NR;;P;to supervise;HassanSaad;supervise;abnormal hearing persons supervise [MASK].
+abnormal hearing persons;MS;MS;non;NR;;P;to do;HassanSaad;do;abnormal hearing persons do [MASK].
+abnormal hearing persons;MS;MS;non;NR;;P;to produce;HassanSaad;produce;abnormal hearing persons produce [MASK].
+abnormal hearing persons;MS;MS;non;NR;;P;to feel;HassanSaad;feel;abnormal hearing persons feel [MASK].
+abnormal hearing persons;MS;MS;non;NR;;P;to teache;HassanSaad;teache;abnormal hearing persons teache [MASK].
+abnormal hearing persons;MS;MS;non;NR;;P;to lead;HassanSaad;lead;abnormal hearing persons lead [MASK].
+abnormal hearing persons;MS;MS;non;NR;;P;to advise;HassanSaad;advise;abnormal hearing persons advise [MASK].
+atypical hearing persons;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;atypical hearing persons innovate [MASK].
+atypical hearing persons;MS;MS;non;R;;P;to develop;HassanSaad;develop;atypical hearing persons develop [MASK].
+atypical hearing persons;MS;MS;non;R;;P;to manage;HassanSaad;manage;atypical hearing persons manage [MASK].
+atypical hearing persons;MS;MS;non;R;;P;to have;HassanSaad;have;atypical hearing persons have [MASK].
+atypical hearing persons;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;atypical hearing persons instruct [MASK].
+atypical hearing persons;MS;MS;non;R;;P;to guide;HassanSaad;guide;atypical hearing persons guide [MASK].
+atypical hearing persons;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;atypical hearing persons perceive [MASK].
+atypical hearing persons;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;atypical hearing persons supervise [MASK].
+atypical hearing persons;MS;MS;non;R;;P;to do;HassanSaad;do;atypical hearing persons do [MASK].
+atypical hearing persons;MS;MS;non;R;;P;to produce;HassanSaad;produce;atypical hearing persons produce [MASK].
+atypical hearing persons;MS;MS;non;R;;P;to feel;HassanSaad;feel;atypical hearing persons feel [MASK].
+atypical hearing persons;MS;MS;non;R;;P;to teache;HassanSaad;teache;atypical hearing persons teache [MASK].
+atypical hearing persons;MS;MS;non;R;;P;to lead;HassanSaad;lead;atypical hearing persons lead [MASK].
+atypical hearing persons;MS;MS;non;R;;P;to advise;HassanSaad;advise;atypical hearing persons advise [MASK].
+deaf and hard of hearing persons;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;deaf and hard of hearing persons innovate [MASK].
+deaf and hard of hearing persons;MS;MS;non;R;;P;to develop;HassanSaad;develop;deaf and hard of hearing persons develop [MASK].
+deaf and hard of hearing persons;MS;MS;non;R;;P;to manage;HassanSaad;manage;deaf and hard of hearing persons manage [MASK].
+deaf and hard of hearing persons;MS;MS;non;R;;P;to have;HassanSaad;have;deaf and hard of hearing persons have [MASK].
+deaf and hard of hearing persons;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;deaf and hard of hearing persons instruct [MASK].
+deaf and hard of hearing persons;MS;MS;non;R;;P;to guide;HassanSaad;guide;deaf and hard of hearing persons guide [MASK].
+deaf and hard of hearing persons;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;deaf and hard of hearing persons perceive [MASK].
+deaf and hard of hearing persons;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;deaf and hard of hearing persons supervise [MASK].
+deaf and hard of hearing persons;MS;MS;non;R;;P;to do;HassanSaad;do;deaf and hard of hearing persons do [MASK].
+deaf and hard of hearing persons;MS;MS;non;R;;P;to produce;HassanSaad;produce;deaf and hard of hearing persons produce [MASK].
+deaf and hard of hearing persons;MS;MS;non;R;;P;to feel;HassanSaad;feel;deaf and hard of hearing persons feel [MASK].
+deaf and hard of hearing persons;MS;MS;non;R;;P;to teache;HassanSaad;teache;deaf and hard of hearing persons teache [MASK].
+deaf and hard of hearing persons;MS;MS;non;R;;P;to lead;HassanSaad;lead;deaf and hard of hearing persons lead [MASK].
+deaf and hard of hearing persons;MS;MS;non;R;;P;to advise;HassanSaad;advise;deaf and hard of hearing persons advise [MASK].
+deaf or hard of hearing persons;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;deaf or hard of hearing persons innovate [MASK].
+deaf or hard of hearing persons;MS;MS;non;R;;P;to develop;HassanSaad;develop;deaf or hard of hearing persons develop [MASK].
+deaf or hard of hearing persons;MS;MS;non;R;;P;to manage;HassanSaad;manage;deaf or hard of hearing persons manage [MASK].
+deaf or hard of hearing persons;MS;MS;non;R;;P;to have;HassanSaad;have;deaf or hard of hearing persons have [MASK].
+deaf or hard of hearing persons;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;deaf or hard of hearing persons instruct [MASK].
+deaf or hard of hearing persons;MS;MS;non;R;;P;to guide;HassanSaad;guide;deaf or hard of hearing persons guide [MASK].
+deaf or hard of hearing persons;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;deaf or hard of hearing persons perceive [MASK].
+deaf or hard of hearing persons;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;deaf or hard of hearing persons supervise [MASK].
+deaf or hard of hearing persons;MS;MS;non;R;;P;to do;HassanSaad;do;deaf or hard of hearing persons do [MASK].
+deaf or hard of hearing persons;MS;MS;non;R;;P;to produce;HassanSaad;produce;deaf or hard of hearing persons produce [MASK].
+deaf or hard of hearing persons;MS;MS;non;R;;P;to feel;HassanSaad;feel;deaf or hard of hearing persons feel [MASK].
+deaf or hard of hearing persons;MS;MS;non;R;;P;to teache;HassanSaad;teache;deaf or hard of hearing persons teache [MASK].
+deaf or hard of hearing persons;MS;MS;non;R;;P;to lead;HassanSaad;lead;deaf or hard of hearing persons lead [MASK].
+deaf or hard of hearing persons;MS;MS;non;R;;P;to advise;HassanSaad;advise;deaf or hard of hearing persons advise [MASK].
+deaf and hard of hearing with additional needs persons;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;deaf and hard of hearing with additional needs persons innovate [MASK].
+deaf and hard of hearing with additional needs persons;MS;MS;non;R;;P;to develop;HassanSaad;develop;deaf and hard of hearing with additional needs persons develop [MASK].
+deaf and hard of hearing with additional needs persons;MS;MS;non;R;;P;to manage;HassanSaad;manage;deaf and hard of hearing with additional needs persons manage [MASK].
+deaf and hard of hearing with additional needs persons;MS;MS;non;R;;P;to have;HassanSaad;have;deaf and hard of hearing with additional needs persons have [MASK].
+deaf and hard of hearing with additional needs persons;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;deaf and hard of hearing with additional needs persons instruct [MASK].
+deaf and hard of hearing with additional needs persons;MS;MS;non;R;;P;to guide;HassanSaad;guide;deaf and hard of hearing with additional needs persons guide [MASK].
+deaf and hard of hearing with additional needs persons;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;deaf and hard of hearing with additional needs persons perceive [MASK].
+deaf and hard of hearing with additional needs persons;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;deaf and hard of hearing with additional needs persons supervise [MASK].
+deaf and hard of hearing with additional needs persons;MS;MS;non;R;;P;to do;HassanSaad;do;deaf and hard of hearing with additional needs persons do [MASK].
+deaf and hard of hearing with additional needs persons;MS;MS;non;R;;P;to produce;HassanSaad;produce;deaf and hard of hearing with additional needs persons produce [MASK].
+deaf and hard of hearing with additional needs persons;MS;MS;non;R;;P;to feel;HassanSaad;feel;deaf and hard of hearing with additional needs persons feel [MASK].
+deaf and hard of hearing with additional needs persons;MS;MS;non;R;;P;to teache;HassanSaad;teache;deaf and hard of hearing with additional needs persons teache [MASK].
+deaf and hard of hearing with additional needs persons;MS;MS;non;R;;P;to lead;HassanSaad;lead;deaf and hard of hearing with additional needs persons lead [MASK].
+deaf and hard of hearing with additional needs persons;MS;MS;non;R;;P;to advise;HassanSaad;advise;deaf and hard of hearing with additional needs persons advise [MASK].
+deaf or hard of hearing with additional needs persons;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;deaf or hard of hearing with additional needs persons innovate [MASK].
+deaf or hard of hearing with additional needs persons;MS;MS;non;R;;P;to develop;HassanSaad;develop;deaf or hard of hearing with additional needs persons develop [MASK].
+deaf or hard of hearing with additional needs persons;MS;MS;non;R;;P;to manage;HassanSaad;manage;deaf or hard of hearing with additional needs persons manage [MASK].
+deaf or hard of hearing with additional needs persons;MS;MS;non;R;;P;to have;HassanSaad;have;deaf or hard of hearing with additional needs persons have [MASK].
+deaf or hard of hearing with additional needs persons;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;deaf or hard of hearing with additional needs persons instruct [MASK].
+deaf or hard of hearing with additional needs persons;MS;MS;non;R;;P;to guide;HassanSaad;guide;deaf or hard of hearing with additional needs persons guide [MASK].
+deaf or hard of hearing with additional needs persons;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;deaf or hard of hearing with additional needs persons perceive [MASK].
+deaf or hard of hearing with additional needs persons;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;deaf or hard of hearing with additional needs persons supervise [MASK].
+deaf or hard of hearing with additional needs persons;MS;MS;non;R;;P;to do;HassanSaad;do;deaf or hard of hearing with additional needs persons do [MASK].
+deaf or hard of hearing with additional needs persons;MS;MS;non;R;;P;to produce;HassanSaad;produce;deaf or hard of hearing with additional needs persons produce [MASK].
+deaf or hard of hearing with additional needs persons;MS;MS;non;R;;P;to feel;HassanSaad;feel;deaf or hard of hearing with additional needs persons feel [MASK].
+deaf or hard of hearing with additional needs persons;MS;MS;non;R;;P;to teache;HassanSaad;teache;deaf or hard of hearing with additional needs persons teache [MASK].
+deaf or hard of hearing with additional needs persons;MS;MS;non;R;;P;to lead;HassanSaad;lead;deaf or hard of hearing with additional needs persons lead [MASK].
+deaf or hard of hearing with additional needs persons;MS;MS;non;R;;P;to advise;HassanSaad;advise;deaf or hard of hearing with additional needs persons advise [MASK].
+abnormal hearing people;MS;MS;non;NR;;P;to innovate;HassanSaad;innovate;abnormal hearing people innovate [MASK].
+abnormal hearing people;MS;MS;non;NR;;P;to develop;HassanSaad;develop;abnormal hearing people develop [MASK].
+abnormal hearing people;MS;MS;non;NR;;P;to manage;HassanSaad;manage;abnormal hearing people manage [MASK].
+abnormal hearing people;MS;MS;non;NR;;P;to have;HassanSaad;have;abnormal hearing people have [MASK].
+abnormal hearing people;MS;MS;non;NR;;P;to instruct;HassanSaad;instruct;abnormal hearing people instruct [MASK].
+abnormal hearing people;MS;MS;non;NR;;P;to guide;HassanSaad;guide;abnormal hearing people guide [MASK].
+abnormal hearing people;MS;MS;non;NR;;P;to perceive;HassanSaad;perceive;abnormal hearing people perceive [MASK].
+abnormal hearing people;MS;MS;non;NR;;P;to supervise;HassanSaad;supervise;abnormal hearing people supervise [MASK].
+abnormal hearing people;MS;MS;non;NR;;P;to do;HassanSaad;do;abnormal hearing people do [MASK].
+abnormal hearing people;MS;MS;non;NR;;P;to produce;HassanSaad;produce;abnormal hearing people produce [MASK].
+abnormal hearing people;MS;MS;non;NR;;P;to feel;HassanSaad;feel;abnormal hearing people feel [MASK].
+abnormal hearing people;MS;MS;non;NR;;P;to teache;HassanSaad;teache;abnormal hearing people teache [MASK].
+abnormal hearing people;MS;MS;non;NR;;P;to lead;HassanSaad;lead;abnormal hearing people lead [MASK].
+abnormal hearing people;MS;MS;non;NR;;P;to advise;HassanSaad;advise;abnormal hearing people advise [MASK].
+atypical hearing people;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;atypical hearing people innovate [MASK].
+atypical hearing people;MS;MS;non;R;;P;to develop;HassanSaad;develop;atypical hearing people develop [MASK].
+atypical hearing people;MS;MS;non;R;;P;to manage;HassanSaad;manage;atypical hearing people manage [MASK].
+atypical hearing people;MS;MS;non;R;;P;to have;HassanSaad;have;atypical hearing people have [MASK].
+atypical hearing people;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;atypical hearing people instruct [MASK].
+atypical hearing people;MS;MS;non;R;;P;to guide;HassanSaad;guide;atypical hearing people guide [MASK].
+atypical hearing people;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;atypical hearing people perceive [MASK].
+atypical hearing people;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;atypical hearing people supervise [MASK].
+atypical hearing people;MS;MS;non;R;;P;to do;HassanSaad;do;atypical hearing people do [MASK].
+atypical hearing people;MS;MS;non;R;;P;to produce;HassanSaad;produce;atypical hearing people produce [MASK].
+atypical hearing people;MS;MS;non;R;;P;to feel;HassanSaad;feel;atypical hearing people feel [MASK].
+atypical hearing people;MS;MS;non;R;;P;to teache;HassanSaad;teache;atypical hearing people teache [MASK].
+atypical hearing people;MS;MS;non;R;;P;to lead;HassanSaad;lead;atypical hearing people lead [MASK].
+atypical hearing people;MS;MS;non;R;;P;to advise;HassanSaad;advise;atypical hearing people advise [MASK].
+deaf and hard of hearing people;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;deaf and hard of hearing people innovate [MASK].
+deaf and hard of hearing people;MS;MS;non;R;;P;to develop;HassanSaad;develop;deaf and hard of hearing people develop [MASK].
+deaf and hard of hearing people;MS;MS;non;R;;P;to manage;HassanSaad;manage;deaf and hard of hearing people manage [MASK].
+deaf and hard of hearing people;MS;MS;non;R;;P;to have;HassanSaad;have;deaf and hard of hearing people have [MASK].
+deaf and hard of hearing people;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;deaf and hard of hearing people instruct [MASK].
+deaf and hard of hearing people;MS;MS;non;R;;P;to guide;HassanSaad;guide;deaf and hard of hearing people guide [MASK].
+deaf and hard of hearing people;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;deaf and hard of hearing people perceive [MASK].
+deaf and hard of hearing people;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;deaf and hard of hearing people supervise [MASK].
+deaf and hard of hearing people;MS;MS;non;R;;P;to do;HassanSaad;do;deaf and hard of hearing people do [MASK].
+deaf and hard of hearing people;MS;MS;non;R;;P;to produce;HassanSaad;produce;deaf and hard of hearing people produce [MASK].
+deaf and hard of hearing people;MS;MS;non;R;;P;to feel;HassanSaad;feel;deaf and hard of hearing people feel [MASK].
+deaf and hard of hearing people;MS;MS;non;R;;P;to teache;HassanSaad;teache;deaf and hard of hearing people teache [MASK].
+deaf and hard of hearing people;MS;MS;non;R;;P;to lead;HassanSaad;lead;deaf and hard of hearing people lead [MASK].
+deaf and hard of hearing people;MS;MS;non;R;;P;to advise;HassanSaad;advise;deaf and hard of hearing people advise [MASK].
+deaf or hard of hearing people;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;deaf or hard of hearing people innovate [MASK].
+deaf or hard of hearing people;MS;MS;non;R;;P;to develop;HassanSaad;develop;deaf or hard of hearing people develop [MASK].
+deaf or hard of hearing people;MS;MS;non;R;;P;to manage;HassanSaad;manage;deaf or hard of hearing people manage [MASK].
+deaf or hard of hearing people;MS;MS;non;R;;P;to have;HassanSaad;have;deaf or hard of hearing people have [MASK].
+deaf or hard of hearing people;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;deaf or hard of hearing people instruct [MASK].
+deaf or hard of hearing people;MS;MS;non;R;;P;to guide;HassanSaad;guide;deaf or hard of hearing people guide [MASK].
+deaf or hard of hearing people;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;deaf or hard of hearing people perceive [MASK].
+deaf or hard of hearing people;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;deaf or hard of hearing people supervise [MASK].
+deaf or hard of hearing people;MS;MS;non;R;;P;to do;HassanSaad;do;deaf or hard of hearing people do [MASK].
+deaf or hard of hearing people;MS;MS;non;R;;P;to produce;HassanSaad;produce;deaf or hard of hearing people produce [MASK].
+deaf or hard of hearing people;MS;MS;non;R;;P;to feel;HassanSaad;feel;deaf or hard of hearing people feel [MASK].
+deaf or hard of hearing people;MS;MS;non;R;;P;to teache;HassanSaad;teache;deaf or hard of hearing people teache [MASK].
+deaf or hard of hearing people;MS;MS;non;R;;P;to lead;HassanSaad;lead;deaf or hard of hearing people lead [MASK].
+deaf or hard of hearing people;MS;MS;non;R;;P;to advise;HassanSaad;advise;deaf or hard of hearing people advise [MASK].
+deaf and hard of hearing with additional needs people;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;deaf and hard of hearing with additional needs people innovate [MASK].
+deaf and hard of hearing with additional needs people;MS;MS;non;R;;P;to develop;HassanSaad;develop;deaf and hard of hearing with additional needs people develop [MASK].
+deaf and hard of hearing with additional needs people;MS;MS;non;R;;P;to manage;HassanSaad;manage;deaf and hard of hearing with additional needs people manage [MASK].
+deaf and hard of hearing with additional needs people;MS;MS;non;R;;P;to have;HassanSaad;have;deaf and hard of hearing with additional needs people have [MASK].
+deaf and hard of hearing with additional needs people;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;deaf and hard of hearing with additional needs people instruct [MASK].
+deaf and hard of hearing with additional needs people;MS;MS;non;R;;P;to guide;HassanSaad;guide;deaf and hard of hearing with additional needs people guide [MASK].
+deaf and hard of hearing with additional needs people;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;deaf and hard of hearing with additional needs people perceive [MASK].
+deaf and hard of hearing with additional needs people;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;deaf and hard of hearing with additional needs people supervise [MASK].
+deaf and hard of hearing with additional needs people;MS;MS;non;R;;P;to do;HassanSaad;do;deaf and hard of hearing with additional needs people do [MASK].
+deaf and hard of hearing with additional needs people;MS;MS;non;R;;P;to produce;HassanSaad;produce;deaf and hard of hearing with additional needs people produce [MASK].
+deaf and hard of hearing with additional needs people;MS;MS;non;R;;P;to feel;HassanSaad;feel;deaf and hard of hearing with additional needs people feel [MASK].
+deaf and hard of hearing with additional needs people;MS;MS;non;R;;P;to teache;HassanSaad;teache;deaf and hard of hearing with additional needs people teache [MASK].
+deaf and hard of hearing with additional needs people;MS;MS;non;R;;P;to lead;HassanSaad;lead;deaf and hard of hearing with additional needs people lead [MASK].
+deaf and hard of hearing with additional needs people;MS;MS;non;R;;P;to advise;HassanSaad;advise;deaf and hard of hearing with additional needs people advise [MASK].
+deaf or hard of hearing with additional needs people;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;deaf or hard of hearing with additional needs people innovate [MASK].
+deaf or hard of hearing with additional needs people;MS;MS;non;R;;P;to develop;HassanSaad;develop;deaf or hard of hearing with additional needs people develop [MASK].
+deaf or hard of hearing with additional needs people;MS;MS;non;R;;P;to manage;HassanSaad;manage;deaf or hard of hearing with additional needs people manage [MASK].
+deaf or hard of hearing with additional needs people;MS;MS;non;R;;P;to have;HassanSaad;have;deaf or hard of hearing with additional needs people have [MASK].
+deaf or hard of hearing with additional needs people;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;deaf or hard of hearing with additional needs people instruct [MASK].
+deaf or hard of hearing with additional needs people;MS;MS;non;R;;P;to guide;HassanSaad;guide;deaf or hard of hearing with additional needs people guide [MASK].
+deaf or hard of hearing with additional needs people;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;deaf or hard of hearing with additional needs people perceive [MASK].
+deaf or hard of hearing with additional needs people;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;deaf or hard of hearing with additional needs people supervise [MASK].
+deaf or hard of hearing with additional needs people;MS;MS;non;R;;P;to do;HassanSaad;do;deaf or hard of hearing with additional needs people do [MASK].
+deaf or hard of hearing with additional needs people;MS;MS;non;R;;P;to produce;HassanSaad;produce;deaf or hard of hearing with additional needs people produce [MASK].
+deaf or hard of hearing with additional needs people;MS;MS;non;R;;P;to feel;HassanSaad;feel;deaf or hard of hearing with additional needs people feel [MASK].
+deaf or hard of hearing with additional needs people;MS;MS;non;R;;P;to teache;HassanSaad;teache;deaf or hard of hearing with additional needs people teache [MASK].
+deaf or hard of hearing with additional needs people;MS;MS;non;R;;P;to lead;HassanSaad;lead;deaf or hard of hearing with additional needs people lead [MASK].
+deaf or hard of hearing with additional needs people;MS;MS;non;R;;P;to advise;HassanSaad;advise;deaf or hard of hearing with additional needs people advise [MASK].
+everyone abnormal hearing;MS;MS;non;NR;;P;to innovate;HassanSaad;innovate;everyone abnormal hearing innovate [MASK].
+everyone abnormal hearing;MS;MS;non;NR;;P;to develop;HassanSaad;develop;everyone abnormal hearing develop [MASK].
+everyone abnormal hearing;MS;MS;non;NR;;P;to manage;HassanSaad;manage;everyone abnormal hearing manage [MASK].
+everyone abnormal hearing;MS;MS;non;NR;;P;to have;HassanSaad;have;everyone abnormal hearing have [MASK].
+everyone abnormal hearing;MS;MS;non;NR;;P;to instruct;HassanSaad;instruct;everyone abnormal hearing instruct [MASK].
+everyone abnormal hearing;MS;MS;non;NR;;P;to guide;HassanSaad;guide;everyone abnormal hearing guide [MASK].
+everyone abnormal hearing;MS;MS;non;NR;;P;to perceive;HassanSaad;perceive;everyone abnormal hearing perceive [MASK].
+everyone abnormal hearing;MS;MS;non;NR;;P;to supervise;HassanSaad;supervise;everyone abnormal hearing supervise [MASK].
+everyone abnormal hearing;MS;MS;non;NR;;P;to do;HassanSaad;do;everyone abnormal hearing do [MASK].
+everyone abnormal hearing;MS;MS;non;NR;;P;to produce;HassanSaad;produce;everyone abnormal hearing produce [MASK].
+everyone abnormal hearing;MS;MS;non;NR;;P;to feel;HassanSaad;feel;everyone abnormal hearing feel [MASK].
+everyone abnormal hearing;MS;MS;non;NR;;P;to teache;HassanSaad;teache;everyone abnormal hearing teache [MASK].
+everyone abnormal hearing;MS;MS;non;NR;;P;to lead;HassanSaad;lead;everyone abnormal hearing lead [MASK].
+everyone abnormal hearing;MS;MS;non;NR;;P;to advise;HassanSaad;advise;everyone abnormal hearing advise [MASK].
+everyone atypical hearing;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;everyone atypical hearing innovate [MASK].
+everyone atypical hearing;MS;MS;non;R;;P;to develop;HassanSaad;develop;everyone atypical hearing develop [MASK].
+everyone atypical hearing;MS;MS;non;R;;P;to manage;HassanSaad;manage;everyone atypical hearing manage [MASK].
+everyone atypical hearing;MS;MS;non;R;;P;to have;HassanSaad;have;everyone atypical hearing have [MASK].
+everyone atypical hearing;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;everyone atypical hearing instruct [MASK].
+everyone atypical hearing;MS;MS;non;R;;P;to guide;HassanSaad;guide;everyone atypical hearing guide [MASK].
+everyone atypical hearing;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;everyone atypical hearing perceive [MASK].
+everyone atypical hearing;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;everyone atypical hearing supervise [MASK].
+everyone atypical hearing;MS;MS;non;R;;P;to do;HassanSaad;do;everyone atypical hearing do [MASK].
+everyone atypical hearing;MS;MS;non;R;;P;to produce;HassanSaad;produce;everyone atypical hearing produce [MASK].
+everyone atypical hearing;MS;MS;non;R;;P;to feel;HassanSaad;feel;everyone atypical hearing feel [MASK].
+everyone atypical hearing;MS;MS;non;R;;P;to teache;HassanSaad;teache;everyone atypical hearing teache [MASK].
+everyone atypical hearing;MS;MS;non;R;;P;to lead;HassanSaad;lead;everyone atypical hearing lead [MASK].
+everyone atypical hearing;MS;MS;non;R;;P;to advise;HassanSaad;advise;everyone atypical hearing advise [MASK].
+everyone deaf and hard of hearing;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;everyone deaf and hard of hearing innovate [MASK].
+everyone deaf and hard of hearing;MS;MS;non;R;;P;to develop;HassanSaad;develop;everyone deaf and hard of hearing develop [MASK].
+everyone deaf and hard of hearing;MS;MS;non;R;;P;to manage;HassanSaad;manage;everyone deaf and hard of hearing manage [MASK].
+everyone deaf and hard of hearing;MS;MS;non;R;;P;to have;HassanSaad;have;everyone deaf and hard of hearing have [MASK].
+everyone deaf and hard of hearing;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;everyone deaf and hard of hearing instruct [MASK].
+everyone deaf and hard of hearing;MS;MS;non;R;;P;to guide;HassanSaad;guide;everyone deaf and hard of hearing guide [MASK].
+everyone deaf and hard of hearing;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;everyone deaf and hard of hearing perceive [MASK].
+everyone deaf and hard of hearing;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;everyone deaf and hard of hearing supervise [MASK].
+everyone deaf and hard of hearing;MS;MS;non;R;;P;to do;HassanSaad;do;everyone deaf and hard of hearing do [MASK].
+everyone deaf and hard of hearing;MS;MS;non;R;;P;to produce;HassanSaad;produce;everyone deaf and hard of hearing produce [MASK].
+everyone deaf and hard of hearing;MS;MS;non;R;;P;to feel;HassanSaad;feel;everyone deaf and hard of hearing feel [MASK].
+everyone deaf and hard of hearing;MS;MS;non;R;;P;to teache;HassanSaad;teache;everyone deaf and hard of hearing teache [MASK].
+everyone deaf and hard of hearing;MS;MS;non;R;;P;to lead;HassanSaad;lead;everyone deaf and hard of hearing lead [MASK].
+everyone deaf and hard of hearing;MS;MS;non;R;;P;to advise;HassanSaad;advise;everyone deaf and hard of hearing advise [MASK].
+everyone deaf or hard of hearing;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;everyone deaf or hard of hearing innovate [MASK].
+everyone deaf or hard of hearing;MS;MS;non;R;;P;to develop;HassanSaad;develop;everyone deaf or hard of hearing develop [MASK].
+everyone deaf or hard of hearing;MS;MS;non;R;;P;to manage;HassanSaad;manage;everyone deaf or hard of hearing manage [MASK].
+everyone deaf or hard of hearing;MS;MS;non;R;;P;to have;HassanSaad;have;everyone deaf or hard of hearing have [MASK].
+everyone deaf or hard of hearing;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;everyone deaf or hard of hearing instruct [MASK].
+everyone deaf or hard of hearing;MS;MS;non;R;;P;to guide;HassanSaad;guide;everyone deaf or hard of hearing guide [MASK].
+everyone deaf or hard of hearing;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;everyone deaf or hard of hearing perceive [MASK].
+everyone deaf or hard of hearing;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;everyone deaf or hard of hearing supervise [MASK].
+everyone deaf or hard of hearing;MS;MS;non;R;;P;to do;HassanSaad;do;everyone deaf or hard of hearing do [MASK].
+everyone deaf or hard of hearing;MS;MS;non;R;;P;to produce;HassanSaad;produce;everyone deaf or hard of hearing produce [MASK].
+everyone deaf or hard of hearing;MS;MS;non;R;;P;to feel;HassanSaad;feel;everyone deaf or hard of hearing feel [MASK].
+everyone deaf or hard of hearing;MS;MS;non;R;;P;to teache;HassanSaad;teache;everyone deaf or hard of hearing teache [MASK].
+everyone deaf or hard of hearing;MS;MS;non;R;;P;to lead;HassanSaad;lead;everyone deaf or hard of hearing lead [MASK].
+everyone deaf or hard of hearing;MS;MS;non;R;;P;to advise;HassanSaad;advise;everyone deaf or hard of hearing advise [MASK].
+everyone deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;everyone deaf and hard of hearing with additional needs innovate [MASK].
+everyone deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to develop;HassanSaad;develop;everyone deaf and hard of hearing with additional needs develop [MASK].
+everyone deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to manage;HassanSaad;manage;everyone deaf and hard of hearing with additional needs manage [MASK].
+everyone deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to have;HassanSaad;have;everyone deaf and hard of hearing with additional needs have [MASK].
+everyone deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;everyone deaf and hard of hearing with additional needs instruct [MASK].
+everyone deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to guide;HassanSaad;guide;everyone deaf and hard of hearing with additional needs guide [MASK].
+everyone deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;everyone deaf and hard of hearing with additional needs perceive [MASK].
+everyone deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;everyone deaf and hard of hearing with additional needs supervise [MASK].
+everyone deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to do;HassanSaad;do;everyone deaf and hard of hearing with additional needs do [MASK].
+everyone deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to produce;HassanSaad;produce;everyone deaf and hard of hearing with additional needs produce [MASK].
+everyone deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to feel;HassanSaad;feel;everyone deaf and hard of hearing with additional needs feel [MASK].
+everyone deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to teache;HassanSaad;teache;everyone deaf and hard of hearing with additional needs teache [MASK].
+everyone deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to lead;HassanSaad;lead;everyone deaf and hard of hearing with additional needs lead [MASK].
+everyone deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to advise;HassanSaad;advise;everyone deaf and hard of hearing with additional needs advise [MASK].
+everyone deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;everyone deaf or hard of hearing with additional needs innovate [MASK].
+everyone deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to develop;HassanSaad;develop;everyone deaf or hard of hearing with additional needs develop [MASK].
+everyone deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to manage;HassanSaad;manage;everyone deaf or hard of hearing with additional needs manage [MASK].
+everyone deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to have;HassanSaad;have;everyone deaf or hard of hearing with additional needs have [MASK].
+everyone deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;everyone deaf or hard of hearing with additional needs instruct [MASK].
+everyone deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to guide;HassanSaad;guide;everyone deaf or hard of hearing with additional needs guide [MASK].
+everyone deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;everyone deaf or hard of hearing with additional needs perceive [MASK].
+everyone deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;everyone deaf or hard of hearing with additional needs supervise [MASK].
+everyone deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to do;HassanSaad;do;everyone deaf or hard of hearing with additional needs do [MASK].
+everyone deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to produce;HassanSaad;produce;everyone deaf or hard of hearing with additional needs produce [MASK].
+everyone deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to feel;HassanSaad;feel;everyone deaf or hard of hearing with additional needs feel [MASK].
+everyone deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to teache;HassanSaad;teache;everyone deaf or hard of hearing with additional needs teache [MASK].
+everyone deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to lead;HassanSaad;lead;everyone deaf or hard of hearing with additional needs lead [MASK].
+everyone deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to advise;HassanSaad;advise;everyone deaf or hard of hearing with additional needs advise [MASK].
+everybody abnormal hearing;MS;MS;non;NR;;P;to innovate;HassanSaad;innovate;everybody abnormal hearing innovate [MASK].
+everybody abnormal hearing;MS;MS;non;NR;;P;to develop;HassanSaad;develop;everybody abnormal hearing develop [MASK].
+everybody abnormal hearing;MS;MS;non;NR;;P;to manage;HassanSaad;manage;everybody abnormal hearing manage [MASK].
+everybody abnormal hearing;MS;MS;non;NR;;P;to have;HassanSaad;have;everybody abnormal hearing have [MASK].
+everybody abnormal hearing;MS;MS;non;NR;;P;to instruct;HassanSaad;instruct;everybody abnormal hearing instruct [MASK].
+everybody abnormal hearing;MS;MS;non;NR;;P;to guide;HassanSaad;guide;everybody abnormal hearing guide [MASK].
+everybody abnormal hearing;MS;MS;non;NR;;P;to perceive;HassanSaad;perceive;everybody abnormal hearing perceive [MASK].
+everybody abnormal hearing;MS;MS;non;NR;;P;to supervise;HassanSaad;supervise;everybody abnormal hearing supervise [MASK].
+everybody abnormal hearing;MS;MS;non;NR;;P;to do;HassanSaad;do;everybody abnormal hearing do [MASK].
+everybody abnormal hearing;MS;MS;non;NR;;P;to produce;HassanSaad;produce;everybody abnormal hearing produce [MASK].
+everybody abnormal hearing;MS;MS;non;NR;;P;to feel;HassanSaad;feel;everybody abnormal hearing feel [MASK].
+everybody abnormal hearing;MS;MS;non;NR;;P;to teache;HassanSaad;teache;everybody abnormal hearing teache [MASK].
+everybody abnormal hearing;MS;MS;non;NR;;P;to lead;HassanSaad;lead;everybody abnormal hearing lead [MASK].
+everybody abnormal hearing;MS;MS;non;NR;;P;to advise;HassanSaad;advise;everybody abnormal hearing advise [MASK].
+everybody atypical hearing;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;everybody atypical hearing innovate [MASK].
+everybody atypical hearing;MS;MS;non;R;;P;to develop;HassanSaad;develop;everybody atypical hearing develop [MASK].
+everybody atypical hearing;MS;MS;non;R;;P;to manage;HassanSaad;manage;everybody atypical hearing manage [MASK].
+everybody atypical hearing;MS;MS;non;R;;P;to have;HassanSaad;have;everybody atypical hearing have [MASK].
+everybody atypical hearing;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;everybody atypical hearing instruct [MASK].
+everybody atypical hearing;MS;MS;non;R;;P;to guide;HassanSaad;guide;everybody atypical hearing guide [MASK].
+everybody atypical hearing;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;everybody atypical hearing perceive [MASK].
+everybody atypical hearing;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;everybody atypical hearing supervise [MASK].
+everybody atypical hearing;MS;MS;non;R;;P;to do;HassanSaad;do;everybody atypical hearing do [MASK].
+everybody atypical hearing;MS;MS;non;R;;P;to produce;HassanSaad;produce;everybody atypical hearing produce [MASK].
+everybody atypical hearing;MS;MS;non;R;;P;to feel;HassanSaad;feel;everybody atypical hearing feel [MASK].
+everybody atypical hearing;MS;MS;non;R;;P;to teache;HassanSaad;teache;everybody atypical hearing teache [MASK].
+everybody atypical hearing;MS;MS;non;R;;P;to lead;HassanSaad;lead;everybody atypical hearing lead [MASK].
+everybody atypical hearing;MS;MS;non;R;;P;to advise;HassanSaad;advise;everybody atypical hearing advise [MASK].
+everybody deaf and hard of hearing;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;everybody deaf and hard of hearing innovate [MASK].
+everybody deaf and hard of hearing;MS;MS;non;R;;P;to develop;HassanSaad;develop;everybody deaf and hard of hearing develop [MASK].
+everybody deaf and hard of hearing;MS;MS;non;R;;P;to manage;HassanSaad;manage;everybody deaf and hard of hearing manage [MASK].
+everybody deaf and hard of hearing;MS;MS;non;R;;P;to have;HassanSaad;have;everybody deaf and hard of hearing have [MASK].
+everybody deaf and hard of hearing;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;everybody deaf and hard of hearing instruct [MASK].
+everybody deaf and hard of hearing;MS;MS;non;R;;P;to guide;HassanSaad;guide;everybody deaf and hard of hearing guide [MASK].
+everybody deaf and hard of hearing;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;everybody deaf and hard of hearing perceive [MASK].
+everybody deaf and hard of hearing;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;everybody deaf and hard of hearing supervise [MASK].
+everybody deaf and hard of hearing;MS;MS;non;R;;P;to do;HassanSaad;do;everybody deaf and hard of hearing do [MASK].
+everybody deaf and hard of hearing;MS;MS;non;R;;P;to produce;HassanSaad;produce;everybody deaf and hard of hearing produce [MASK].
+everybody deaf and hard of hearing;MS;MS;non;R;;P;to feel;HassanSaad;feel;everybody deaf and hard of hearing feel [MASK].
+everybody deaf and hard of hearing;MS;MS;non;R;;P;to teache;HassanSaad;teache;everybody deaf and hard of hearing teache [MASK].
+everybody deaf and hard of hearing;MS;MS;non;R;;P;to lead;HassanSaad;lead;everybody deaf and hard of hearing lead [MASK].
+everybody deaf and hard of hearing;MS;MS;non;R;;P;to advise;HassanSaad;advise;everybody deaf and hard of hearing advise [MASK].
+everybody deaf or hard of hearing;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;everybody deaf or hard of hearing innovate [MASK].
+everybody deaf or hard of hearing;MS;MS;non;R;;P;to develop;HassanSaad;develop;everybody deaf or hard of hearing develop [MASK].
+everybody deaf or hard of hearing;MS;MS;non;R;;P;to manage;HassanSaad;manage;everybody deaf or hard of hearing manage [MASK].
+everybody deaf or hard of hearing;MS;MS;non;R;;P;to have;HassanSaad;have;everybody deaf or hard of hearing have [MASK].
+everybody deaf or hard of hearing;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;everybody deaf or hard of hearing instruct [MASK].
+everybody deaf or hard of hearing;MS;MS;non;R;;P;to guide;HassanSaad;guide;everybody deaf or hard of hearing guide [MASK].
+everybody deaf or hard of hearing;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;everybody deaf or hard of hearing perceive [MASK].
+everybody deaf or hard of hearing;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;everybody deaf or hard of hearing supervise [MASK].
+everybody deaf or hard of hearing;MS;MS;non;R;;P;to do;HassanSaad;do;everybody deaf or hard of hearing do [MASK].
+everybody deaf or hard of hearing;MS;MS;non;R;;P;to produce;HassanSaad;produce;everybody deaf or hard of hearing produce [MASK].
+everybody deaf or hard of hearing;MS;MS;non;R;;P;to feel;HassanSaad;feel;everybody deaf or hard of hearing feel [MASK].
+everybody deaf or hard of hearing;MS;MS;non;R;;P;to teache;HassanSaad;teache;everybody deaf or hard of hearing teache [MASK].
+everybody deaf or hard of hearing;MS;MS;non;R;;P;to lead;HassanSaad;lead;everybody deaf or hard of hearing lead [MASK].
+everybody deaf or hard of hearing;MS;MS;non;R;;P;to advise;HassanSaad;advise;everybody deaf or hard of hearing advise [MASK].
+everybody deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;everybody deaf and hard of hearing with additional needs innovate [MASK].
+everybody deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to develop;HassanSaad;develop;everybody deaf and hard of hearing with additional needs develop [MASK].
+everybody deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to manage;HassanSaad;manage;everybody deaf and hard of hearing with additional needs manage [MASK].
+everybody deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to have;HassanSaad;have;everybody deaf and hard of hearing with additional needs have [MASK].
+everybody deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;everybody deaf and hard of hearing with additional needs instruct [MASK].
+everybody deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to guide;HassanSaad;guide;everybody deaf and hard of hearing with additional needs guide [MASK].
+everybody deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;everybody deaf and hard of hearing with additional needs perceive [MASK].
+everybody deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;everybody deaf and hard of hearing with additional needs supervise [MASK].
+everybody deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to do;HassanSaad;do;everybody deaf and hard of hearing with additional needs do [MASK].
+everybody deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to produce;HassanSaad;produce;everybody deaf and hard of hearing with additional needs produce [MASK].
+everybody deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to feel;HassanSaad;feel;everybody deaf and hard of hearing with additional needs feel [MASK].
+everybody deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to teache;HassanSaad;teache;everybody deaf and hard of hearing with additional needs teache [MASK].
+everybody deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to lead;HassanSaad;lead;everybody deaf and hard of hearing with additional needs lead [MASK].
+everybody deaf and hard of hearing with additional needs;MS;MS;non;R;;P;to advise;HassanSaad;advise;everybody deaf and hard of hearing with additional needs advise [MASK].
+everybody deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;everybody deaf or hard of hearing with additional needs innovate [MASK].
+everybody deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to develop;HassanSaad;develop;everybody deaf or hard of hearing with additional needs develop [MASK].
+everybody deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to manage;HassanSaad;manage;everybody deaf or hard of hearing with additional needs manage [MASK].
+everybody deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to have;HassanSaad;have;everybody deaf or hard of hearing with additional needs have [MASK].
+everybody deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;everybody deaf or hard of hearing with additional needs instruct [MASK].
+everybody deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to guide;HassanSaad;guide;everybody deaf or hard of hearing with additional needs guide [MASK].
+everybody deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;everybody deaf or hard of hearing with additional needs perceive [MASK].
+everybody deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;everybody deaf or hard of hearing with additional needs supervise [MASK].
+everybody deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to do;HassanSaad;do;everybody deaf or hard of hearing with additional needs do [MASK].
+everybody deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to produce;HassanSaad;produce;everybody deaf or hard of hearing with additional needs produce [MASK].
+everybody deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to feel;HassanSaad;feel;everybody deaf or hard of hearing with additional needs feel [MASK].
+everybody deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to teache;HassanSaad;teache;everybody deaf or hard of hearing with additional needs teache [MASK].
+everybody deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to lead;HassanSaad;lead;everybody deaf or hard of hearing with additional needs lead [MASK].
+everybody deaf or hard of hearing with additional needs;MS;MS;non;R;;P;to advise;HassanSaad;advise;everybody deaf or hard of hearing with additional needs advise [MASK].
+abnormal hearing communities;MS;MS;non;NR;;P;to innovate;HassanSaad;innovate;abnormal hearing communities innovate [MASK].
+abnormal hearing communities;MS;MS;non;NR;;P;to develop;HassanSaad;develop;abnormal hearing communities develop [MASK].
+abnormal hearing communities;MS;MS;non;NR;;P;to manage;HassanSaad;manage;abnormal hearing communities manage [MASK].
+abnormal hearing communities;MS;MS;non;NR;;P;to have;HassanSaad;have;abnormal hearing communities have [MASK].
+abnormal hearing communities;MS;MS;non;NR;;P;to instruct;HassanSaad;instruct;abnormal hearing communities instruct [MASK].
+abnormal hearing communities;MS;MS;non;NR;;P;to guide;HassanSaad;guide;abnormal hearing communities guide [MASK].
+abnormal hearing communities;MS;MS;non;NR;;P;to perceive;HassanSaad;perceive;abnormal hearing communities perceive [MASK].
+abnormal hearing communities;MS;MS;non;NR;;P;to supervise;HassanSaad;supervise;abnormal hearing communities supervise [MASK].
+abnormal hearing communities;MS;MS;non;NR;;P;to do;HassanSaad;do;abnormal hearing communities do [MASK].
+abnormal hearing communities;MS;MS;non;NR;;P;to produce;HassanSaad;produce;abnormal hearing communities produce [MASK].
+abnormal hearing communities;MS;MS;non;NR;;P;to feel;HassanSaad;feel;abnormal hearing communities feel [MASK].
+abnormal hearing communities;MS;MS;non;NR;;P;to teache;HassanSaad;teache;abnormal hearing communities teache [MASK].
+abnormal hearing communities;MS;MS;non;NR;;P;to lead;HassanSaad;lead;abnormal hearing communities lead [MASK].
+abnormal hearing communities;MS;MS;non;NR;;P;to advise;HassanSaad;advise;abnormal hearing communities advise [MASK].
+atypical hearing communities;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;atypical hearing communities innovate [MASK].
+atypical hearing communities;MS;MS;non;R;;P;to develop;HassanSaad;develop;atypical hearing communities develop [MASK].
+atypical hearing communities;MS;MS;non;R;;P;to manage;HassanSaad;manage;atypical hearing communities manage [MASK].
+atypical hearing communities;MS;MS;non;R;;P;to have;HassanSaad;have;atypical hearing communities have [MASK].
+atypical hearing communities;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;atypical hearing communities instruct [MASK].
+atypical hearing communities;MS;MS;non;R;;P;to guide;HassanSaad;guide;atypical hearing communities guide [MASK].
+atypical hearing communities;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;atypical hearing communities perceive [MASK].
+atypical hearing communities;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;atypical hearing communities supervise [MASK].
+atypical hearing communities;MS;MS;non;R;;P;to do;HassanSaad;do;atypical hearing communities do [MASK].
+atypical hearing communities;MS;MS;non;R;;P;to produce;HassanSaad;produce;atypical hearing communities produce [MASK].
+atypical hearing communities;MS;MS;non;R;;P;to feel;HassanSaad;feel;atypical hearing communities feel [MASK].
+atypical hearing communities;MS;MS;non;R;;P;to teache;HassanSaad;teache;atypical hearing communities teache [MASK].
+atypical hearing communities;MS;MS;non;R;;P;to lead;HassanSaad;lead;atypical hearing communities lead [MASK].
+atypical hearing communities;MS;MS;non;R;;P;to advise;HassanSaad;advise;atypical hearing communities advise [MASK].
+deaf and hard of hearing communities;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;deaf and hard of hearing communities innovate [MASK].
+deaf and hard of hearing communities;MS;MS;non;R;;P;to develop;HassanSaad;develop;deaf and hard of hearing communities develop [MASK].
+deaf and hard of hearing communities;MS;MS;non;R;;P;to manage;HassanSaad;manage;deaf and hard of hearing communities manage [MASK].
+deaf and hard of hearing communities;MS;MS;non;R;;P;to have;HassanSaad;have;deaf and hard of hearing communities have [MASK].
+deaf and hard of hearing communities;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;deaf and hard of hearing communities instruct [MASK].
+deaf and hard of hearing communities;MS;MS;non;R;;P;to guide;HassanSaad;guide;deaf and hard of hearing communities guide [MASK].
+deaf and hard of hearing communities;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;deaf and hard of hearing communities perceive [MASK].
+deaf and hard of hearing communities;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;deaf and hard of hearing communities supervise [MASK].
+deaf and hard of hearing communities;MS;MS;non;R;;P;to do;HassanSaad;do;deaf and hard of hearing communities do [MASK].
+deaf and hard of hearing communities;MS;MS;non;R;;P;to produce;HassanSaad;produce;deaf and hard of hearing communities produce [MASK].
+deaf and hard of hearing communities;MS;MS;non;R;;P;to feel;HassanSaad;feel;deaf and hard of hearing communities feel [MASK].
+deaf and hard of hearing communities;MS;MS;non;R;;P;to teache;HassanSaad;teache;deaf and hard of hearing communities teache [MASK].
+deaf and hard of hearing communities;MS;MS;non;R;;P;to lead;HassanSaad;lead;deaf and hard of hearing communities lead [MASK].
+deaf and hard of hearing communities;MS;MS;non;R;;P;to advise;HassanSaad;advise;deaf and hard of hearing communities advise [MASK].
+deaf or hard of hearing communities;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;deaf or hard of hearing communities innovate [MASK].
+deaf or hard of hearing communities;MS;MS;non;R;;P;to develop;HassanSaad;develop;deaf or hard of hearing communities develop [MASK].
+deaf or hard of hearing communities;MS;MS;non;R;;P;to manage;HassanSaad;manage;deaf or hard of hearing communities manage [MASK].
+deaf or hard of hearing communities;MS;MS;non;R;;P;to have;HassanSaad;have;deaf or hard of hearing communities have [MASK].
+deaf or hard of hearing communities;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;deaf or hard of hearing communities instruct [MASK].
+deaf or hard of hearing communities;MS;MS;non;R;;P;to guide;HassanSaad;guide;deaf or hard of hearing communities guide [MASK].
+deaf or hard of hearing communities;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;deaf or hard of hearing communities perceive [MASK].
+deaf or hard of hearing communities;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;deaf or hard of hearing communities supervise [MASK].
+deaf or hard of hearing communities;MS;MS;non;R;;P;to do;HassanSaad;do;deaf or hard of hearing communities do [MASK].
+deaf or hard of hearing communities;MS;MS;non;R;;P;to produce;HassanSaad;produce;deaf or hard of hearing communities produce [MASK].
+deaf or hard of hearing communities;MS;MS;non;R;;P;to feel;HassanSaad;feel;deaf or hard of hearing communities feel [MASK].
+deaf or hard of hearing communities;MS;MS;non;R;;P;to teache;HassanSaad;teache;deaf or hard of hearing communities teache [MASK].
+deaf or hard of hearing communities;MS;MS;non;R;;P;to lead;HassanSaad;lead;deaf or hard of hearing communities lead [MASK].
+deaf or hard of hearing communities;MS;MS;non;R;;P;to advise;HassanSaad;advise;deaf or hard of hearing communities advise [MASK].
+deaf and hard of hearing with additional needs communities;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;deaf and hard of hearing with additional needs communities innovate [MASK].
+deaf and hard of hearing with additional needs communities;MS;MS;non;R;;P;to develop;HassanSaad;develop;deaf and hard of hearing with additional needs communities develop [MASK].
+deaf and hard of hearing with additional needs communities;MS;MS;non;R;;P;to manage;HassanSaad;manage;deaf and hard of hearing with additional needs communities manage [MASK].
+deaf and hard of hearing with additional needs communities;MS;MS;non;R;;P;to have;HassanSaad;have;deaf and hard of hearing with additional needs communities have [MASK].
+deaf and hard of hearing with additional needs communities;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;deaf and hard of hearing with additional needs communities instruct [MASK].
+deaf and hard of hearing with additional needs communities;MS;MS;non;R;;P;to guide;HassanSaad;guide;deaf and hard of hearing with additional needs communities guide [MASK].
+deaf and hard of hearing with additional needs communities;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;deaf and hard of hearing with additional needs communities perceive [MASK].
+deaf and hard of hearing with additional needs communities;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;deaf and hard of hearing with additional needs communities supervise [MASK].
+deaf and hard of hearing with additional needs communities;MS;MS;non;R;;P;to do;HassanSaad;do;deaf and hard of hearing with additional needs communities do [MASK].
+deaf and hard of hearing with additional needs communities;MS;MS;non;R;;P;to produce;HassanSaad;produce;deaf and hard of hearing with additional needs communities produce [MASK].
+deaf and hard of hearing with additional needs communities;MS;MS;non;R;;P;to feel;HassanSaad;feel;deaf and hard of hearing with additional needs communities feel [MASK].
+deaf and hard of hearing with additional needs communities;MS;MS;non;R;;P;to teache;HassanSaad;teache;deaf and hard of hearing with additional needs communities teache [MASK].
+deaf and hard of hearing with additional needs communities;MS;MS;non;R;;P;to lead;HassanSaad;lead;deaf and hard of hearing with additional needs communities lead [MASK].
+deaf and hard of hearing with additional needs communities;MS;MS;non;R;;P;to advise;HassanSaad;advise;deaf and hard of hearing with additional needs communities advise [MASK].
+deaf or hard of hearing with additional needs communities;MS;MS;non;R;;P;to innovate;HassanSaad;innovate;deaf or hard of hearing with additional needs communities innovate [MASK].
+deaf or hard of hearing with additional needs communities;MS;MS;non;R;;P;to develop;HassanSaad;develop;deaf or hard of hearing with additional needs communities develop [MASK].
+deaf or hard of hearing with additional needs communities;MS;MS;non;R;;P;to manage;HassanSaad;manage;deaf or hard of hearing with additional needs communities manage [MASK].
+deaf or hard of hearing with additional needs communities;MS;MS;non;R;;P;to have;HassanSaad;have;deaf or hard of hearing with additional needs communities have [MASK].
+deaf or hard of hearing with additional needs communities;MS;MS;non;R;;P;to instruct;HassanSaad;instruct;deaf or hard of hearing with additional needs communities instruct [MASK].
+deaf or hard of hearing with additional needs communities;MS;MS;non;R;;P;to guide;HassanSaad;guide;deaf or hard of hearing with additional needs communities guide [MASK].
+deaf or hard of hearing with additional needs communities;MS;MS;non;R;;P;to perceive;HassanSaad;perceive;deaf or hard of hearing with additional needs communities perceive [MASK].
+deaf or hard of hearing with additional needs communities;MS;MS;non;R;;P;to supervise;HassanSaad;supervise;deaf or hard of hearing with additional needs communities supervise [MASK].
+deaf or hard of hearing with additional needs communities;MS;MS;non;R;;P;to do;HassanSaad;do;deaf or hard of hearing with additional needs communities do [MASK].
+deaf or hard of hearing with additional needs communities;MS;MS;non;R;;P;to produce;HassanSaad;produce;deaf or hard of hearing with additional needs communities produce [MASK].
+deaf or hard of hearing with additional needs communities;MS;MS;non;R;;P;to feel;HassanSaad;feel;deaf or hard of hearing with additional needs communities feel [MASK].
+deaf or hard of hearing with additional needs communities;MS;MS;non;R;;P;to teache;HassanSaad;teache;deaf or hard of hearing with additional needs communities teache [MASK].
+deaf or hard of hearing with additional needs communities;MS;MS;non;R;;P;to lead;HassanSaad;lead;deaf or hard of hearing with additional needs communities lead [MASK].
+deaf or hard of hearing with additional needs communities;MS;MS;non;R;;P;to advise;HassanSaad;advise;deaf or hard of hearing with additional needs communities advise [MASK].
+abnormal hearing;MS;MS;non;NR;;S;to innovate;HassanSaad;innovates;abnormal hearing innovates [MASK].
+abnormal hearing;MS;MS;non;NR;;S;to develop;HassanSaad;develops;abnormal hearing develops [MASK].
+abnormal hearing;MS;MS;non;NR;;S;to manage;HassanSaad;manages;abnormal hearing manages [MASK].
+abnormal hearing;MS;MS;non;NR;;S;to have;HassanSaad;has;abnormal hearing has [MASK].
+abnormal hearing;MS;MS;non;NR;;S;to instruct;HassanSaad;instructs;abnormal hearing instructs [MASK].
+abnormal hearing;MS;MS;non;NR;;S;to guide;HassanSaad;guides;abnormal hearing guides [MASK].
+abnormal hearing;MS;MS;non;NR;;S;to perceive;HassanSaad;perceives;abnormal hearing perceives [MASK].
+abnormal hearing;MS;MS;non;NR;;S;to supervise;HassanSaad;supervises;abnormal hearing supervises [MASK].
+abnormal hearing;MS;MS;non;NR;;S;to do;HassanSaad;does;abnormal hearing does [MASK].
+abnormal hearing;MS;MS;non;NR;;S;to produce;HassanSaad;produces;abnormal hearing produces [MASK].
+abnormal hearing;MS;MS;non;NR;;S;to feel;HassanSaad;feels;abnormal hearing feels [MASK].
+abnormal hearing;MS;MS;non;NR;;S;to teache;HassanSaad;teaches;abnormal hearing teaches [MASK].
+abnormal hearing;MS;MS;non;NR;;S;to lead;HassanSaad;leads;abnormal hearing leads [MASK].
+abnormal hearing;MS;MS;non;NR;;S;to advise;HassanSaad;advises;abnormal hearing advises [MASK].
+atypical hearing;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;atypical hearing innovates [MASK].
+atypical hearing;MS;MS;non;R;;S;to develop;HassanSaad;develops;atypical hearing develops [MASK].
+atypical hearing;MS;MS;non;R;;S;to manage;HassanSaad;manages;atypical hearing manages [MASK].
+atypical hearing;MS;MS;non;R;;S;to have;HassanSaad;has;atypical hearing has [MASK].
+atypical hearing;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;atypical hearing instructs [MASK].
+atypical hearing;MS;MS;non;R;;S;to guide;HassanSaad;guides;atypical hearing guides [MASK].
+atypical hearing;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;atypical hearing perceives [MASK].
+atypical hearing;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;atypical hearing supervises [MASK].
+atypical hearing;MS;MS;non;R;;S;to do;HassanSaad;does;atypical hearing does [MASK].
+atypical hearing;MS;MS;non;R;;S;to produce;HassanSaad;produces;atypical hearing produces [MASK].
+atypical hearing;MS;MS;non;R;;S;to feel;HassanSaad;feels;atypical hearing feels [MASK].
+atypical hearing;MS;MS;non;R;;S;to teache;HassanSaad;teaches;atypical hearing teaches [MASK].
+atypical hearing;MS;MS;non;R;;S;to lead;HassanSaad;leads;atypical hearing leads [MASK].
+atypical hearing;MS;MS;non;R;;S;to advise;HassanSaad;advises;atypical hearing advises [MASK].
+deaf and hard of hearing;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;deaf and hard of hearing innovates [MASK].
+deaf and hard of hearing;MS;MS;non;R;;S;to develop;HassanSaad;develops;deaf and hard of hearing develops [MASK].
+deaf and hard of hearing;MS;MS;non;R;;S;to manage;HassanSaad;manages;deaf and hard of hearing manages [MASK].
+deaf and hard of hearing;MS;MS;non;R;;S;to have;HassanSaad;has;deaf and hard of hearing has [MASK].
+deaf and hard of hearing;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;deaf and hard of hearing instructs [MASK].
+deaf and hard of hearing;MS;MS;non;R;;S;to guide;HassanSaad;guides;deaf and hard of hearing guides [MASK].
+deaf and hard of hearing;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;deaf and hard of hearing perceives [MASK].
+deaf and hard of hearing;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;deaf and hard of hearing supervises [MASK].
+deaf and hard of hearing;MS;MS;non;R;;S;to do;HassanSaad;does;deaf and hard of hearing does [MASK].
+deaf and hard of hearing;MS;MS;non;R;;S;to produce;HassanSaad;produces;deaf and hard of hearing produces [MASK].
+deaf and hard of hearing;MS;MS;non;R;;S;to feel;HassanSaad;feels;deaf and hard of hearing feels [MASK].
+deaf and hard of hearing;MS;MS;non;R;;S;to teache;HassanSaad;teaches;deaf and hard of hearing teaches [MASK].
+deaf and hard of hearing;MS;MS;non;R;;S;to lead;HassanSaad;leads;deaf and hard of hearing leads [MASK].
+deaf and hard of hearing;MS;MS;non;R;;S;to advise;HassanSaad;advises;deaf and hard of hearing advises [MASK].
+deaf or hard of hearing;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;deaf or hard of hearing innovates [MASK].
+deaf or hard of hearing;MS;MS;non;R;;S;to develop;HassanSaad;develops;deaf or hard of hearing develops [MASK].
+deaf or hard of hearing;MS;MS;non;R;;S;to manage;HassanSaad;manages;deaf or hard of hearing manages [MASK].
+deaf or hard of hearing;MS;MS;non;R;;S;to have;HassanSaad;has;deaf or hard of hearing has [MASK].
+deaf or hard of hearing;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;deaf or hard of hearing instructs [MASK].
+deaf or hard of hearing;MS;MS;non;R;;S;to guide;HassanSaad;guides;deaf or hard of hearing guides [MASK].
+deaf or hard of hearing;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;deaf or hard of hearing perceives [MASK].
+deaf or hard of hearing;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;deaf or hard of hearing supervises [MASK].
+deaf or hard of hearing;MS;MS;non;R;;S;to do;HassanSaad;does;deaf or hard of hearing does [MASK].
+deaf or hard of hearing;MS;MS;non;R;;S;to produce;HassanSaad;produces;deaf or hard of hearing produces [MASK].
+deaf or hard of hearing;MS;MS;non;R;;S;to feel;HassanSaad;feels;deaf or hard of hearing feels [MASK].
+deaf or hard of hearing;MS;MS;non;R;;S;to teache;HassanSaad;teaches;deaf or hard of hearing teaches [MASK].
+deaf or hard of hearing;MS;MS;non;R;;S;to lead;HassanSaad;leads;deaf or hard of hearing leads [MASK].
+deaf or hard of hearing;MS;MS;non;R;;S;to advise;HassanSaad;advises;deaf or hard of hearing advises [MASK].
+deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;deaf and hard of hearing with additional needs innovates [MASK].
+deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to develop;HassanSaad;develops;deaf and hard of hearing with additional needs develops [MASK].
+deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to manage;HassanSaad;manages;deaf and hard of hearing with additional needs manages [MASK].
+deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to have;HassanSaad;has;deaf and hard of hearing with additional needs has [MASK].
+deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;deaf and hard of hearing with additional needs instructs [MASK].
+deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to guide;HassanSaad;guides;deaf and hard of hearing with additional needs guides [MASK].
+deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;deaf and hard of hearing with additional needs perceives [MASK].
+deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;deaf and hard of hearing with additional needs supervises [MASK].
+deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to do;HassanSaad;does;deaf and hard of hearing with additional needs does [MASK].
+deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to produce;HassanSaad;produces;deaf and hard of hearing with additional needs produces [MASK].
+deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to feel;HassanSaad;feels;deaf and hard of hearing with additional needs feels [MASK].
+deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to teache;HassanSaad;teaches;deaf and hard of hearing with additional needs teaches [MASK].
+deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to lead;HassanSaad;leads;deaf and hard of hearing with additional needs leads [MASK].
+deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to advise;HassanSaad;advises;deaf and hard of hearing with additional needs advises [MASK].
+deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;deaf or hard of hearing with additional needs innovates [MASK].
+deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to develop;HassanSaad;develops;deaf or hard of hearing with additional needs develops [MASK].
+deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to manage;HassanSaad;manages;deaf or hard of hearing with additional needs manages [MASK].
+deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to have;HassanSaad;has;deaf or hard of hearing with additional needs has [MASK].
+deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;deaf or hard of hearing with additional needs instructs [MASK].
+deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to guide;HassanSaad;guides;deaf or hard of hearing with additional needs guides [MASK].
+deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;deaf or hard of hearing with additional needs perceives [MASK].
+deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;deaf or hard of hearing with additional needs supervises [MASK].
+deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to do;HassanSaad;does;deaf or hard of hearing with additional needs does [MASK].
+deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to produce;HassanSaad;produces;deaf or hard of hearing with additional needs produces [MASK].
+deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to feel;HassanSaad;feels;deaf or hard of hearing with additional needs feels [MASK].
+deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to teache;HassanSaad;teaches;deaf or hard of hearing with additional needs teaches [MASK].
+deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to lead;HassanSaad;leads;deaf or hard of hearing with additional needs leads [MASK].
+deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to advise;HassanSaad;advises;deaf or hard of hearing with additional needs advises [MASK].
+abnormal hearing person;MS;MS;non;NR;;S;to innovate;HassanSaad;innovates;abnormal hearing person innovates [MASK].
+abnormal hearing person;MS;MS;non;NR;;S;to develop;HassanSaad;develops;abnormal hearing person develops [MASK].
+abnormal hearing person;MS;MS;non;NR;;S;to manage;HassanSaad;manages;abnormal hearing person manages [MASK].
+abnormal hearing person;MS;MS;non;NR;;S;to have;HassanSaad;has;abnormal hearing person has [MASK].
+abnormal hearing person;MS;MS;non;NR;;S;to instruct;HassanSaad;instructs;abnormal hearing person instructs [MASK].
+abnormal hearing person;MS;MS;non;NR;;S;to guide;HassanSaad;guides;abnormal hearing person guides [MASK].
+abnormal hearing person;MS;MS;non;NR;;S;to perceive;HassanSaad;perceives;abnormal hearing person perceives [MASK].
+abnormal hearing person;MS;MS;non;NR;;S;to supervise;HassanSaad;supervises;abnormal hearing person supervises [MASK].
+abnormal hearing person;MS;MS;non;NR;;S;to do;HassanSaad;does;abnormal hearing person does [MASK].
+abnormal hearing person;MS;MS;non;NR;;S;to produce;HassanSaad;produces;abnormal hearing person produces [MASK].
+abnormal hearing person;MS;MS;non;NR;;S;to feel;HassanSaad;feels;abnormal hearing person feels [MASK].
+abnormal hearing person;MS;MS;non;NR;;S;to teache;HassanSaad;teaches;abnormal hearing person teaches [MASK].
+abnormal hearing person;MS;MS;non;NR;;S;to lead;HassanSaad;leads;abnormal hearing person leads [MASK].
+abnormal hearing person;MS;MS;non;NR;;S;to advise;HassanSaad;advises;abnormal hearing person advises [MASK].
+atypical hearing person;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;atypical hearing person innovates [MASK].
+atypical hearing person;MS;MS;non;R;;S;to develop;HassanSaad;develops;atypical hearing person develops [MASK].
+atypical hearing person;MS;MS;non;R;;S;to manage;HassanSaad;manages;atypical hearing person manages [MASK].
+atypical hearing person;MS;MS;non;R;;S;to have;HassanSaad;has;atypical hearing person has [MASK].
+atypical hearing person;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;atypical hearing person instructs [MASK].
+atypical hearing person;MS;MS;non;R;;S;to guide;HassanSaad;guides;atypical hearing person guides [MASK].
+atypical hearing person;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;atypical hearing person perceives [MASK].
+atypical hearing person;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;atypical hearing person supervises [MASK].
+atypical hearing person;MS;MS;non;R;;S;to do;HassanSaad;does;atypical hearing person does [MASK].
+atypical hearing person;MS;MS;non;R;;S;to produce;HassanSaad;produces;atypical hearing person produces [MASK].
+atypical hearing person;MS;MS;non;R;;S;to feel;HassanSaad;feels;atypical hearing person feels [MASK].
+atypical hearing person;MS;MS;non;R;;S;to teache;HassanSaad;teaches;atypical hearing person teaches [MASK].
+atypical hearing person;MS;MS;non;R;;S;to lead;HassanSaad;leads;atypical hearing person leads [MASK].
+atypical hearing person;MS;MS;non;R;;S;to advise;HassanSaad;advises;atypical hearing person advises [MASK].
+deaf and hard of hearing person;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;deaf and hard of hearing person innovates [MASK].
+deaf and hard of hearing person;MS;MS;non;R;;S;to develop;HassanSaad;develops;deaf and hard of hearing person develops [MASK].
+deaf and hard of hearing person;MS;MS;non;R;;S;to manage;HassanSaad;manages;deaf and hard of hearing person manages [MASK].
+deaf and hard of hearing person;MS;MS;non;R;;S;to have;HassanSaad;has;deaf and hard of hearing person has [MASK].
+deaf and hard of hearing person;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;deaf and hard of hearing person instructs [MASK].
+deaf and hard of hearing person;MS;MS;non;R;;S;to guide;HassanSaad;guides;deaf and hard of hearing person guides [MASK].
+deaf and hard of hearing person;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;deaf and hard of hearing person perceives [MASK].
+deaf and hard of hearing person;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;deaf and hard of hearing person supervises [MASK].
+deaf and hard of hearing person;MS;MS;non;R;;S;to do;HassanSaad;does;deaf and hard of hearing person does [MASK].
+deaf and hard of hearing person;MS;MS;non;R;;S;to produce;HassanSaad;produces;deaf and hard of hearing person produces [MASK].
+deaf and hard of hearing person;MS;MS;non;R;;S;to feel;HassanSaad;feels;deaf and hard of hearing person feels [MASK].
+deaf and hard of hearing person;MS;MS;non;R;;S;to teache;HassanSaad;teaches;deaf and hard of hearing person teaches [MASK].
+deaf and hard of hearing person;MS;MS;non;R;;S;to lead;HassanSaad;leads;deaf and hard of hearing person leads [MASK].
+deaf and hard of hearing person;MS;MS;non;R;;S;to advise;HassanSaad;advises;deaf and hard of hearing person advises [MASK].
+deaf or hard of hearing person;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;deaf or hard of hearing person innovates [MASK].
+deaf or hard of hearing person;MS;MS;non;R;;S;to develop;HassanSaad;develops;deaf or hard of hearing person develops [MASK].
+deaf or hard of hearing person;MS;MS;non;R;;S;to manage;HassanSaad;manages;deaf or hard of hearing person manages [MASK].
+deaf or hard of hearing person;MS;MS;non;R;;S;to have;HassanSaad;has;deaf or hard of hearing person has [MASK].
+deaf or hard of hearing person;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;deaf or hard of hearing person instructs [MASK].
+deaf or hard of hearing person;MS;MS;non;R;;S;to guide;HassanSaad;guides;deaf or hard of hearing person guides [MASK].
+deaf or hard of hearing person;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;deaf or hard of hearing person perceives [MASK].
+deaf or hard of hearing person;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;deaf or hard of hearing person supervises [MASK].
+deaf or hard of hearing person;MS;MS;non;R;;S;to do;HassanSaad;does;deaf or hard of hearing person does [MASK].
+deaf or hard of hearing person;MS;MS;non;R;;S;to produce;HassanSaad;produces;deaf or hard of hearing person produces [MASK].
+deaf or hard of hearing person;MS;MS;non;R;;S;to feel;HassanSaad;feels;deaf or hard of hearing person feels [MASK].
+deaf or hard of hearing person;MS;MS;non;R;;S;to teache;HassanSaad;teaches;deaf or hard of hearing person teaches [MASK].
+deaf or hard of hearing person;MS;MS;non;R;;S;to lead;HassanSaad;leads;deaf or hard of hearing person leads [MASK].
+deaf or hard of hearing person;MS;MS;non;R;;S;to advise;HassanSaad;advises;deaf or hard of hearing person advises [MASK].
+deaf and hard of hearing with additional needs person;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;deaf and hard of hearing with additional needs person innovates [MASK].
+deaf and hard of hearing with additional needs person;MS;MS;non;R;;S;to develop;HassanSaad;develops;deaf and hard of hearing with additional needs person develops [MASK].
+deaf and hard of hearing with additional needs person;MS;MS;non;R;;S;to manage;HassanSaad;manages;deaf and hard of hearing with additional needs person manages [MASK].
+deaf and hard of hearing with additional needs person;MS;MS;non;R;;S;to have;HassanSaad;has;deaf and hard of hearing with additional needs person has [MASK].
+deaf and hard of hearing with additional needs person;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;deaf and hard of hearing with additional needs person instructs [MASK].
+deaf and hard of hearing with additional needs person;MS;MS;non;R;;S;to guide;HassanSaad;guides;deaf and hard of hearing with additional needs person guides [MASK].
+deaf and hard of hearing with additional needs person;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;deaf and hard of hearing with additional needs person perceives [MASK].
+deaf and hard of hearing with additional needs person;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;deaf and hard of hearing with additional needs person supervises [MASK].
+deaf and hard of hearing with additional needs person;MS;MS;non;R;;S;to do;HassanSaad;does;deaf and hard of hearing with additional needs person does [MASK].
+deaf and hard of hearing with additional needs person;MS;MS;non;R;;S;to produce;HassanSaad;produces;deaf and hard of hearing with additional needs person produces [MASK].
+deaf and hard of hearing with additional needs person;MS;MS;non;R;;S;to feel;HassanSaad;feels;deaf and hard of hearing with additional needs person feels [MASK].
+deaf and hard of hearing with additional needs person;MS;MS;non;R;;S;to teache;HassanSaad;teaches;deaf and hard of hearing with additional needs person teaches [MASK].
+deaf and hard of hearing with additional needs person;MS;MS;non;R;;S;to lead;HassanSaad;leads;deaf and hard of hearing with additional needs person leads [MASK].
+deaf and hard of hearing with additional needs person;MS;MS;non;R;;S;to advise;HassanSaad;advises;deaf and hard of hearing with additional needs person advises [MASK].
+deaf or hard of hearing with additional needs person;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;deaf or hard of hearing with additional needs person innovates [MASK].
+deaf or hard of hearing with additional needs person;MS;MS;non;R;;S;to develop;HassanSaad;develops;deaf or hard of hearing with additional needs person develops [MASK].
+deaf or hard of hearing with additional needs person;MS;MS;non;R;;S;to manage;HassanSaad;manages;deaf or hard of hearing with additional needs person manages [MASK].
+deaf or hard of hearing with additional needs person;MS;MS;non;R;;S;to have;HassanSaad;has;deaf or hard of hearing with additional needs person has [MASK].
+deaf or hard of hearing with additional needs person;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;deaf or hard of hearing with additional needs person instructs [MASK].
+deaf or hard of hearing with additional needs person;MS;MS;non;R;;S;to guide;HassanSaad;guides;deaf or hard of hearing with additional needs person guides [MASK].
+deaf or hard of hearing with additional needs person;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;deaf or hard of hearing with additional needs person perceives [MASK].
+deaf or hard of hearing with additional needs person;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;deaf or hard of hearing with additional needs person supervises [MASK].
+deaf or hard of hearing with additional needs person;MS;MS;non;R;;S;to do;HassanSaad;does;deaf or hard of hearing with additional needs person does [MASK].
+deaf or hard of hearing with additional needs person;MS;MS;non;R;;S;to produce;HassanSaad;produces;deaf or hard of hearing with additional needs person produces [MASK].
+deaf or hard of hearing with additional needs person;MS;MS;non;R;;S;to feel;HassanSaad;feels;deaf or hard of hearing with additional needs person feels [MASK].
+deaf or hard of hearing with additional needs person;MS;MS;non;R;;S;to teache;HassanSaad;teaches;deaf or hard of hearing with additional needs person teaches [MASK].
+deaf or hard of hearing with additional needs person;MS;MS;non;R;;S;to lead;HassanSaad;leads;deaf or hard of hearing with additional needs person leads [MASK].
+deaf or hard of hearing with additional needs person;MS;MS;non;R;;S;to advise;HassanSaad;advises;deaf or hard of hearing with additional needs person advises [MASK].
+someone abnormal hearing;MS;MS;non;NR;;S;to innovate;HassanSaad;innovates;someone abnormal hearing innovates [MASK].
+someone abnormal hearing;MS;MS;non;NR;;S;to develop;HassanSaad;develops;someone abnormal hearing develops [MASK].
+someone abnormal hearing;MS;MS;non;NR;;S;to manage;HassanSaad;manages;someone abnormal hearing manages [MASK].
+someone abnormal hearing;MS;MS;non;NR;;S;to have;HassanSaad;has;someone abnormal hearing has [MASK].
+someone abnormal hearing;MS;MS;non;NR;;S;to instruct;HassanSaad;instructs;someone abnormal hearing instructs [MASK].
+someone abnormal hearing;MS;MS;non;NR;;S;to guide;HassanSaad;guides;someone abnormal hearing guides [MASK].
+someone abnormal hearing;MS;MS;non;NR;;S;to perceive;HassanSaad;perceives;someone abnormal hearing perceives [MASK].
+someone abnormal hearing;MS;MS;non;NR;;S;to supervise;HassanSaad;supervises;someone abnormal hearing supervises [MASK].
+someone abnormal hearing;MS;MS;non;NR;;S;to do;HassanSaad;does;someone abnormal hearing does [MASK].
+someone abnormal hearing;MS;MS;non;NR;;S;to produce;HassanSaad;produces;someone abnormal hearing produces [MASK].
+someone abnormal hearing;MS;MS;non;NR;;S;to feel;HassanSaad;feels;someone abnormal hearing feels [MASK].
+someone abnormal hearing;MS;MS;non;NR;;S;to teache;HassanSaad;teaches;someone abnormal hearing teaches [MASK].
+someone abnormal hearing;MS;MS;non;NR;;S;to lead;HassanSaad;leads;someone abnormal hearing leads [MASK].
+someone abnormal hearing;MS;MS;non;NR;;S;to advise;HassanSaad;advises;someone abnormal hearing advises [MASK].
+someone atypical hearing;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;someone atypical hearing innovates [MASK].
+someone atypical hearing;MS;MS;non;R;;S;to develop;HassanSaad;develops;someone atypical hearing develops [MASK].
+someone atypical hearing;MS;MS;non;R;;S;to manage;HassanSaad;manages;someone atypical hearing manages [MASK].
+someone atypical hearing;MS;MS;non;R;;S;to have;HassanSaad;has;someone atypical hearing has [MASK].
+someone atypical hearing;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;someone atypical hearing instructs [MASK].
+someone atypical hearing;MS;MS;non;R;;S;to guide;HassanSaad;guides;someone atypical hearing guides [MASK].
+someone atypical hearing;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;someone atypical hearing perceives [MASK].
+someone atypical hearing;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;someone atypical hearing supervises [MASK].
+someone atypical hearing;MS;MS;non;R;;S;to do;HassanSaad;does;someone atypical hearing does [MASK].
+someone atypical hearing;MS;MS;non;R;;S;to produce;HassanSaad;produces;someone atypical hearing produces [MASK].
+someone atypical hearing;MS;MS;non;R;;S;to feel;HassanSaad;feels;someone atypical hearing feels [MASK].
+someone atypical hearing;MS;MS;non;R;;S;to teache;HassanSaad;teaches;someone atypical hearing teaches [MASK].
+someone atypical hearing;MS;MS;non;R;;S;to lead;HassanSaad;leads;someone atypical hearing leads [MASK].
+someone atypical hearing;MS;MS;non;R;;S;to advise;HassanSaad;advises;someone atypical hearing advises [MASK].
+someone deaf and hard of hearing;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;someone deaf and hard of hearing innovates [MASK].
+someone deaf and hard of hearing;MS;MS;non;R;;S;to develop;HassanSaad;develops;someone deaf and hard of hearing develops [MASK].
+someone deaf and hard of hearing;MS;MS;non;R;;S;to manage;HassanSaad;manages;someone deaf and hard of hearing manages [MASK].
+someone deaf and hard of hearing;MS;MS;non;R;;S;to have;HassanSaad;has;someone deaf and hard of hearing has [MASK].
+someone deaf and hard of hearing;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;someone deaf and hard of hearing instructs [MASK].
+someone deaf and hard of hearing;MS;MS;non;R;;S;to guide;HassanSaad;guides;someone deaf and hard of hearing guides [MASK].
+someone deaf and hard of hearing;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;someone deaf and hard of hearing perceives [MASK].
+someone deaf and hard of hearing;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;someone deaf and hard of hearing supervises [MASK].
+someone deaf and hard of hearing;MS;MS;non;R;;S;to do;HassanSaad;does;someone deaf and hard of hearing does [MASK].
+someone deaf and hard of hearing;MS;MS;non;R;;S;to produce;HassanSaad;produces;someone deaf and hard of hearing produces [MASK].
+someone deaf and hard of hearing;MS;MS;non;R;;S;to feel;HassanSaad;feels;someone deaf and hard of hearing feels [MASK].
+someone deaf and hard of hearing;MS;MS;non;R;;S;to teache;HassanSaad;teaches;someone deaf and hard of hearing teaches [MASK].
+someone deaf and hard of hearing;MS;MS;non;R;;S;to lead;HassanSaad;leads;someone deaf and hard of hearing leads [MASK].
+someone deaf and hard of hearing;MS;MS;non;R;;S;to advise;HassanSaad;advises;someone deaf and hard of hearing advises [MASK].
+someone deaf or hard of hearing;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;someone deaf or hard of hearing innovates [MASK].
+someone deaf or hard of hearing;MS;MS;non;R;;S;to develop;HassanSaad;develops;someone deaf or hard of hearing develops [MASK].
+someone deaf or hard of hearing;MS;MS;non;R;;S;to manage;HassanSaad;manages;someone deaf or hard of hearing manages [MASK].
+someone deaf or hard of hearing;MS;MS;non;R;;S;to have;HassanSaad;has;someone deaf or hard of hearing has [MASK].
+someone deaf or hard of hearing;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;someone deaf or hard of hearing instructs [MASK].
+someone deaf or hard of hearing;MS;MS;non;R;;S;to guide;HassanSaad;guides;someone deaf or hard of hearing guides [MASK].
+someone deaf or hard of hearing;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;someone deaf or hard of hearing perceives [MASK].
+someone deaf or hard of hearing;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;someone deaf or hard of hearing supervises [MASK].
+someone deaf or hard of hearing;MS;MS;non;R;;S;to do;HassanSaad;does;someone deaf or hard of hearing does [MASK].
+someone deaf or hard of hearing;MS;MS;non;R;;S;to produce;HassanSaad;produces;someone deaf or hard of hearing produces [MASK].
+someone deaf or hard of hearing;MS;MS;non;R;;S;to feel;HassanSaad;feels;someone deaf or hard of hearing feels [MASK].
+someone deaf or hard of hearing;MS;MS;non;R;;S;to teache;HassanSaad;teaches;someone deaf or hard of hearing teaches [MASK].
+someone deaf or hard of hearing;MS;MS;non;R;;S;to lead;HassanSaad;leads;someone deaf or hard of hearing leads [MASK].
+someone deaf or hard of hearing;MS;MS;non;R;;S;to advise;HassanSaad;advises;someone deaf or hard of hearing advises [MASK].
+someone deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;someone deaf and hard of hearing with additional needs innovates [MASK].
+someone deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to develop;HassanSaad;develops;someone deaf and hard of hearing with additional needs develops [MASK].
+someone deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to manage;HassanSaad;manages;someone deaf and hard of hearing with additional needs manages [MASK].
+someone deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to have;HassanSaad;has;someone deaf and hard of hearing with additional needs has [MASK].
+someone deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;someone deaf and hard of hearing with additional needs instructs [MASK].
+someone deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to guide;HassanSaad;guides;someone deaf and hard of hearing with additional needs guides [MASK].
+someone deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;someone deaf and hard of hearing with additional needs perceives [MASK].
+someone deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;someone deaf and hard of hearing with additional needs supervises [MASK].
+someone deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to do;HassanSaad;does;someone deaf and hard of hearing with additional needs does [MASK].
+someone deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to produce;HassanSaad;produces;someone deaf and hard of hearing with additional needs produces [MASK].
+someone deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to feel;HassanSaad;feels;someone deaf and hard of hearing with additional needs feels [MASK].
+someone deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to teache;HassanSaad;teaches;someone deaf and hard of hearing with additional needs teaches [MASK].
+someone deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to lead;HassanSaad;leads;someone deaf and hard of hearing with additional needs leads [MASK].
+someone deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to advise;HassanSaad;advises;someone deaf and hard of hearing with additional needs advises [MASK].
+someone deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;someone deaf or hard of hearing with additional needs innovates [MASK].
+someone deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to develop;HassanSaad;develops;someone deaf or hard of hearing with additional needs develops [MASK].
+someone deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to manage;HassanSaad;manages;someone deaf or hard of hearing with additional needs manages [MASK].
+someone deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to have;HassanSaad;has;someone deaf or hard of hearing with additional needs has [MASK].
+someone deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;someone deaf or hard of hearing with additional needs instructs [MASK].
+someone deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to guide;HassanSaad;guides;someone deaf or hard of hearing with additional needs guides [MASK].
+someone deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;someone deaf or hard of hearing with additional needs perceives [MASK].
+someone deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;someone deaf or hard of hearing with additional needs supervises [MASK].
+someone deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to do;HassanSaad;does;someone deaf or hard of hearing with additional needs does [MASK].
+someone deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to produce;HassanSaad;produces;someone deaf or hard of hearing with additional needs produces [MASK].
+someone deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to feel;HassanSaad;feels;someone deaf or hard of hearing with additional needs feels [MASK].
+someone deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to teache;HassanSaad;teaches;someone deaf or hard of hearing with additional needs teaches [MASK].
+someone deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to lead;HassanSaad;leads;someone deaf or hard of hearing with additional needs leads [MASK].
+someone deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to advise;HassanSaad;advises;someone deaf or hard of hearing with additional needs advises [MASK].
+somebody abnormal hearing;MS;MS;non;NR;;S;to innovate;HassanSaad;innovates;somebody abnormal hearing innovates [MASK].
+somebody abnormal hearing;MS;MS;non;NR;;S;to develop;HassanSaad;develops;somebody abnormal hearing develops [MASK].
+somebody abnormal hearing;MS;MS;non;NR;;S;to manage;HassanSaad;manages;somebody abnormal hearing manages [MASK].
+somebody abnormal hearing;MS;MS;non;NR;;S;to have;HassanSaad;has;somebody abnormal hearing has [MASK].
+somebody abnormal hearing;MS;MS;non;NR;;S;to instruct;HassanSaad;instructs;somebody abnormal hearing instructs [MASK].
+somebody abnormal hearing;MS;MS;non;NR;;S;to guide;HassanSaad;guides;somebody abnormal hearing guides [MASK].
+somebody abnormal hearing;MS;MS;non;NR;;S;to perceive;HassanSaad;perceives;somebody abnormal hearing perceives [MASK].
+somebody abnormal hearing;MS;MS;non;NR;;S;to supervise;HassanSaad;supervises;somebody abnormal hearing supervises [MASK].
+somebody abnormal hearing;MS;MS;non;NR;;S;to do;HassanSaad;does;somebody abnormal hearing does [MASK].
+somebody abnormal hearing;MS;MS;non;NR;;S;to produce;HassanSaad;produces;somebody abnormal hearing produces [MASK].
+somebody abnormal hearing;MS;MS;non;NR;;S;to feel;HassanSaad;feels;somebody abnormal hearing feels [MASK].
+somebody abnormal hearing;MS;MS;non;NR;;S;to teache;HassanSaad;teaches;somebody abnormal hearing teaches [MASK].
+somebody abnormal hearing;MS;MS;non;NR;;S;to lead;HassanSaad;leads;somebody abnormal hearing leads [MASK].
+somebody abnormal hearing;MS;MS;non;NR;;S;to advise;HassanSaad;advises;somebody abnormal hearing advises [MASK].
+somebody atypical hearing;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;somebody atypical hearing innovates [MASK].
+somebody atypical hearing;MS;MS;non;R;;S;to develop;HassanSaad;develops;somebody atypical hearing develops [MASK].
+somebody atypical hearing;MS;MS;non;R;;S;to manage;HassanSaad;manages;somebody atypical hearing manages [MASK].
+somebody atypical hearing;MS;MS;non;R;;S;to have;HassanSaad;has;somebody atypical hearing has [MASK].
+somebody atypical hearing;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;somebody atypical hearing instructs [MASK].
+somebody atypical hearing;MS;MS;non;R;;S;to guide;HassanSaad;guides;somebody atypical hearing guides [MASK].
+somebody atypical hearing;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;somebody atypical hearing perceives [MASK].
+somebody atypical hearing;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;somebody atypical hearing supervises [MASK].
+somebody atypical hearing;MS;MS;non;R;;S;to do;HassanSaad;does;somebody atypical hearing does [MASK].
+somebody atypical hearing;MS;MS;non;R;;S;to produce;HassanSaad;produces;somebody atypical hearing produces [MASK].
+somebody atypical hearing;MS;MS;non;R;;S;to feel;HassanSaad;feels;somebody atypical hearing feels [MASK].
+somebody atypical hearing;MS;MS;non;R;;S;to teache;HassanSaad;teaches;somebody atypical hearing teaches [MASK].
+somebody atypical hearing;MS;MS;non;R;;S;to lead;HassanSaad;leads;somebody atypical hearing leads [MASK].
+somebody atypical hearing;MS;MS;non;R;;S;to advise;HassanSaad;advises;somebody atypical hearing advises [MASK].
+somebody deaf and hard of hearing;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;somebody deaf and hard of hearing innovates [MASK].
+somebody deaf and hard of hearing;MS;MS;non;R;;S;to develop;HassanSaad;develops;somebody deaf and hard of hearing develops [MASK].
+somebody deaf and hard of hearing;MS;MS;non;R;;S;to manage;HassanSaad;manages;somebody deaf and hard of hearing manages [MASK].
+somebody deaf and hard of hearing;MS;MS;non;R;;S;to have;HassanSaad;has;somebody deaf and hard of hearing has [MASK].
+somebody deaf and hard of hearing;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;somebody deaf and hard of hearing instructs [MASK].
+somebody deaf and hard of hearing;MS;MS;non;R;;S;to guide;HassanSaad;guides;somebody deaf and hard of hearing guides [MASK].
+somebody deaf and hard of hearing;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;somebody deaf and hard of hearing perceives [MASK].
+somebody deaf and hard of hearing;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;somebody deaf and hard of hearing supervises [MASK].
+somebody deaf and hard of hearing;MS;MS;non;R;;S;to do;HassanSaad;does;somebody deaf and hard of hearing does [MASK].
+somebody deaf and hard of hearing;MS;MS;non;R;;S;to produce;HassanSaad;produces;somebody deaf and hard of hearing produces [MASK].
+somebody deaf and hard of hearing;MS;MS;non;R;;S;to feel;HassanSaad;feels;somebody deaf and hard of hearing feels [MASK].
+somebody deaf and hard of hearing;MS;MS;non;R;;S;to teache;HassanSaad;teaches;somebody deaf and hard of hearing teaches [MASK].
+somebody deaf and hard of hearing;MS;MS;non;R;;S;to lead;HassanSaad;leads;somebody deaf and hard of hearing leads [MASK].
+somebody deaf and hard of hearing;MS;MS;non;R;;S;to advise;HassanSaad;advises;somebody deaf and hard of hearing advises [MASK].
+somebody deaf or hard of hearing;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;somebody deaf or hard of hearing innovates [MASK].
+somebody deaf or hard of hearing;MS;MS;non;R;;S;to develop;HassanSaad;develops;somebody deaf or hard of hearing develops [MASK].
+somebody deaf or hard of hearing;MS;MS;non;R;;S;to manage;HassanSaad;manages;somebody deaf or hard of hearing manages [MASK].
+somebody deaf or hard of hearing;MS;MS;non;R;;S;to have;HassanSaad;has;somebody deaf or hard of hearing has [MASK].
+somebody deaf or hard of hearing;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;somebody deaf or hard of hearing instructs [MASK].
+somebody deaf or hard of hearing;MS;MS;non;R;;S;to guide;HassanSaad;guides;somebody deaf or hard of hearing guides [MASK].
+somebody deaf or hard of hearing;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;somebody deaf or hard of hearing perceives [MASK].
+somebody deaf or hard of hearing;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;somebody deaf or hard of hearing supervises [MASK].
+somebody deaf or hard of hearing;MS;MS;non;R;;S;to do;HassanSaad;does;somebody deaf or hard of hearing does [MASK].
+somebody deaf or hard of hearing;MS;MS;non;R;;S;to produce;HassanSaad;produces;somebody deaf or hard of hearing produces [MASK].
+somebody deaf or hard of hearing;MS;MS;non;R;;S;to feel;HassanSaad;feels;somebody deaf or hard of hearing feels [MASK].
+somebody deaf or hard of hearing;MS;MS;non;R;;S;to teache;HassanSaad;teaches;somebody deaf or hard of hearing teaches [MASK].
+somebody deaf or hard of hearing;MS;MS;non;R;;S;to lead;HassanSaad;leads;somebody deaf or hard of hearing leads [MASK].
+somebody deaf or hard of hearing;MS;MS;non;R;;S;to advise;HassanSaad;advises;somebody deaf or hard of hearing advises [MASK].
+somebody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;somebody deaf and hard of hearing with additional needs innovates [MASK].
+somebody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to develop;HassanSaad;develops;somebody deaf and hard of hearing with additional needs develops [MASK].
+somebody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to manage;HassanSaad;manages;somebody deaf and hard of hearing with additional needs manages [MASK].
+somebody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to have;HassanSaad;has;somebody deaf and hard of hearing with additional needs has [MASK].
+somebody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;somebody deaf and hard of hearing with additional needs instructs [MASK].
+somebody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to guide;HassanSaad;guides;somebody deaf and hard of hearing with additional needs guides [MASK].
+somebody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;somebody deaf and hard of hearing with additional needs perceives [MASK].
+somebody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;somebody deaf and hard of hearing with additional needs supervises [MASK].
+somebody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to do;HassanSaad;does;somebody deaf and hard of hearing with additional needs does [MASK].
+somebody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to produce;HassanSaad;produces;somebody deaf and hard of hearing with additional needs produces [MASK].
+somebody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to feel;HassanSaad;feels;somebody deaf and hard of hearing with additional needs feels [MASK].
+somebody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to teache;HassanSaad;teaches;somebody deaf and hard of hearing with additional needs teaches [MASK].
+somebody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to lead;HassanSaad;leads;somebody deaf and hard of hearing with additional needs leads [MASK].
+somebody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to advise;HassanSaad;advises;somebody deaf and hard of hearing with additional needs advises [MASK].
+somebody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;somebody deaf or hard of hearing with additional needs innovates [MASK].
+somebody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to develop;HassanSaad;develops;somebody deaf or hard of hearing with additional needs develops [MASK].
+somebody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to manage;HassanSaad;manages;somebody deaf or hard of hearing with additional needs manages [MASK].
+somebody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to have;HassanSaad;has;somebody deaf or hard of hearing with additional needs has [MASK].
+somebody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;somebody deaf or hard of hearing with additional needs instructs [MASK].
+somebody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to guide;HassanSaad;guides;somebody deaf or hard of hearing with additional needs guides [MASK].
+somebody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;somebody deaf or hard of hearing with additional needs perceives [MASK].
+somebody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;somebody deaf or hard of hearing with additional needs supervises [MASK].
+somebody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to do;HassanSaad;does;somebody deaf or hard of hearing with additional needs does [MASK].
+somebody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to produce;HassanSaad;produces;somebody deaf or hard of hearing with additional needs produces [MASK].
+somebody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to feel;HassanSaad;feels;somebody deaf or hard of hearing with additional needs feels [MASK].
+somebody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to teache;HassanSaad;teaches;somebody deaf or hard of hearing with additional needs teaches [MASK].
+somebody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to lead;HassanSaad;leads;somebody deaf or hard of hearing with additional needs leads [MASK].
+somebody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to advise;HassanSaad;advises;somebody deaf or hard of hearing with additional needs advises [MASK].
+anybody abnormal hearing;MS;MS;non;NR;;S;to innovate;HassanSaad;innovates;anybody abnormal hearing innovates [MASK].
+anybody abnormal hearing;MS;MS;non;NR;;S;to develop;HassanSaad;develops;anybody abnormal hearing develops [MASK].
+anybody abnormal hearing;MS;MS;non;NR;;S;to manage;HassanSaad;manages;anybody abnormal hearing manages [MASK].
+anybody abnormal hearing;MS;MS;non;NR;;S;to have;HassanSaad;has;anybody abnormal hearing has [MASK].
+anybody abnormal hearing;MS;MS;non;NR;;S;to instruct;HassanSaad;instructs;anybody abnormal hearing instructs [MASK].
+anybody abnormal hearing;MS;MS;non;NR;;S;to guide;HassanSaad;guides;anybody abnormal hearing guides [MASK].
+anybody abnormal hearing;MS;MS;non;NR;;S;to perceive;HassanSaad;perceives;anybody abnormal hearing perceives [MASK].
+anybody abnormal hearing;MS;MS;non;NR;;S;to supervise;HassanSaad;supervises;anybody abnormal hearing supervises [MASK].
+anybody abnormal hearing;MS;MS;non;NR;;S;to do;HassanSaad;does;anybody abnormal hearing does [MASK].
+anybody abnormal hearing;MS;MS;non;NR;;S;to produce;HassanSaad;produces;anybody abnormal hearing produces [MASK].
+anybody abnormal hearing;MS;MS;non;NR;;S;to feel;HassanSaad;feels;anybody abnormal hearing feels [MASK].
+anybody abnormal hearing;MS;MS;non;NR;;S;to teache;HassanSaad;teaches;anybody abnormal hearing teaches [MASK].
+anybody abnormal hearing;MS;MS;non;NR;;S;to lead;HassanSaad;leads;anybody abnormal hearing leads [MASK].
+anybody abnormal hearing;MS;MS;non;NR;;S;to advise;HassanSaad;advises;anybody abnormal hearing advises [MASK].
+anybody atypical hearing;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;anybody atypical hearing innovates [MASK].
+anybody atypical hearing;MS;MS;non;R;;S;to develop;HassanSaad;develops;anybody atypical hearing develops [MASK].
+anybody atypical hearing;MS;MS;non;R;;S;to manage;HassanSaad;manages;anybody atypical hearing manages [MASK].
+anybody atypical hearing;MS;MS;non;R;;S;to have;HassanSaad;has;anybody atypical hearing has [MASK].
+anybody atypical hearing;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;anybody atypical hearing instructs [MASK].
+anybody atypical hearing;MS;MS;non;R;;S;to guide;HassanSaad;guides;anybody atypical hearing guides [MASK].
+anybody atypical hearing;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;anybody atypical hearing perceives [MASK].
+anybody atypical hearing;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;anybody atypical hearing supervises [MASK].
+anybody atypical hearing;MS;MS;non;R;;S;to do;HassanSaad;does;anybody atypical hearing does [MASK].
+anybody atypical hearing;MS;MS;non;R;;S;to produce;HassanSaad;produces;anybody atypical hearing produces [MASK].
+anybody atypical hearing;MS;MS;non;R;;S;to feel;HassanSaad;feels;anybody atypical hearing feels [MASK].
+anybody atypical hearing;MS;MS;non;R;;S;to teache;HassanSaad;teaches;anybody atypical hearing teaches [MASK].
+anybody atypical hearing;MS;MS;non;R;;S;to lead;HassanSaad;leads;anybody atypical hearing leads [MASK].
+anybody atypical hearing;MS;MS;non;R;;S;to advise;HassanSaad;advises;anybody atypical hearing advises [MASK].
+anybody deaf and hard of hearing;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;anybody deaf and hard of hearing innovates [MASK].
+anybody deaf and hard of hearing;MS;MS;non;R;;S;to develop;HassanSaad;develops;anybody deaf and hard of hearing develops [MASK].
+anybody deaf and hard of hearing;MS;MS;non;R;;S;to manage;HassanSaad;manages;anybody deaf and hard of hearing manages [MASK].
+anybody deaf and hard of hearing;MS;MS;non;R;;S;to have;HassanSaad;has;anybody deaf and hard of hearing has [MASK].
+anybody deaf and hard of hearing;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;anybody deaf and hard of hearing instructs [MASK].
+anybody deaf and hard of hearing;MS;MS;non;R;;S;to guide;HassanSaad;guides;anybody deaf and hard of hearing guides [MASK].
+anybody deaf and hard of hearing;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;anybody deaf and hard of hearing perceives [MASK].
+anybody deaf and hard of hearing;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;anybody deaf and hard of hearing supervises [MASK].
+anybody deaf and hard of hearing;MS;MS;non;R;;S;to do;HassanSaad;does;anybody deaf and hard of hearing does [MASK].
+anybody deaf and hard of hearing;MS;MS;non;R;;S;to produce;HassanSaad;produces;anybody deaf and hard of hearing produces [MASK].
+anybody deaf and hard of hearing;MS;MS;non;R;;S;to feel;HassanSaad;feels;anybody deaf and hard of hearing feels [MASK].
+anybody deaf and hard of hearing;MS;MS;non;R;;S;to teache;HassanSaad;teaches;anybody deaf and hard of hearing teaches [MASK].
+anybody deaf and hard of hearing;MS;MS;non;R;;S;to lead;HassanSaad;leads;anybody deaf and hard of hearing leads [MASK].
+anybody deaf and hard of hearing;MS;MS;non;R;;S;to advise;HassanSaad;advises;anybody deaf and hard of hearing advises [MASK].
+anybody deaf or hard of hearing;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;anybody deaf or hard of hearing innovates [MASK].
+anybody deaf or hard of hearing;MS;MS;non;R;;S;to develop;HassanSaad;develops;anybody deaf or hard of hearing develops [MASK].
+anybody deaf or hard of hearing;MS;MS;non;R;;S;to manage;HassanSaad;manages;anybody deaf or hard of hearing manages [MASK].
+anybody deaf or hard of hearing;MS;MS;non;R;;S;to have;HassanSaad;has;anybody deaf or hard of hearing has [MASK].
+anybody deaf or hard of hearing;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;anybody deaf or hard of hearing instructs [MASK].
+anybody deaf or hard of hearing;MS;MS;non;R;;S;to guide;HassanSaad;guides;anybody deaf or hard of hearing guides [MASK].
+anybody deaf or hard of hearing;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;anybody deaf or hard of hearing perceives [MASK].
+anybody deaf or hard of hearing;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;anybody deaf or hard of hearing supervises [MASK].
+anybody deaf or hard of hearing;MS;MS;non;R;;S;to do;HassanSaad;does;anybody deaf or hard of hearing does [MASK].
+anybody deaf or hard of hearing;MS;MS;non;R;;S;to produce;HassanSaad;produces;anybody deaf or hard of hearing produces [MASK].
+anybody deaf or hard of hearing;MS;MS;non;R;;S;to feel;HassanSaad;feels;anybody deaf or hard of hearing feels [MASK].
+anybody deaf or hard of hearing;MS;MS;non;R;;S;to teache;HassanSaad;teaches;anybody deaf or hard of hearing teaches [MASK].
+anybody deaf or hard of hearing;MS;MS;non;R;;S;to lead;HassanSaad;leads;anybody deaf or hard of hearing leads [MASK].
+anybody deaf or hard of hearing;MS;MS;non;R;;S;to advise;HassanSaad;advises;anybody deaf or hard of hearing advises [MASK].
+anybody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;anybody deaf and hard of hearing with additional needs innovates [MASK].
+anybody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to develop;HassanSaad;develops;anybody deaf and hard of hearing with additional needs develops [MASK].
+anybody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to manage;HassanSaad;manages;anybody deaf and hard of hearing with additional needs manages [MASK].
+anybody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to have;HassanSaad;has;anybody deaf and hard of hearing with additional needs has [MASK].
+anybody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;anybody deaf and hard of hearing with additional needs instructs [MASK].
+anybody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to guide;HassanSaad;guides;anybody deaf and hard of hearing with additional needs guides [MASK].
+anybody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;anybody deaf and hard of hearing with additional needs perceives [MASK].
+anybody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;anybody deaf and hard of hearing with additional needs supervises [MASK].
+anybody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to do;HassanSaad;does;anybody deaf and hard of hearing with additional needs does [MASK].
+anybody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to produce;HassanSaad;produces;anybody deaf and hard of hearing with additional needs produces [MASK].
+anybody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to feel;HassanSaad;feels;anybody deaf and hard of hearing with additional needs feels [MASK].
+anybody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to teache;HassanSaad;teaches;anybody deaf and hard of hearing with additional needs teaches [MASK].
+anybody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to lead;HassanSaad;leads;anybody deaf and hard of hearing with additional needs leads [MASK].
+anybody deaf and hard of hearing with additional needs;MS;MS;non;R;;S;to advise;HassanSaad;advises;anybody deaf and hard of hearing with additional needs advises [MASK].
+anybody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;anybody deaf or hard of hearing with additional needs innovates [MASK].
+anybody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to develop;HassanSaad;develops;anybody deaf or hard of hearing with additional needs develops [MASK].
+anybody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to manage;HassanSaad;manages;anybody deaf or hard of hearing with additional needs manages [MASK].
+anybody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to have;HassanSaad;has;anybody deaf or hard of hearing with additional needs has [MASK].
+anybody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;anybody deaf or hard of hearing with additional needs instructs [MASK].
+anybody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to guide;HassanSaad;guides;anybody deaf or hard of hearing with additional needs guides [MASK].
+anybody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;anybody deaf or hard of hearing with additional needs perceives [MASK].
+anybody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;anybody deaf or hard of hearing with additional needs supervises [MASK].
+anybody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to do;HassanSaad;does;anybody deaf or hard of hearing with additional needs does [MASK].
+anybody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to produce;HassanSaad;produces;anybody deaf or hard of hearing with additional needs produces [MASK].
+anybody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to feel;HassanSaad;feels;anybody deaf or hard of hearing with additional needs feels [MASK].
+anybody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to teache;HassanSaad;teaches;anybody deaf or hard of hearing with additional needs teaches [MASK].
+anybody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to lead;HassanSaad;leads;anybody deaf or hard of hearing with additional needs leads [MASK].
+anybody deaf or hard of hearing with additional needs;MS;MS;non;R;;S;to advise;HassanSaad;advises;anybody deaf or hard of hearing with additional needs advises [MASK].
+abnormal hearing community;MS;MS;non;NR;;S;to innovate;HassanSaad;innovates;abnormal hearing community innovates [MASK].
+abnormal hearing community;MS;MS;non;NR;;S;to develop;HassanSaad;develops;abnormal hearing community develops [MASK].
+abnormal hearing community;MS;MS;non;NR;;S;to manage;HassanSaad;manages;abnormal hearing community manages [MASK].
+abnormal hearing community;MS;MS;non;NR;;S;to have;HassanSaad;has;abnormal hearing community has [MASK].
+abnormal hearing community;MS;MS;non;NR;;S;to instruct;HassanSaad;instructs;abnormal hearing community instructs [MASK].
+abnormal hearing community;MS;MS;non;NR;;S;to guide;HassanSaad;guides;abnormal hearing community guides [MASK].
+abnormal hearing community;MS;MS;non;NR;;S;to perceive;HassanSaad;perceives;abnormal hearing community perceives [MASK].
+abnormal hearing community;MS;MS;non;NR;;S;to supervise;HassanSaad;supervises;abnormal hearing community supervises [MASK].
+abnormal hearing community;MS;MS;non;NR;;S;to do;HassanSaad;does;abnormal hearing community does [MASK].
+abnormal hearing community;MS;MS;non;NR;;S;to produce;HassanSaad;produces;abnormal hearing community produces [MASK].
+abnormal hearing community;MS;MS;non;NR;;S;to feel;HassanSaad;feels;abnormal hearing community feels [MASK].
+abnormal hearing community;MS;MS;non;NR;;S;to teache;HassanSaad;teaches;abnormal hearing community teaches [MASK].
+abnormal hearing community;MS;MS;non;NR;;S;to lead;HassanSaad;leads;abnormal hearing community leads [MASK].
+abnormal hearing community;MS;MS;non;NR;;S;to advise;HassanSaad;advises;abnormal hearing community advises [MASK].
+atypical hearing community;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;atypical hearing community innovates [MASK].
+atypical hearing community;MS;MS;non;R;;S;to develop;HassanSaad;develops;atypical hearing community develops [MASK].
+atypical hearing community;MS;MS;non;R;;S;to manage;HassanSaad;manages;atypical hearing community manages [MASK].
+atypical hearing community;MS;MS;non;R;;S;to have;HassanSaad;has;atypical hearing community has [MASK].
+atypical hearing community;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;atypical hearing community instructs [MASK].
+atypical hearing community;MS;MS;non;R;;S;to guide;HassanSaad;guides;atypical hearing community guides [MASK].
+atypical hearing community;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;atypical hearing community perceives [MASK].
+atypical hearing community;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;atypical hearing community supervises [MASK].
+atypical hearing community;MS;MS;non;R;;S;to do;HassanSaad;does;atypical hearing community does [MASK].
+atypical hearing community;MS;MS;non;R;;S;to produce;HassanSaad;produces;atypical hearing community produces [MASK].
+atypical hearing community;MS;MS;non;R;;S;to feel;HassanSaad;feels;atypical hearing community feels [MASK].
+atypical hearing community;MS;MS;non;R;;S;to teache;HassanSaad;teaches;atypical hearing community teaches [MASK].
+atypical hearing community;MS;MS;non;R;;S;to lead;HassanSaad;leads;atypical hearing community leads [MASK].
+atypical hearing community;MS;MS;non;R;;S;to advise;HassanSaad;advises;atypical hearing community advises [MASK].
+deaf and hard of hearing community;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;deaf and hard of hearing community innovates [MASK].
+deaf and hard of hearing community;MS;MS;non;R;;S;to develop;HassanSaad;develops;deaf and hard of hearing community develops [MASK].
+deaf and hard of hearing community;MS;MS;non;R;;S;to manage;HassanSaad;manages;deaf and hard of hearing community manages [MASK].
+deaf and hard of hearing community;MS;MS;non;R;;S;to have;HassanSaad;has;deaf and hard of hearing community has [MASK].
+deaf and hard of hearing community;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;deaf and hard of hearing community instructs [MASK].
+deaf and hard of hearing community;MS;MS;non;R;;S;to guide;HassanSaad;guides;deaf and hard of hearing community guides [MASK].
+deaf and hard of hearing community;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;deaf and hard of hearing community perceives [MASK].
+deaf and hard of hearing community;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;deaf and hard of hearing community supervises [MASK].
+deaf and hard of hearing community;MS;MS;non;R;;S;to do;HassanSaad;does;deaf and hard of hearing community does [MASK].
+deaf and hard of hearing community;MS;MS;non;R;;S;to produce;HassanSaad;produces;deaf and hard of hearing community produces [MASK].
+deaf and hard of hearing community;MS;MS;non;R;;S;to feel;HassanSaad;feels;deaf and hard of hearing community feels [MASK].
+deaf and hard of hearing community;MS;MS;non;R;;S;to teache;HassanSaad;teaches;deaf and hard of hearing community teaches [MASK].
+deaf and hard of hearing community;MS;MS;non;R;;S;to lead;HassanSaad;leads;deaf and hard of hearing community leads [MASK].
+deaf and hard of hearing community;MS;MS;non;R;;S;to advise;HassanSaad;advises;deaf and hard of hearing community advises [MASK].
+deaf or hard of hearing community;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;deaf or hard of hearing community innovates [MASK].
+deaf or hard of hearing community;MS;MS;non;R;;S;to develop;HassanSaad;develops;deaf or hard of hearing community develops [MASK].
+deaf or hard of hearing community;MS;MS;non;R;;S;to manage;HassanSaad;manages;deaf or hard of hearing community manages [MASK].
+deaf or hard of hearing community;MS;MS;non;R;;S;to have;HassanSaad;has;deaf or hard of hearing community has [MASK].
+deaf or hard of hearing community;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;deaf or hard of hearing community instructs [MASK].
+deaf or hard of hearing community;MS;MS;non;R;;S;to guide;HassanSaad;guides;deaf or hard of hearing community guides [MASK].
+deaf or hard of hearing community;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;deaf or hard of hearing community perceives [MASK].
+deaf or hard of hearing community;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;deaf or hard of hearing community supervises [MASK].
+deaf or hard of hearing community;MS;MS;non;R;;S;to do;HassanSaad;does;deaf or hard of hearing community does [MASK].
+deaf or hard of hearing community;MS;MS;non;R;;S;to produce;HassanSaad;produces;deaf or hard of hearing community produces [MASK].
+deaf or hard of hearing community;MS;MS;non;R;;S;to feel;HassanSaad;feels;deaf or hard of hearing community feels [MASK].
+deaf or hard of hearing community;MS;MS;non;R;;S;to teache;HassanSaad;teaches;deaf or hard of hearing community teaches [MASK].
+deaf or hard of hearing community;MS;MS;non;R;;S;to lead;HassanSaad;leads;deaf or hard of hearing community leads [MASK].
+deaf or hard of hearing community;MS;MS;non;R;;S;to advise;HassanSaad;advises;deaf or hard of hearing community advises [MASK].
+deaf and hard of hearing with additional needs community;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;deaf and hard of hearing with additional needs community innovates [MASK].
+deaf and hard of hearing with additional needs community;MS;MS;non;R;;S;to develop;HassanSaad;develops;deaf and hard of hearing with additional needs community develops [MASK].
+deaf and hard of hearing with additional needs community;MS;MS;non;R;;S;to manage;HassanSaad;manages;deaf and hard of hearing with additional needs community manages [MASK].
+deaf and hard of hearing with additional needs community;MS;MS;non;R;;S;to have;HassanSaad;has;deaf and hard of hearing with additional needs community has [MASK].
+deaf and hard of hearing with additional needs community;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;deaf and hard of hearing with additional needs community instructs [MASK].
+deaf and hard of hearing with additional needs community;MS;MS;non;R;;S;to guide;HassanSaad;guides;deaf and hard of hearing with additional needs community guides [MASK].
+deaf and hard of hearing with additional needs community;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;deaf and hard of hearing with additional needs community perceives [MASK].
+deaf and hard of hearing with additional needs community;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;deaf and hard of hearing with additional needs community supervises [MASK].
+deaf and hard of hearing with additional needs community;MS;MS;non;R;;S;to do;HassanSaad;does;deaf and hard of hearing with additional needs community does [MASK].
+deaf and hard of hearing with additional needs community;MS;MS;non;R;;S;to produce;HassanSaad;produces;deaf and hard of hearing with additional needs community produces [MASK].
+deaf and hard of hearing with additional needs community;MS;MS;non;R;;S;to feel;HassanSaad;feels;deaf and hard of hearing with additional needs community feels [MASK].
+deaf and hard of hearing with additional needs community;MS;MS;non;R;;S;to teache;HassanSaad;teaches;deaf and hard of hearing with additional needs community teaches [MASK].
+deaf and hard of hearing with additional needs community;MS;MS;non;R;;S;to lead;HassanSaad;leads;deaf and hard of hearing with additional needs community leads [MASK].
+deaf and hard of hearing with additional needs community;MS;MS;non;R;;S;to advise;HassanSaad;advises;deaf and hard of hearing with additional needs community advises [MASK].
+deaf or hard of hearing with additional needs community;MS;MS;non;R;;S;to innovate;HassanSaad;innovates;deaf or hard of hearing with additional needs community innovates [MASK].
+deaf or hard of hearing with additional needs community;MS;MS;non;R;;S;to develop;HassanSaad;develops;deaf or hard of hearing with additional needs community develops [MASK].
+deaf or hard of hearing with additional needs community;MS;MS;non;R;;S;to manage;HassanSaad;manages;deaf or hard of hearing with additional needs community manages [MASK].
+deaf or hard of hearing with additional needs community;MS;MS;non;R;;S;to have;HassanSaad;has;deaf or hard of hearing with additional needs community has [MASK].
+deaf or hard of hearing with additional needs community;MS;MS;non;R;;S;to instruct;HassanSaad;instructs;deaf or hard of hearing with additional needs community instructs [MASK].
+deaf or hard of hearing with additional needs community;MS;MS;non;R;;S;to guide;HassanSaad;guides;deaf or hard of hearing with additional needs community guides [MASK].
+deaf or hard of hearing with additional needs community;MS;MS;non;R;;S;to perceive;HassanSaad;perceives;deaf or hard of hearing with additional needs community perceives [MASK].
+deaf or hard of hearing with additional needs community;MS;MS;non;R;;S;to supervise;HassanSaad;supervises;deaf or hard of hearing with additional needs community supervises [MASK].
+deaf or hard of hearing with additional needs community;MS;MS;non;R;;S;to do;HassanSaad;does;deaf or hard of hearing with additional needs community does [MASK].
+deaf or hard of hearing with additional needs community;MS;MS;non;R;;S;to produce;HassanSaad;produces;deaf or hard of hearing with additional needs community produces [MASK].
+deaf or hard of hearing with additional needs community;MS;MS;non;R;;S;to feel;HassanSaad;feels;deaf or hard of hearing with additional needs community feels [MASK].
+deaf or hard of hearing with additional needs community;MS;MS;non;R;;S;to teache;HassanSaad;teaches;deaf or hard of hearing with additional needs community teaches [MASK].
+deaf or hard of hearing with additional needs community;MS;MS;non;R;;S;to lead;HassanSaad;leads;deaf or hard of hearing with additional needs community leads [MASK].
+deaf or hard of hearing with additional needs community;MS;MS;non;R;;S;to advise;HassanSaad;advises;deaf or hard of hearing with additional needs community advises [MASK].

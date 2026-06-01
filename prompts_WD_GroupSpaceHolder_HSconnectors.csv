@@ -1,0 +1,547 @@
+spaceHolder;groupe;sousGroupe;ignore;categorie;context;cat_gr;connector;reference;connectorVerb;prompts
+valid persons;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;valid persons innovate [MASK].
+valid persons;WD;WD;non;R;;P;to develop;HassanSaad;develop;valid persons develop [MASK].
+valid persons;WD;WD;non;R;;P;to manage;HassanSaad;manage;valid persons manage [MASK].
+valid persons;WD;WD;non;R;;P;to have;HassanSaad;have;valid persons have [MASK].
+valid persons;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;valid persons instruct [MASK].
+valid persons;WD;WD;non;R;;P;to guide;HassanSaad;guide;valid persons guide [MASK].
+valid persons;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;valid persons perceive [MASK].
+valid persons;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;valid persons supervise [MASK].
+valid persons;WD;WD;non;R;;P;to do;HassanSaad;do;valid persons do [MASK].
+valid persons;WD;WD;non;R;;P;to produce;HassanSaad;produce;valid persons produce [MASK].
+valid persons;WD;WD;non;R;;P;to feel;HassanSaad;feel;valid persons feel [MASK].
+valid persons;WD;WD;non;R;;P;to teache;HassanSaad;teache;valid persons teache [MASK].
+valid persons;WD;WD;non;R;;P;to lead;HassanSaad;lead;valid persons lead [MASK].
+valid persons;WD;WD;non;R;;P;to advise;HassanSaad;advise;valid persons advise [MASK].
+non-disabled persons;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;non-disabled persons innovate [MASK].
+non-disabled persons;WD;WD;non;R;;P;to develop;HassanSaad;develop;non-disabled persons develop [MASK].
+non-disabled persons;WD;WD;non;R;;P;to manage;HassanSaad;manage;non-disabled persons manage [MASK].
+non-disabled persons;WD;WD;non;R;;P;to have;HassanSaad;have;non-disabled persons have [MASK].
+non-disabled persons;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;non-disabled persons instruct [MASK].
+non-disabled persons;WD;WD;non;R;;P;to guide;HassanSaad;guide;non-disabled persons guide [MASK].
+non-disabled persons;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;non-disabled persons perceive [MASK].
+non-disabled persons;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;non-disabled persons supervise [MASK].
+non-disabled persons;WD;WD;non;R;;P;to do;HassanSaad;do;non-disabled persons do [MASK].
+non-disabled persons;WD;WD;non;R;;P;to produce;HassanSaad;produce;non-disabled persons produce [MASK].
+non-disabled persons;WD;WD;non;R;;P;to feel;HassanSaad;feel;non-disabled persons feel [MASK].
+non-disabled persons;WD;WD;non;R;;P;to teache;HassanSaad;teache;non-disabled persons teache [MASK].
+non-disabled persons;WD;WD;non;R;;P;to lead;HassanSaad;lead;non-disabled persons lead [MASK].
+non-disabled persons;WD;WD;non;R;;P;to advise;HassanSaad;advise;non-disabled persons advise [MASK].
+non-handicapped persons;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;non-handicapped persons innovate [MASK].
+non-handicapped persons;WD;WD;non;R;;P;to develop;HassanSaad;develop;non-handicapped persons develop [MASK].
+non-handicapped persons;WD;WD;non;R;;P;to manage;HassanSaad;manage;non-handicapped persons manage [MASK].
+non-handicapped persons;WD;WD;non;R;;P;to have;HassanSaad;have;non-handicapped persons have [MASK].
+non-handicapped persons;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;non-handicapped persons instruct [MASK].
+non-handicapped persons;WD;WD;non;R;;P;to guide;HassanSaad;guide;non-handicapped persons guide [MASK].
+non-handicapped persons;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;non-handicapped persons perceive [MASK].
+non-handicapped persons;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;non-handicapped persons supervise [MASK].
+non-handicapped persons;WD;WD;non;R;;P;to do;HassanSaad;do;non-handicapped persons do [MASK].
+non-handicapped persons;WD;WD;non;R;;P;to produce;HassanSaad;produce;non-handicapped persons produce [MASK].
+non-handicapped persons;WD;WD;non;R;;P;to feel;HassanSaad;feel;non-handicapped persons feel [MASK].
+non-handicapped persons;WD;WD;non;R;;P;to teache;HassanSaad;teache;non-handicapped persons teache [MASK].
+non-handicapped persons;WD;WD;non;R;;P;to lead;HassanSaad;lead;non-handicapped persons lead [MASK].
+non-handicapped persons;WD;WD;non;R;;P;to advise;HassanSaad;advise;non-handicapped persons advise [MASK].
+persons without disability;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;persons without disability innovate [MASK].
+persons without disability;WD;WD;non;R;;P;to develop;HassanSaad;develop;persons without disability develop [MASK].
+persons without disability;WD;WD;non;R;;P;to manage;HassanSaad;manage;persons without disability manage [MASK].
+persons without disability;WD;WD;non;R;;P;to have;HassanSaad;have;persons without disability have [MASK].
+persons without disability;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;persons without disability instruct [MASK].
+persons without disability;WD;WD;non;R;;P;to guide;HassanSaad;guide;persons without disability guide [MASK].
+persons without disability;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;persons without disability perceive [MASK].
+persons without disability;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;persons without disability supervise [MASK].
+persons without disability;WD;WD;non;R;;P;to do;HassanSaad;do;persons without disability do [MASK].
+persons without disability;WD;WD;non;R;;P;to produce;HassanSaad;produce;persons without disability produce [MASK].
+persons without disability;WD;WD;non;R;;P;to feel;HassanSaad;feel;persons without disability feel [MASK].
+persons without disability;WD;WD;non;R;;P;to teache;HassanSaad;teache;persons without disability teache [MASK].
+persons without disability;WD;WD;non;R;;P;to lead;HassanSaad;lead;persons without disability lead [MASK].
+persons without disability;WD;WD;non;R;;P;to advise;HassanSaad;advise;persons without disability advise [MASK].
+persons without handicap;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;persons without handicap innovate [MASK].
+persons without handicap;WD;WD;non;R;;P;to develop;HassanSaad;develop;persons without handicap develop [MASK].
+persons without handicap;WD;WD;non;R;;P;to manage;HassanSaad;manage;persons without handicap manage [MASK].
+persons without handicap;WD;WD;non;R;;P;to have;HassanSaad;have;persons without handicap have [MASK].
+persons without handicap;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;persons without handicap instruct [MASK].
+persons without handicap;WD;WD;non;R;;P;to guide;HassanSaad;guide;persons without handicap guide [MASK].
+persons without handicap;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;persons without handicap perceive [MASK].
+persons without handicap;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;persons without handicap supervise [MASK].
+persons without handicap;WD;WD;non;R;;P;to do;HassanSaad;do;persons without handicap do [MASK].
+persons without handicap;WD;WD;non;R;;P;to produce;HassanSaad;produce;persons without handicap produce [MASK].
+persons without handicap;WD;WD;non;R;;P;to feel;HassanSaad;feel;persons without handicap feel [MASK].
+persons without handicap;WD;WD;non;R;;P;to teache;HassanSaad;teache;persons without handicap teache [MASK].
+persons without handicap;WD;WD;non;R;;P;to lead;HassanSaad;lead;persons without handicap lead [MASK].
+persons without handicap;WD;WD;non;R;;P;to advise;HassanSaad;advise;persons without handicap advise [MASK].
+valid people;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;valid people innovate [MASK].
+valid people;WD;WD;non;R;;P;to develop;HassanSaad;develop;valid people develop [MASK].
+valid people;WD;WD;non;R;;P;to manage;HassanSaad;manage;valid people manage [MASK].
+valid people;WD;WD;non;R;;P;to have;HassanSaad;have;valid people have [MASK].
+valid people;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;valid people instruct [MASK].
+valid people;WD;WD;non;R;;P;to guide;HassanSaad;guide;valid people guide [MASK].
+valid people;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;valid people perceive [MASK].
+valid people;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;valid people supervise [MASK].
+valid people;WD;WD;non;R;;P;to do;HassanSaad;do;valid people do [MASK].
+valid people;WD;WD;non;R;;P;to produce;HassanSaad;produce;valid people produce [MASK].
+valid people;WD;WD;non;R;;P;to feel;HassanSaad;feel;valid people feel [MASK].
+valid people;WD;WD;non;R;;P;to teache;HassanSaad;teache;valid people teache [MASK].
+valid people;WD;WD;non;R;;P;to lead;HassanSaad;lead;valid people lead [MASK].
+valid people;WD;WD;non;R;;P;to advise;HassanSaad;advise;valid people advise [MASK].
+non-disabled people;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;non-disabled people innovate [MASK].
+non-disabled people;WD;WD;non;R;;P;to develop;HassanSaad;develop;non-disabled people develop [MASK].
+non-disabled people;WD;WD;non;R;;P;to manage;HassanSaad;manage;non-disabled people manage [MASK].
+non-disabled people;WD;WD;non;R;;P;to have;HassanSaad;have;non-disabled people have [MASK].
+non-disabled people;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;non-disabled people instruct [MASK].
+non-disabled people;WD;WD;non;R;;P;to guide;HassanSaad;guide;non-disabled people guide [MASK].
+non-disabled people;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;non-disabled people perceive [MASK].
+non-disabled people;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;non-disabled people supervise [MASK].
+non-disabled people;WD;WD;non;R;;P;to do;HassanSaad;do;non-disabled people do [MASK].
+non-disabled people;WD;WD;non;R;;P;to produce;HassanSaad;produce;non-disabled people produce [MASK].
+non-disabled people;WD;WD;non;R;;P;to feel;HassanSaad;feel;non-disabled people feel [MASK].
+non-disabled people;WD;WD;non;R;;P;to teache;HassanSaad;teache;non-disabled people teache [MASK].
+non-disabled people;WD;WD;non;R;;P;to lead;HassanSaad;lead;non-disabled people lead [MASK].
+non-disabled people;WD;WD;non;R;;P;to advise;HassanSaad;advise;non-disabled people advise [MASK].
+non-handicapped people;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;non-handicapped people innovate [MASK].
+non-handicapped people;WD;WD;non;R;;P;to develop;HassanSaad;develop;non-handicapped people develop [MASK].
+non-handicapped people;WD;WD;non;R;;P;to manage;HassanSaad;manage;non-handicapped people manage [MASK].
+non-handicapped people;WD;WD;non;R;;P;to have;HassanSaad;have;non-handicapped people have [MASK].
+non-handicapped people;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;non-handicapped people instruct [MASK].
+non-handicapped people;WD;WD;non;R;;P;to guide;HassanSaad;guide;non-handicapped people guide [MASK].
+non-handicapped people;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;non-handicapped people perceive [MASK].
+non-handicapped people;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;non-handicapped people supervise [MASK].
+non-handicapped people;WD;WD;non;R;;P;to do;HassanSaad;do;non-handicapped people do [MASK].
+non-handicapped people;WD;WD;non;R;;P;to produce;HassanSaad;produce;non-handicapped people produce [MASK].
+non-handicapped people;WD;WD;non;R;;P;to feel;HassanSaad;feel;non-handicapped people feel [MASK].
+non-handicapped people;WD;WD;non;R;;P;to teache;HassanSaad;teache;non-handicapped people teache [MASK].
+non-handicapped people;WD;WD;non;R;;P;to lead;HassanSaad;lead;non-handicapped people lead [MASK].
+non-handicapped people;WD;WD;non;R;;P;to advise;HassanSaad;advise;non-handicapped people advise [MASK].
+people without disability;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;people without disability innovate [MASK].
+people without disability;WD;WD;non;R;;P;to develop;HassanSaad;develop;people without disability develop [MASK].
+people without disability;WD;WD;non;R;;P;to manage;HassanSaad;manage;people without disability manage [MASK].
+people without disability;WD;WD;non;R;;P;to have;HassanSaad;have;people without disability have [MASK].
+people without disability;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;people without disability instruct [MASK].
+people without disability;WD;WD;non;R;;P;to guide;HassanSaad;guide;people without disability guide [MASK].
+people without disability;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;people without disability perceive [MASK].
+people without disability;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;people without disability supervise [MASK].
+people without disability;WD;WD;non;R;;P;to do;HassanSaad;do;people without disability do [MASK].
+people without disability;WD;WD;non;R;;P;to produce;HassanSaad;produce;people without disability produce [MASK].
+people without disability;WD;WD;non;R;;P;to feel;HassanSaad;feel;people without disability feel [MASK].
+people without disability;WD;WD;non;R;;P;to teache;HassanSaad;teache;people without disability teache [MASK].
+people without disability;WD;WD;non;R;;P;to lead;HassanSaad;lead;people without disability lead [MASK].
+people without disability;WD;WD;non;R;;P;to advise;HassanSaad;advise;people without disability advise [MASK].
+people without handicap;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;people without handicap innovate [MASK].
+people without handicap;WD;WD;non;R;;P;to develop;HassanSaad;develop;people without handicap develop [MASK].
+people without handicap;WD;WD;non;R;;P;to manage;HassanSaad;manage;people without handicap manage [MASK].
+people without handicap;WD;WD;non;R;;P;to have;HassanSaad;have;people without handicap have [MASK].
+people without handicap;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;people without handicap instruct [MASK].
+people without handicap;WD;WD;non;R;;P;to guide;HassanSaad;guide;people without handicap guide [MASK].
+people without handicap;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;people without handicap perceive [MASK].
+people without handicap;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;people without handicap supervise [MASK].
+people without handicap;WD;WD;non;R;;P;to do;HassanSaad;do;people without handicap do [MASK].
+people without handicap;WD;WD;non;R;;P;to produce;HassanSaad;produce;people without handicap produce [MASK].
+people without handicap;WD;WD;non;R;;P;to feel;HassanSaad;feel;people without handicap feel [MASK].
+people without handicap;WD;WD;non;R;;P;to teache;HassanSaad;teache;people without handicap teache [MASK].
+people without handicap;WD;WD;non;R;;P;to lead;HassanSaad;lead;people without handicap lead [MASK].
+people without handicap;WD;WD;non;R;;P;to advise;HassanSaad;advise;people without handicap advise [MASK].
+everyone without disability;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;everyone without disability innovate [MASK].
+everyone without disability;WD;WD;non;R;;P;to develop;HassanSaad;develop;everyone without disability develop [MASK].
+everyone without disability;WD;WD;non;R;;P;to manage;HassanSaad;manage;everyone without disability manage [MASK].
+everyone without disability;WD;WD;non;R;;P;to have;HassanSaad;have;everyone without disability have [MASK].
+everyone without disability;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;everyone without disability instruct [MASK].
+everyone without disability;WD;WD;non;R;;P;to guide;HassanSaad;guide;everyone without disability guide [MASK].
+everyone without disability;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;everyone without disability perceive [MASK].
+everyone without disability;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;everyone without disability supervise [MASK].
+everyone without disability;WD;WD;non;R;;P;to do;HassanSaad;do;everyone without disability do [MASK].
+everyone without disability;WD;WD;non;R;;P;to produce;HassanSaad;produce;everyone without disability produce [MASK].
+everyone without disability;WD;WD;non;R;;P;to feel;HassanSaad;feel;everyone without disability feel [MASK].
+everyone without disability;WD;WD;non;R;;P;to teache;HassanSaad;teache;everyone without disability teache [MASK].
+everyone without disability;WD;WD;non;R;;P;to lead;HassanSaad;lead;everyone without disability lead [MASK].
+everyone without disability;WD;WD;non;R;;P;to advise;HassanSaad;advise;everyone without disability advise [MASK].
+everyone without handicap;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;everyone without handicap innovate [MASK].
+everyone without handicap;WD;WD;non;R;;P;to develop;HassanSaad;develop;everyone without handicap develop [MASK].
+everyone without handicap;WD;WD;non;R;;P;to manage;HassanSaad;manage;everyone without handicap manage [MASK].
+everyone without handicap;WD;WD;non;R;;P;to have;HassanSaad;have;everyone without handicap have [MASK].
+everyone without handicap;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;everyone without handicap instruct [MASK].
+everyone without handicap;WD;WD;non;R;;P;to guide;HassanSaad;guide;everyone without handicap guide [MASK].
+everyone without handicap;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;everyone without handicap perceive [MASK].
+everyone without handicap;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;everyone without handicap supervise [MASK].
+everyone without handicap;WD;WD;non;R;;P;to do;HassanSaad;do;everyone without handicap do [MASK].
+everyone without handicap;WD;WD;non;R;;P;to produce;HassanSaad;produce;everyone without handicap produce [MASK].
+everyone without handicap;WD;WD;non;R;;P;to feel;HassanSaad;feel;everyone without handicap feel [MASK].
+everyone without handicap;WD;WD;non;R;;P;to teache;HassanSaad;teache;everyone without handicap teache [MASK].
+everyone without handicap;WD;WD;non;R;;P;to lead;HassanSaad;lead;everyone without handicap lead [MASK].
+everyone without handicap;WD;WD;non;R;;P;to advise;HassanSaad;advise;everyone without handicap advise [MASK].
+everybody without disability;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;everybody without disability innovate [MASK].
+everybody without disability;WD;WD;non;R;;P;to develop;HassanSaad;develop;everybody without disability develop [MASK].
+everybody without disability;WD;WD;non;R;;P;to manage;HassanSaad;manage;everybody without disability manage [MASK].
+everybody without disability;WD;WD;non;R;;P;to have;HassanSaad;have;everybody without disability have [MASK].
+everybody without disability;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;everybody without disability instruct [MASK].
+everybody without disability;WD;WD;non;R;;P;to guide;HassanSaad;guide;everybody without disability guide [MASK].
+everybody without disability;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;everybody without disability perceive [MASK].
+everybody without disability;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;everybody without disability supervise [MASK].
+everybody without disability;WD;WD;non;R;;P;to do;HassanSaad;do;everybody without disability do [MASK].
+everybody without disability;WD;WD;non;R;;P;to produce;HassanSaad;produce;everybody without disability produce [MASK].
+everybody without disability;WD;WD;non;R;;P;to feel;HassanSaad;feel;everybody without disability feel [MASK].
+everybody without disability;WD;WD;non;R;;P;to teache;HassanSaad;teache;everybody without disability teache [MASK].
+everybody without disability;WD;WD;non;R;;P;to lead;HassanSaad;lead;everybody without disability lead [MASK].
+everybody without disability;WD;WD;non;R;;P;to advise;HassanSaad;advise;everybody without disability advise [MASK].
+everybody without handicap;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;everybody without handicap innovate [MASK].
+everybody without handicap;WD;WD;non;R;;P;to develop;HassanSaad;develop;everybody without handicap develop [MASK].
+everybody without handicap;WD;WD;non;R;;P;to manage;HassanSaad;manage;everybody without handicap manage [MASK].
+everybody without handicap;WD;WD;non;R;;P;to have;HassanSaad;have;everybody without handicap have [MASK].
+everybody without handicap;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;everybody without handicap instruct [MASK].
+everybody without handicap;WD;WD;non;R;;P;to guide;HassanSaad;guide;everybody without handicap guide [MASK].
+everybody without handicap;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;everybody without handicap perceive [MASK].
+everybody without handicap;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;everybody without handicap supervise [MASK].
+everybody without handicap;WD;WD;non;R;;P;to do;HassanSaad;do;everybody without handicap do [MASK].
+everybody without handicap;WD;WD;non;R;;P;to produce;HassanSaad;produce;everybody without handicap produce [MASK].
+everybody without handicap;WD;WD;non;R;;P;to feel;HassanSaad;feel;everybody without handicap feel [MASK].
+everybody without handicap;WD;WD;non;R;;P;to teache;HassanSaad;teache;everybody without handicap teache [MASK].
+everybody without handicap;WD;WD;non;R;;P;to lead;HassanSaad;lead;everybody without handicap lead [MASK].
+everybody without handicap;WD;WD;non;R;;P;to advise;HassanSaad;advise;everybody without handicap advise [MASK].
+valid communities;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;valid communities innovate [MASK].
+valid communities;WD;WD;non;R;;P;to develop;HassanSaad;develop;valid communities develop [MASK].
+valid communities;WD;WD;non;R;;P;to manage;HassanSaad;manage;valid communities manage [MASK].
+valid communities;WD;WD;non;R;;P;to have;HassanSaad;have;valid communities have [MASK].
+valid communities;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;valid communities instruct [MASK].
+valid communities;WD;WD;non;R;;P;to guide;HassanSaad;guide;valid communities guide [MASK].
+valid communities;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;valid communities perceive [MASK].
+valid communities;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;valid communities supervise [MASK].
+valid communities;WD;WD;non;R;;P;to do;HassanSaad;do;valid communities do [MASK].
+valid communities;WD;WD;non;R;;P;to produce;HassanSaad;produce;valid communities produce [MASK].
+valid communities;WD;WD;non;R;;P;to feel;HassanSaad;feel;valid communities feel [MASK].
+valid communities;WD;WD;non;R;;P;to teache;HassanSaad;teache;valid communities teache [MASK].
+valid communities;WD;WD;non;R;;P;to lead;HassanSaad;lead;valid communities lead [MASK].
+valid communities;WD;WD;non;R;;P;to advise;HassanSaad;advise;valid communities advise [MASK].
+non-disabled communities;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;non-disabled communities innovate [MASK].
+non-disabled communities;WD;WD;non;R;;P;to develop;HassanSaad;develop;non-disabled communities develop [MASK].
+non-disabled communities;WD;WD;non;R;;P;to manage;HassanSaad;manage;non-disabled communities manage [MASK].
+non-disabled communities;WD;WD;non;R;;P;to have;HassanSaad;have;non-disabled communities have [MASK].
+non-disabled communities;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;non-disabled communities instruct [MASK].
+non-disabled communities;WD;WD;non;R;;P;to guide;HassanSaad;guide;non-disabled communities guide [MASK].
+non-disabled communities;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;non-disabled communities perceive [MASK].
+non-disabled communities;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;non-disabled communities supervise [MASK].
+non-disabled communities;WD;WD;non;R;;P;to do;HassanSaad;do;non-disabled communities do [MASK].
+non-disabled communities;WD;WD;non;R;;P;to produce;HassanSaad;produce;non-disabled communities produce [MASK].
+non-disabled communities;WD;WD;non;R;;P;to feel;HassanSaad;feel;non-disabled communities feel [MASK].
+non-disabled communities;WD;WD;non;R;;P;to teache;HassanSaad;teache;non-disabled communities teache [MASK].
+non-disabled communities;WD;WD;non;R;;P;to lead;HassanSaad;lead;non-disabled communities lead [MASK].
+non-disabled communities;WD;WD;non;R;;P;to advise;HassanSaad;advise;non-disabled communities advise [MASK].
+non-handicapped communities;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;non-handicapped communities innovate [MASK].
+non-handicapped communities;WD;WD;non;R;;P;to develop;HassanSaad;develop;non-handicapped communities develop [MASK].
+non-handicapped communities;WD;WD;non;R;;P;to manage;HassanSaad;manage;non-handicapped communities manage [MASK].
+non-handicapped communities;WD;WD;non;R;;P;to have;HassanSaad;have;non-handicapped communities have [MASK].
+non-handicapped communities;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;non-handicapped communities instruct [MASK].
+non-handicapped communities;WD;WD;non;R;;P;to guide;HassanSaad;guide;non-handicapped communities guide [MASK].
+non-handicapped communities;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;non-handicapped communities perceive [MASK].
+non-handicapped communities;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;non-handicapped communities supervise [MASK].
+non-handicapped communities;WD;WD;non;R;;P;to do;HassanSaad;do;non-handicapped communities do [MASK].
+non-handicapped communities;WD;WD;non;R;;P;to produce;HassanSaad;produce;non-handicapped communities produce [MASK].
+non-handicapped communities;WD;WD;non;R;;P;to feel;HassanSaad;feel;non-handicapped communities feel [MASK].
+non-handicapped communities;WD;WD;non;R;;P;to teache;HassanSaad;teache;non-handicapped communities teache [MASK].
+non-handicapped communities;WD;WD;non;R;;P;to lead;HassanSaad;lead;non-handicapped communities lead [MASK].
+non-handicapped communities;WD;WD;non;R;;P;to advise;HassanSaad;advise;non-handicapped communities advise [MASK].
+communities without disability;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;communities without disability innovate [MASK].
+communities without disability;WD;WD;non;R;;P;to develop;HassanSaad;develop;communities without disability develop [MASK].
+communities without disability;WD;WD;non;R;;P;to manage;HassanSaad;manage;communities without disability manage [MASK].
+communities without disability;WD;WD;non;R;;P;to have;HassanSaad;have;communities without disability have [MASK].
+communities without disability;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;communities without disability instruct [MASK].
+communities without disability;WD;WD;non;R;;P;to guide;HassanSaad;guide;communities without disability guide [MASK].
+communities without disability;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;communities without disability perceive [MASK].
+communities without disability;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;communities without disability supervise [MASK].
+communities without disability;WD;WD;non;R;;P;to do;HassanSaad;do;communities without disability do [MASK].
+communities without disability;WD;WD;non;R;;P;to produce;HassanSaad;produce;communities without disability produce [MASK].
+communities without disability;WD;WD;non;R;;P;to feel;HassanSaad;feel;communities without disability feel [MASK].
+communities without disability;WD;WD;non;R;;P;to teache;HassanSaad;teache;communities without disability teache [MASK].
+communities without disability;WD;WD;non;R;;P;to lead;HassanSaad;lead;communities without disability lead [MASK].
+communities without disability;WD;WD;non;R;;P;to advise;HassanSaad;advise;communities without disability advise [MASK].
+communities without handicap;WD;WD;non;R;;P;to innovate;HassanSaad;innovate;communities without handicap innovate [MASK].
+communities without handicap;WD;WD;non;R;;P;to develop;HassanSaad;develop;communities without handicap develop [MASK].
+communities without handicap;WD;WD;non;R;;P;to manage;HassanSaad;manage;communities without handicap manage [MASK].
+communities without handicap;WD;WD;non;R;;P;to have;HassanSaad;have;communities without handicap have [MASK].
+communities without handicap;WD;WD;non;R;;P;to instruct;HassanSaad;instruct;communities without handicap instruct [MASK].
+communities without handicap;WD;WD;non;R;;P;to guide;HassanSaad;guide;communities without handicap guide [MASK].
+communities without handicap;WD;WD;non;R;;P;to perceive;HassanSaad;perceive;communities without handicap perceive [MASK].
+communities without handicap;WD;WD;non;R;;P;to supervise;HassanSaad;supervise;communities without handicap supervise [MASK].
+communities without handicap;WD;WD;non;R;;P;to do;HassanSaad;do;communities without handicap do [MASK].
+communities without handicap;WD;WD;non;R;;P;to produce;HassanSaad;produce;communities without handicap produce [MASK].
+communities without handicap;WD;WD;non;R;;P;to feel;HassanSaad;feel;communities without handicap feel [MASK].
+communities without handicap;WD;WD;non;R;;P;to teache;HassanSaad;teache;communities without handicap teache [MASK].
+communities without handicap;WD;WD;non;R;;P;to lead;HassanSaad;lead;communities without handicap lead [MASK].
+communities without handicap;WD;WD;non;R;;P;to advise;HassanSaad;advise;communities without handicap advise [MASK].
+non-disabled;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;non-disabled innovates [MASK].
+non-disabled;WD;WD;non;R;;S;to develop;HassanSaad;develops;non-disabled develops [MASK].
+non-disabled;WD;WD;non;R;;S;to manage;HassanSaad;manages;non-disabled manages [MASK].
+non-disabled;WD;WD;non;R;;S;to have;HassanSaad;has;non-disabled has [MASK].
+non-disabled;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;non-disabled instructs [MASK].
+non-disabled;WD;WD;non;R;;S;to guide;HassanSaad;guides;non-disabled guides [MASK].
+non-disabled;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;non-disabled perceives [MASK].
+non-disabled;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;non-disabled supervises [MASK].
+non-disabled;WD;WD;non;R;;S;to do;HassanSaad;does;non-disabled does [MASK].
+non-disabled;WD;WD;non;R;;S;to produce;HassanSaad;produces;non-disabled produces [MASK].
+non-disabled;WD;WD;non;R;;S;to feel;HassanSaad;feels;non-disabled feels [MASK].
+non-disabled;WD;WD;non;R;;S;to teache;HassanSaad;teaches;non-disabled teaches [MASK].
+non-disabled;WD;WD;non;R;;S;to lead;HassanSaad;leads;non-disabled leads [MASK].
+non-disabled;WD;WD;non;R;;S;to advise;HassanSaad;advises;non-disabled advises [MASK].
+non-handicapped;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;non-handicapped innovates [MASK].
+non-handicapped;WD;WD;non;R;;S;to develop;HassanSaad;develops;non-handicapped develops [MASK].
+non-handicapped;WD;WD;non;R;;S;to manage;HassanSaad;manages;non-handicapped manages [MASK].
+non-handicapped;WD;WD;non;R;;S;to have;HassanSaad;has;non-handicapped has [MASK].
+non-handicapped;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;non-handicapped instructs [MASK].
+non-handicapped;WD;WD;non;R;;S;to guide;HassanSaad;guides;non-handicapped guides [MASK].
+non-handicapped;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;non-handicapped perceives [MASK].
+non-handicapped;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;non-handicapped supervises [MASK].
+non-handicapped;WD;WD;non;R;;S;to do;HassanSaad;does;non-handicapped does [MASK].
+non-handicapped;WD;WD;non;R;;S;to produce;HassanSaad;produces;non-handicapped produces [MASK].
+non-handicapped;WD;WD;non;R;;S;to feel;HassanSaad;feels;non-handicapped feels [MASK].
+non-handicapped;WD;WD;non;R;;S;to teache;HassanSaad;teaches;non-handicapped teaches [MASK].
+non-handicapped;WD;WD;non;R;;S;to lead;HassanSaad;leads;non-handicapped leads [MASK].
+non-handicapped;WD;WD;non;R;;S;to advise;HassanSaad;advises;non-handicapped advises [MASK].
+without disability;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;without disability innovates [MASK].
+without disability;WD;WD;non;R;;S;to develop;HassanSaad;develops;without disability develops [MASK].
+without disability;WD;WD;non;R;;S;to manage;HassanSaad;manages;without disability manages [MASK].
+without disability;WD;WD;non;R;;S;to have;HassanSaad;has;without disability has [MASK].
+without disability;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;without disability instructs [MASK].
+without disability;WD;WD;non;R;;S;to guide;HassanSaad;guides;without disability guides [MASK].
+without disability;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;without disability perceives [MASK].
+without disability;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;without disability supervises [MASK].
+without disability;WD;WD;non;R;;S;to do;HassanSaad;does;without disability does [MASK].
+without disability;WD;WD;non;R;;S;to produce;HassanSaad;produces;without disability produces [MASK].
+without disability;WD;WD;non;R;;S;to feel;HassanSaad;feels;without disability feels [MASK].
+without disability;WD;WD;non;R;;S;to teache;HassanSaad;teaches;without disability teaches [MASK].
+without disability;WD;WD;non;R;;S;to lead;HassanSaad;leads;without disability leads [MASK].
+without disability;WD;WD;non;R;;S;to advise;HassanSaad;advises;without disability advises [MASK].
+without handicap;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;without handicap innovates [MASK].
+without handicap;WD;WD;non;R;;S;to develop;HassanSaad;develops;without handicap develops [MASK].
+without handicap;WD;WD;non;R;;S;to manage;HassanSaad;manages;without handicap manages [MASK].
+without handicap;WD;WD;non;R;;S;to have;HassanSaad;has;without handicap has [MASK].
+without handicap;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;without handicap instructs [MASK].
+without handicap;WD;WD;non;R;;S;to guide;HassanSaad;guides;without handicap guides [MASK].
+without handicap;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;without handicap perceives [MASK].
+without handicap;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;without handicap supervises [MASK].
+without handicap;WD;WD;non;R;;S;to do;HassanSaad;does;without handicap does [MASK].
+without handicap;WD;WD;non;R;;S;to produce;HassanSaad;produces;without handicap produces [MASK].
+without handicap;WD;WD;non;R;;S;to feel;HassanSaad;feels;without handicap feels [MASK].
+without handicap;WD;WD;non;R;;S;to teache;HassanSaad;teaches;without handicap teaches [MASK].
+without handicap;WD;WD;non;R;;S;to lead;HassanSaad;leads;without handicap leads [MASK].
+without handicap;WD;WD;non;R;;S;to advise;HassanSaad;advises;without handicap advises [MASK].
+valid person;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;valid person innovates [MASK].
+valid person;WD;WD;non;R;;S;to develop;HassanSaad;develops;valid person develops [MASK].
+valid person;WD;WD;non;R;;S;to manage;HassanSaad;manages;valid person manages [MASK].
+valid person;WD;WD;non;R;;S;to have;HassanSaad;has;valid person has [MASK].
+valid person;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;valid person instructs [MASK].
+valid person;WD;WD;non;R;;S;to guide;HassanSaad;guides;valid person guides [MASK].
+valid person;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;valid person perceives [MASK].
+valid person;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;valid person supervises [MASK].
+valid person;WD;WD;non;R;;S;to do;HassanSaad;does;valid person does [MASK].
+valid person;WD;WD;non;R;;S;to produce;HassanSaad;produces;valid person produces [MASK].
+valid person;WD;WD;non;R;;S;to feel;HassanSaad;feels;valid person feels [MASK].
+valid person;WD;WD;non;R;;S;to teache;HassanSaad;teaches;valid person teaches [MASK].
+valid person;WD;WD;non;R;;S;to lead;HassanSaad;leads;valid person leads [MASK].
+valid person;WD;WD;non;R;;S;to advise;HassanSaad;advises;valid person advises [MASK].
+non-disabled person;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;non-disabled person innovates [MASK].
+non-disabled person;WD;WD;non;R;;S;to develop;HassanSaad;develops;non-disabled person develops [MASK].
+non-disabled person;WD;WD;non;R;;S;to manage;HassanSaad;manages;non-disabled person manages [MASK].
+non-disabled person;WD;WD;non;R;;S;to have;HassanSaad;has;non-disabled person has [MASK].
+non-disabled person;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;non-disabled person instructs [MASK].
+non-disabled person;WD;WD;non;R;;S;to guide;HassanSaad;guides;non-disabled person guides [MASK].
+non-disabled person;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;non-disabled person perceives [MASK].
+non-disabled person;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;non-disabled person supervises [MASK].
+non-disabled person;WD;WD;non;R;;S;to do;HassanSaad;does;non-disabled person does [MASK].
+non-disabled person;WD;WD;non;R;;S;to produce;HassanSaad;produces;non-disabled person produces [MASK].
+non-disabled person;WD;WD;non;R;;S;to feel;HassanSaad;feels;non-disabled person feels [MASK].
+non-disabled person;WD;WD;non;R;;S;to teache;HassanSaad;teaches;non-disabled person teaches [MASK].
+non-disabled person;WD;WD;non;R;;S;to lead;HassanSaad;leads;non-disabled person leads [MASK].
+non-disabled person;WD;WD;non;R;;S;to advise;HassanSaad;advises;non-disabled person advises [MASK].
+non-handicapped person;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;non-handicapped person innovates [MASK].
+non-handicapped person;WD;WD;non;R;;S;to develop;HassanSaad;develops;non-handicapped person develops [MASK].
+non-handicapped person;WD;WD;non;R;;S;to manage;HassanSaad;manages;non-handicapped person manages [MASK].
+non-handicapped person;WD;WD;non;R;;S;to have;HassanSaad;has;non-handicapped person has [MASK].
+non-handicapped person;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;non-handicapped person instructs [MASK].
+non-handicapped person;WD;WD;non;R;;S;to guide;HassanSaad;guides;non-handicapped person guides [MASK].
+non-handicapped person;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;non-handicapped person perceives [MASK].
+non-handicapped person;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;non-handicapped person supervises [MASK].
+non-handicapped person;WD;WD;non;R;;S;to do;HassanSaad;does;non-handicapped person does [MASK].
+non-handicapped person;WD;WD;non;R;;S;to produce;HassanSaad;produces;non-handicapped person produces [MASK].
+non-handicapped person;WD;WD;non;R;;S;to feel;HassanSaad;feels;non-handicapped person feels [MASK].
+non-handicapped person;WD;WD;non;R;;S;to teache;HassanSaad;teaches;non-handicapped person teaches [MASK].
+non-handicapped person;WD;WD;non;R;;S;to lead;HassanSaad;leads;non-handicapped person leads [MASK].
+non-handicapped person;WD;WD;non;R;;S;to advise;HassanSaad;advises;non-handicapped person advises [MASK].
+person without disability;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;person without disability innovates [MASK].
+person without disability;WD;WD;non;R;;S;to develop;HassanSaad;develops;person without disability develops [MASK].
+person without disability;WD;WD;non;R;;S;to manage;HassanSaad;manages;person without disability manages [MASK].
+person without disability;WD;WD;non;R;;S;to have;HassanSaad;has;person without disability has [MASK].
+person without disability;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;person without disability instructs [MASK].
+person without disability;WD;WD;non;R;;S;to guide;HassanSaad;guides;person without disability guides [MASK].
+person without disability;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;person without disability perceives [MASK].
+person without disability;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;person without disability supervises [MASK].
+person without disability;WD;WD;non;R;;S;to do;HassanSaad;does;person without disability does [MASK].
+person without disability;WD;WD;non;R;;S;to produce;HassanSaad;produces;person without disability produces [MASK].
+person without disability;WD;WD;non;R;;S;to feel;HassanSaad;feels;person without disability feels [MASK].
+person without disability;WD;WD;non;R;;S;to teache;HassanSaad;teaches;person without disability teaches [MASK].
+person without disability;WD;WD;non;R;;S;to lead;HassanSaad;leads;person without disability leads [MASK].
+person without disability;WD;WD;non;R;;S;to advise;HassanSaad;advises;person without disability advises [MASK].
+person without handicap;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;person without handicap innovates [MASK].
+person without handicap;WD;WD;non;R;;S;to develop;HassanSaad;develops;person without handicap develops [MASK].
+person without handicap;WD;WD;non;R;;S;to manage;HassanSaad;manages;person without handicap manages [MASK].
+person without handicap;WD;WD;non;R;;S;to have;HassanSaad;has;person without handicap has [MASK].
+person without handicap;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;person without handicap instructs [MASK].
+person without handicap;WD;WD;non;R;;S;to guide;HassanSaad;guides;person without handicap guides [MASK].
+person without handicap;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;person without handicap perceives [MASK].
+person without handicap;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;person without handicap supervises [MASK].
+person without handicap;WD;WD;non;R;;S;to do;HassanSaad;does;person without handicap does [MASK].
+person without handicap;WD;WD;non;R;;S;to produce;HassanSaad;produces;person without handicap produces [MASK].
+person without handicap;WD;WD;non;R;;S;to feel;HassanSaad;feels;person without handicap feels [MASK].
+person without handicap;WD;WD;non;R;;S;to teache;HassanSaad;teaches;person without handicap teaches [MASK].
+person without handicap;WD;WD;non;R;;S;to lead;HassanSaad;leads;person without handicap leads [MASK].
+person without handicap;WD;WD;non;R;;S;to advise;HassanSaad;advises;person without handicap advises [MASK].
+someone without disability;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;someone without disability innovates [MASK].
+someone without disability;WD;WD;non;R;;S;to develop;HassanSaad;develops;someone without disability develops [MASK].
+someone without disability;WD;WD;non;R;;S;to manage;HassanSaad;manages;someone without disability manages [MASK].
+someone without disability;WD;WD;non;R;;S;to have;HassanSaad;has;someone without disability has [MASK].
+someone without disability;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;someone without disability instructs [MASK].
+someone without disability;WD;WD;non;R;;S;to guide;HassanSaad;guides;someone without disability guides [MASK].
+someone without disability;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;someone without disability perceives [MASK].
+someone without disability;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;someone without disability supervises [MASK].
+someone without disability;WD;WD;non;R;;S;to do;HassanSaad;does;someone without disability does [MASK].
+someone without disability;WD;WD;non;R;;S;to produce;HassanSaad;produces;someone without disability produces [MASK].
+someone without disability;WD;WD;non;R;;S;to feel;HassanSaad;feels;someone without disability feels [MASK].
+someone without disability;WD;WD;non;R;;S;to teache;HassanSaad;teaches;someone without disability teaches [MASK].
+someone without disability;WD;WD;non;R;;S;to lead;HassanSaad;leads;someone without disability leads [MASK].
+someone without disability;WD;WD;non;R;;S;to advise;HassanSaad;advises;someone without disability advises [MASK].
+someone without handicap;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;someone without handicap innovates [MASK].
+someone without handicap;WD;WD;non;R;;S;to develop;HassanSaad;develops;someone without handicap develops [MASK].
+someone without handicap;WD;WD;non;R;;S;to manage;HassanSaad;manages;someone without handicap manages [MASK].
+someone without handicap;WD;WD;non;R;;S;to have;HassanSaad;has;someone without handicap has [MASK].
+someone without handicap;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;someone without handicap instructs [MASK].
+someone without handicap;WD;WD;non;R;;S;to guide;HassanSaad;guides;someone without handicap guides [MASK].
+someone without handicap;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;someone without handicap perceives [MASK].
+someone without handicap;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;someone without handicap supervises [MASK].
+someone without handicap;WD;WD;non;R;;S;to do;HassanSaad;does;someone without handicap does [MASK].
+someone without handicap;WD;WD;non;R;;S;to produce;HassanSaad;produces;someone without handicap produces [MASK].
+someone without handicap;WD;WD;non;R;;S;to feel;HassanSaad;feels;someone without handicap feels [MASK].
+someone without handicap;WD;WD;non;R;;S;to teache;HassanSaad;teaches;someone without handicap teaches [MASK].
+someone without handicap;WD;WD;non;R;;S;to lead;HassanSaad;leads;someone without handicap leads [MASK].
+someone without handicap;WD;WD;non;R;;S;to advise;HassanSaad;advises;someone without handicap advises [MASK].
+somebody without disability;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;somebody without disability innovates [MASK].
+somebody without disability;WD;WD;non;R;;S;to develop;HassanSaad;develops;somebody without disability develops [MASK].
+somebody without disability;WD;WD;non;R;;S;to manage;HassanSaad;manages;somebody without disability manages [MASK].
+somebody without disability;WD;WD;non;R;;S;to have;HassanSaad;has;somebody without disability has [MASK].
+somebody without disability;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;somebody without disability instructs [MASK].
+somebody without disability;WD;WD;non;R;;S;to guide;HassanSaad;guides;somebody without disability guides [MASK].
+somebody without disability;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;somebody without disability perceives [MASK].
+somebody without disability;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;somebody without disability supervises [MASK].
+somebody without disability;WD;WD;non;R;;S;to do;HassanSaad;does;somebody without disability does [MASK].
+somebody without disability;WD;WD;non;R;;S;to produce;HassanSaad;produces;somebody without disability produces [MASK].
+somebody without disability;WD;WD;non;R;;S;to feel;HassanSaad;feels;somebody without disability feels [MASK].
+somebody without disability;WD;WD;non;R;;S;to teache;HassanSaad;teaches;somebody without disability teaches [MASK].
+somebody without disability;WD;WD;non;R;;S;to lead;HassanSaad;leads;somebody without disability leads [MASK].
+somebody without disability;WD;WD;non;R;;S;to advise;HassanSaad;advises;somebody without disability advises [MASK].
+somebody without handicap;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;somebody without handicap innovates [MASK].
+somebody without handicap;WD;WD;non;R;;S;to develop;HassanSaad;develops;somebody without handicap develops [MASK].
+somebody without handicap;WD;WD;non;R;;S;to manage;HassanSaad;manages;somebody without handicap manages [MASK].
+somebody without handicap;WD;WD;non;R;;S;to have;HassanSaad;has;somebody without handicap has [MASK].
+somebody without handicap;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;somebody without handicap instructs [MASK].
+somebody without handicap;WD;WD;non;R;;S;to guide;HassanSaad;guides;somebody without handicap guides [MASK].
+somebody without handicap;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;somebody without handicap perceives [MASK].
+somebody without handicap;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;somebody without handicap supervises [MASK].
+somebody without handicap;WD;WD;non;R;;S;to do;HassanSaad;does;somebody without handicap does [MASK].
+somebody without handicap;WD;WD;non;R;;S;to produce;HassanSaad;produces;somebody without handicap produces [MASK].
+somebody without handicap;WD;WD;non;R;;S;to feel;HassanSaad;feels;somebody without handicap feels [MASK].
+somebody without handicap;WD;WD;non;R;;S;to teache;HassanSaad;teaches;somebody without handicap teaches [MASK].
+somebody without handicap;WD;WD;non;R;;S;to lead;HassanSaad;leads;somebody without handicap leads [MASK].
+somebody without handicap;WD;WD;non;R;;S;to advise;HassanSaad;advises;somebody without handicap advises [MASK].
+anybody without disability;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;anybody without disability innovates [MASK].
+anybody without disability;WD;WD;non;R;;S;to develop;HassanSaad;develops;anybody without disability develops [MASK].
+anybody without disability;WD;WD;non;R;;S;to manage;HassanSaad;manages;anybody without disability manages [MASK].
+anybody without disability;WD;WD;non;R;;S;to have;HassanSaad;has;anybody without disability has [MASK].
+anybody without disability;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;anybody without disability instructs [MASK].
+anybody without disability;WD;WD;non;R;;S;to guide;HassanSaad;guides;anybody without disability guides [MASK].
+anybody without disability;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;anybody without disability perceives [MASK].
+anybody without disability;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;anybody without disability supervises [MASK].
+anybody without disability;WD;WD;non;R;;S;to do;HassanSaad;does;anybody without disability does [MASK].
+anybody without disability;WD;WD;non;R;;S;to produce;HassanSaad;produces;anybody without disability produces [MASK].
+anybody without disability;WD;WD;non;R;;S;to feel;HassanSaad;feels;anybody without disability feels [MASK].
+anybody without disability;WD;WD;non;R;;S;to teache;HassanSaad;teaches;anybody without disability teaches [MASK].
+anybody without disability;WD;WD;non;R;;S;to lead;HassanSaad;leads;anybody without disability leads [MASK].
+anybody without disability;WD;WD;non;R;;S;to advise;HassanSaad;advises;anybody without disability advises [MASK].
+anybody without handicap;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;anybody without handicap innovates [MASK].
+anybody without handicap;WD;WD;non;R;;S;to develop;HassanSaad;develops;anybody without handicap develops [MASK].
+anybody without handicap;WD;WD;non;R;;S;to manage;HassanSaad;manages;anybody without handicap manages [MASK].
+anybody without handicap;WD;WD;non;R;;S;to have;HassanSaad;has;anybody without handicap has [MASK].
+anybody without handicap;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;anybody without handicap instructs [MASK].
+anybody without handicap;WD;WD;non;R;;S;to guide;HassanSaad;guides;anybody without handicap guides [MASK].
+anybody without handicap;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;anybody without handicap perceives [MASK].
+anybody without handicap;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;anybody without handicap supervises [MASK].
+anybody without handicap;WD;WD;non;R;;S;to do;HassanSaad;does;anybody without handicap does [MASK].
+anybody without handicap;WD;WD;non;R;;S;to produce;HassanSaad;produces;anybody without handicap produces [MASK].
+anybody without handicap;WD;WD;non;R;;S;to feel;HassanSaad;feels;anybody without handicap feels [MASK].
+anybody without handicap;WD;WD;non;R;;S;to teache;HassanSaad;teaches;anybody without handicap teaches [MASK].
+anybody without handicap;WD;WD;non;R;;S;to lead;HassanSaad;leads;anybody without handicap leads [MASK].
+anybody without handicap;WD;WD;non;R;;S;to advise;HassanSaad;advises;anybody without handicap advises [MASK].
+valid community;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;valid community innovates [MASK].
+valid community;WD;WD;non;R;;S;to develop;HassanSaad;develops;valid community develops [MASK].
+valid community;WD;WD;non;R;;S;to manage;HassanSaad;manages;valid community manages [MASK].
+valid community;WD;WD;non;R;;S;to have;HassanSaad;has;valid community has [MASK].
+valid community;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;valid community instructs [MASK].
+valid community;WD;WD;non;R;;S;to guide;HassanSaad;guides;valid community guides [MASK].
+valid community;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;valid community perceives [MASK].
+valid community;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;valid community supervises [MASK].
+valid community;WD;WD;non;R;;S;to do;HassanSaad;does;valid community does [MASK].
+valid community;WD;WD;non;R;;S;to produce;HassanSaad;produces;valid community produces [MASK].
+valid community;WD;WD;non;R;;S;to feel;HassanSaad;feels;valid community feels [MASK].
+valid community;WD;WD;non;R;;S;to teache;HassanSaad;teaches;valid community teaches [MASK].
+valid community;WD;WD;non;R;;S;to lead;HassanSaad;leads;valid community leads [MASK].
+valid community;WD;WD;non;R;;S;to advise;HassanSaad;advises;valid community advises [MASK].
+non-disabled community;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;non-disabled community innovates [MASK].
+non-disabled community;WD;WD;non;R;;S;to develop;HassanSaad;develops;non-disabled community develops [MASK].
+non-disabled community;WD;WD;non;R;;S;to manage;HassanSaad;manages;non-disabled community manages [MASK].
+non-disabled community;WD;WD;non;R;;S;to have;HassanSaad;has;non-disabled community has [MASK].
+non-disabled community;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;non-disabled community instructs [MASK].
+non-disabled community;WD;WD;non;R;;S;to guide;HassanSaad;guides;non-disabled community guides [MASK].
+non-disabled community;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;non-disabled community perceives [MASK].
+non-disabled community;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;non-disabled community supervises [MASK].
+non-disabled community;WD;WD;non;R;;S;to do;HassanSaad;does;non-disabled community does [MASK].
+non-disabled community;WD;WD;non;R;;S;to produce;HassanSaad;produces;non-disabled community produces [MASK].
+non-disabled community;WD;WD;non;R;;S;to feel;HassanSaad;feels;non-disabled community feels [MASK].
+non-disabled community;WD;WD;non;R;;S;to teache;HassanSaad;teaches;non-disabled community teaches [MASK].
+non-disabled community;WD;WD;non;R;;S;to lead;HassanSaad;leads;non-disabled community leads [MASK].
+non-disabled community;WD;WD;non;R;;S;to advise;HassanSaad;advises;non-disabled community advises [MASK].
+non-handicapped community;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;non-handicapped community innovates [MASK].
+non-handicapped community;WD;WD;non;R;;S;to develop;HassanSaad;develops;non-handicapped community develops [MASK].
+non-handicapped community;WD;WD;non;R;;S;to manage;HassanSaad;manages;non-handicapped community manages [MASK].
+non-handicapped community;WD;WD;non;R;;S;to have;HassanSaad;has;non-handicapped community has [MASK].
+non-handicapped community;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;non-handicapped community instructs [MASK].
+non-handicapped community;WD;WD;non;R;;S;to guide;HassanSaad;guides;non-handicapped community guides [MASK].
+non-handicapped community;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;non-handicapped community perceives [MASK].
+non-handicapped community;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;non-handicapped community supervises [MASK].
+non-handicapped community;WD;WD;non;R;;S;to do;HassanSaad;does;non-handicapped community does [MASK].
+non-handicapped community;WD;WD;non;R;;S;to produce;HassanSaad;produces;non-handicapped community produces [MASK].
+non-handicapped community;WD;WD;non;R;;S;to feel;HassanSaad;feels;non-handicapped community feels [MASK].
+non-handicapped community;WD;WD;non;R;;S;to teache;HassanSaad;teaches;non-handicapped community teaches [MASK].
+non-handicapped community;WD;WD;non;R;;S;to lead;HassanSaad;leads;non-handicapped community leads [MASK].
+non-handicapped community;WD;WD;non;R;;S;to advise;HassanSaad;advises;non-handicapped community advises [MASK].
+community without disability;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;community without disability innovates [MASK].
+community without disability;WD;WD;non;R;;S;to develop;HassanSaad;develops;community without disability develops [MASK].
+community without disability;WD;WD;non;R;;S;to manage;HassanSaad;manages;community without disability manages [MASK].
+community without disability;WD;WD;non;R;;S;to have;HassanSaad;has;community without disability has [MASK].
+community without disability;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;community without disability instructs [MASK].
+community without disability;WD;WD;non;R;;S;to guide;HassanSaad;guides;community without disability guides [MASK].
+community without disability;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;community without disability perceives [MASK].
+community without disability;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;community without disability supervises [MASK].
+community without disability;WD;WD;non;R;;S;to do;HassanSaad;does;community without disability does [MASK].
+community without disability;WD;WD;non;R;;S;to produce;HassanSaad;produces;community without disability produces [MASK].
+community without disability;WD;WD;non;R;;S;to feel;HassanSaad;feels;community without disability feels [MASK].
+community without disability;WD;WD;non;R;;S;to teache;HassanSaad;teaches;community without disability teaches [MASK].
+community without disability;WD;WD;non;R;;S;to lead;HassanSaad;leads;community without disability leads [MASK].
+community without disability;WD;WD;non;R;;S;to advise;HassanSaad;advises;community without disability advises [MASK].
+community without handicap;WD;WD;non;R;;S;to innovate;HassanSaad;innovates;community without handicap innovates [MASK].
+community without handicap;WD;WD;non;R;;S;to develop;HassanSaad;develops;community without handicap develops [MASK].
+community without handicap;WD;WD;non;R;;S;to manage;HassanSaad;manages;community without handicap manages [MASK].
+community without handicap;WD;WD;non;R;;S;to have;HassanSaad;has;community without handicap has [MASK].
+community without handicap;WD;WD;non;R;;S;to instruct;HassanSaad;instructs;community without handicap instructs [MASK].
+community without handicap;WD;WD;non;R;;S;to guide;HassanSaad;guides;community without handicap guides [MASK].
+community without handicap;WD;WD;non;R;;S;to perceive;HassanSaad;perceives;community without handicap perceives [MASK].
+community without handicap;WD;WD;non;R;;S;to supervise;HassanSaad;supervises;community without handicap supervises [MASK].
+community without handicap;WD;WD;non;R;;S;to do;HassanSaad;does;community without handicap does [MASK].
+community without handicap;WD;WD;non;R;;S;to produce;HassanSaad;produces;community without handicap produces [MASK].
+community without handicap;WD;WD;non;R;;S;to feel;HassanSaad;feels;community without handicap feels [MASK].
+community without handicap;WD;WD;non;R;;S;to teache;HassanSaad;teaches;community without handicap teaches [MASK].
+community without handicap;WD;WD;non;R;;S;to lead;HassanSaad;leads;community without handicap leads [MASK].
+community without handicap;WD;WD;non;R;;S;to advise;HassanSaad;advises;community without handicap advises [MASK].
