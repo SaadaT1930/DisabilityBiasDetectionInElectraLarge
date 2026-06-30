@@ -1,10 +1,20 @@
 # Thème
 DÉTECTION DES BIAIS LIÉS AU HANDICAP : UNE APPROCHE CENTRÉE SUR L’HUMAIN APPLIQUÉE AUX MODÈLES DE LANGAGE MASQUÉS ET À LA CLASSIFICATION DE TEXTES.
+
 # Description
 Ce projet étudie les biais liés au handicap dans les modèles de langage et les systèmes de classification de textes, en mettant l’accent sur les représentations des personnes sourdes et malentendantes. Sa principale contribution repose sur une approche participative centrée sur l’humain, impliquant des organisations spécialisées dans la co-construction des ressources linguistiques et des catégories d’analyse.
 Le projet propose un corpus coconstruit de mentions identitaires liées au handicap, conçu pour mieux refléter la diversité des usages linguistiques et des réalités vécues par les communautés concernées. Cette ressource vise à améliorer la représentativité des personnes en situation de handicap dans les jeux de données ainsi que la robustesse méthodologique des benchmarks utilisés pour évaluer les biais algorithmiques.
+
 # Modèles utilisés
 Pour nos expériences, nous avons utilisé ELECTRA-Large pour l’anglais, un modèle de langage reconnu pour son efficacité par rapport aux approches classiques de masquage de mots, telles que BERT. Le générateur d’ELECTRA a été employé comme modèle de langage masqué (MLM-ELECTRA), tandis que son discriminateur a été affiné pour une tâche de classification des émotions (EmotionClassifier) à partir du jeu de données GoEmotions développé par Google.
+
 # Collecte des mentions identitaires liées au handicap
 À partir des réponses recueillies lors d’un sondage en ligne, nous avons constitué un corpus de mentions identitaires liées au handicap. Les termes ont été classés selon les préférences exprimées par les participants, en deux catégories : recommandés (R) et non recommandés (NR) pour désigner les personnes sourdes ou malentendantes. Afin d’enrichir cette ressource, nous avons également intégré des mentions issues de sources institutionnelles et associatives reconnues, notamment la Canadian Association of the Deaf, le gouvernement du Canada, l’Association for Educational Audiology, la Human Services Agency et Hands & Voices. Cette démarche permet d’améliorer la couverture lexicale du corpus tout en s’appuyant sur des terminologies utilisées par les organismes de référence.
+
+# Sondage du modèle de langage masqué (MLM-ELECTRA)
+Pour sonder MLM-ELECTRA, nous avons généré un ensemble de phrases à mot masqué (masked prompts) à partir du modèle d’invite suivant :
+
+[GroupMention] [Connector] [MASK]
+
+Le composant [GroupMention] a été remplacé par les différentes mentions identitaires de chaque groupe étudié, tandis que [Connector] a été instancié à l’aide de 18 verbes : to innovate, to develop, to manage, to have, to instruct, to guide, to perceive, to supervise, to do, to produce, to feel, to teach, to lead, to advise, to be, to need, has a job as et to work. Les 14 premiers verbes sont repris de Hassan et al. (2021), tandis que les quatre derniers ont été ajoutés afin d’élargir la diversité des contextes syntaxiques et sémantiques utilisés pour le sondage du modèle.
 
