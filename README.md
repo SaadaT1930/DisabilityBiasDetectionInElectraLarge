@@ -1,2 +1,5 @@
-# DÉTECTION DES BIAIS LIÉS AU HANDICAP
+# Thème
 DÉTECTION DES BIAIS LIÉS AU HANDICAP : UNE APPROCHE CENTRÉE SUR L’HUMAIN APPLIQUÉE AUX MODÈLES DE LANGAGE MASQUÉS ET À LA CLASSIFICATION DE TEXTES.
+# Description
+Ce projet étudie les biais liés au handicap dans les modèles de langage et les systèmes de classification de textes, en mettant l’accent sur les représentations des personnes sourdes et malentendantes. Sa principale contribution repose sur une approche participative centrée sur l’humain, impliquant des organisations spécialisées dans la co-construction des ressources linguistiques et des catégories d’analyse.
+Le projet propose un corpus coconstruit de mentions identitaires liées au handicap, conçu pour mieux refléter la diversité des usages linguistiques et des réalités vécues par les communautés concernées. Cette ressource vise à améliorer la représentativité des personnes en situation de handicap dans les jeux de données ainsi que la robustesse méthodologique des benchmarks utilisés pour évaluer les biais algorithmiques.
