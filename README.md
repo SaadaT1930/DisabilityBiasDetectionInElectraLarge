@@ -19,4 +19,12 @@ Le composant [GroupMention] a été remplacé par les différentes mentions iden
 <img width="317" height="81" alt="image" src="https://github.com/user-attachments/assets/311e20af-b83c-4430-bcce-0cdfb9b29147" />
 # Évaluation de MLM-ELECTRA et d'EmotionClassifier
 Pour évaluer les biais liés au handicap dans MLM-ELECTRA et EmotionClassifier, nous avons utilisé les métriques d’équité contrefactuelle proposées par Prabhakaran et al. (2019). Cette approche consiste à comparer les prédictions du modèle sur plusieurs versions d’une même phrase, qui ne diffèrent que par la mention identitaire utilisée. Les deux modèles ont été évalués à l’aide des métriques ScoreSens, ScoreDev et ScoreRange. En complément, EmotionClassifier a également été évalué avec la métrique LabDist, afin de mesurer les variations dans la distribution des étiquettes émotionnelles selon les différentes mentions identitaires.
+# Contenu du dépôt
+Ce dépôt contient les ressources et les scripts utilisés dans le cadre de cette étude, notamment :
 
+- Les mentions de handicap classées par catégorie.
+- Les mentions identitaires combinées.
+- Les phrases requêtes (prompts) utilisées pour sonder le modèle MLM-ELECTRA.
+- Les scripts Python utilisés pour la génération des données, les expériences et l’évaluation.
+- Les prédictions de MLM-ELECTRA.
+- Les prédictions d’EmotionClassifier.
