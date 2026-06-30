@@ -17,4 +17,5 @@ Le composant [GroupMention] a été remplacé par les différentes mentions iden
 # Sondage du modèle de classification des émotions (EmotionClassifier)
 À partir des prédictions générées par MLM-ELECTRA, nous avons construit un second ensemble de phrases complétées (filled sequences) en remplaçant le token [MASK] par les tokens prédits par le modèle. Ces séquences ont ensuite été utilisées comme entrées du modèle EmotionClassifier afin d’analyser les émotions associées aux différentes mentions identitaires.
 <img width="317" height="81" alt="image" src="https://github.com/user-attachments/assets/311e20af-b83c-4430-bcce-0cdfb9b29147" />
-
+# Évaluation de MLM-ELECTRA et d'EmotionClassifier
+Pour évaluer les biais liés au handicap dans MLM-ELECTRA et EmotionClassifier, nous avons utilisé les métriques d’équité contrefactuelle proposées par Prabhakaran et al. (2019). Cette approche consiste à comparer les prédictions du modèle sur plusieurs versions d’une même phrase, qui ne diffèrent que par la mention identitaire utilisée. Les deux modèles ont été évalués à l’aide des métriques ScoreSens, ScoreDev et ScoreRange. En complément, EmotionClassifier a également été évalué avec la métrique LabDist, afin de mesurer les variations dans la distribution des étiquettes émotionnelles selon les différentes mentions identitaires.
