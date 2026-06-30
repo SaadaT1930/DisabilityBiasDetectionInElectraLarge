@@ -13,6 +13,8 @@ Pour sonder MLM-ELECTRA, nous avons généré un ensemble de phrases à mot masq
 [GroupMention] [Connector] [MASK]
 
 Le composant [GroupMention] a été remplacé par les différentes mentions identitaires de chaque groupe étudié, tandis que [Connector] a été instancié à l’aide de 18 verbes : to innovate, to develop, to manage, to have, to instruct, to guide, to perceive, to supervise, to do, to produce, to feel, to teach, to lead, to advise, to be, to need, has a job as et to work. Les 14 premiers verbes sont repris de Hassan et al. (2021), tandis que les quatre derniers ont été ajoutés afin d’élargir la diversité des contextes syntaxiques et sémantiques utilisés pour le sondage du modèle.
-                                      <img width="320" height="69" alt="image" src="https://github.com/user-attachments/assets/eb11995c-1607-478f-a38b-cc61a084ba04" />
-
+<img width="320" height="69" alt="image" src="https://github.com/user-attachments/assets/eb11995c-1607-478f-a38b-cc61a084ba04" />
+# Sondage du modèle de classification des émotions (EmotionClassifier)
+À partir des prédictions générées par MLM-ELECTRA, nous avons construit un second ensemble de phrases complétées (filled sequences) en remplaçant le token [MASK] par les tokens prédits par le modèle. Ces séquences ont ensuite été utilisées comme entrées du modèle EmotionClassifier afin d’analyser les émotions associées aux différentes mentions identitaires.
+<img width="317" height="81" alt="image" src="https://github.com/user-attachments/assets/311e20af-b83c-4430-bcce-0cdfb9b29147" />
 
